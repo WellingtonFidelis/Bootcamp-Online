@@ -16,6 +16,7 @@ function start() {
   rangeRedValues.addEventListener('input', handleRangeRedValues);
   rangeGreenValues.addEventListener('input', handleRangeGreenValues);
   rangeBlueValues.addEventListener('input', handleRangeBlueValues);
+  setColorRGB();
 }
 
 function handleRangeRedValues(event) {
