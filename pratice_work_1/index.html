@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Pratice Work 1</title>
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div class="container">
+        <form action="">
+          <div class="col">
+            <!-- line for red color -->
+            <div class="form-group row">
+              <label for="labelNameRed" class="col-sm-2 col-form-label">
+                (R) Red
+              </label>
+              <div class="col-sm-6">
+                <input
+                  type="range"
+                  name="rangeRedValues"
+                  id="rangeRedValues"
+                  class="form-control-plaintext"
+                  min="0"
+                  max="255"
+                  step="1"
+                  readonly
+                />
+              </div>
+              <div class="col-sm-2">
+                <input
+                  type="text"
+                  name="inputRedValues"
+                  id="inputRedValues"
+                  class="inputValue"
+                  readonly
+                  disabled
+                />
+              </div>
+            </div>
+            <!-- line for green color -->
+            <div class="form-group row">
+              <label for="labelNameGreen" class="col-sm-2 col-form-label">
+                (G) Green
+              </label>
+              <div class="col-sm-6">
+                <input
+                  type="range"
+                  name="rangeGreenValues"
+                  id="rangeGreenValues"
+                  class="form-control-plaintext"
+                  min="0"
+                  max="255"
+                  step="1"
+                  readonly
+                />
+              </div>
+              <div class="col-sm-2">
+                <input
+                  type="text"
+                  name="inputGreenValues"
+                  id="inputGreenValues"
+                  class="inputValue"
+                  readonly
+                  disabled
+                />
+              </div>
+            </div>
+            <!-- line for blue color -->
+            <div class="form-group row">
+              <label for="labelNameBlue" class="col-sm-2 col-form-label">
+                (B) Blue
+              </label>
+              <div class="col-sm-6">
+                <input
+                  type="range"
+                  name="rangeBlueValues"
+                  id="rangeBlueValues"
+                  class="form-control-plaintext"
+                  min="0"
+                  max="255"
+                  step="1"
+                  readonly
+                />
+              </div>
+              <div class="col-sm-2">
+                <input
+                  type="text"
+                  name="inputBlueValues"
+                  id="inputBlueValues"
+                  class="inputValue"
+                  readonly
+                  disabled
+                />
+              </div>
+            </div>
+          </div>
+        </form>
+        <div class="">
+          <span id="spanSquareColor" class="">oi</span>
+        </div>
+      </div>
+    </main>
+    <footer></footer>
+    <script type="text/javascript" src="./js/script.js"></script>
+    <!-- <script defer type="typescript" src="./ts/typescript.ts"></script> -->
+  </body>
+</html>

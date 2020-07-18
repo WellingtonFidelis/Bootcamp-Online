@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  padding: 50px;
+
+  background-color: tomato;
+}
+
+.inputValue {
+  text-align: center;
+  align-items: center;
+}
+
+#spanSquareColor {
+  text-align: center;
+  background-color: rgb(136, 43, 43);
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
