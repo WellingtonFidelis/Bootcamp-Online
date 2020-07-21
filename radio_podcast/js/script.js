@@ -1,14 +1,22 @@
 // utilizei o defer no script
 //window.addEventListener('load', start);
 
+// faz com que o Javascript encontre mais erros
+'use strict';
+
 var inputCurrentFrequency = document.querySelector('#inputCurrentFrequency');
 var rangeFrequencies = document.querySelector('#rangeFrequencies');
 var divPodcast = document.querySelector('#divPodcast');
 
-function start() {
+/* function start() {
   console.log('DOM carregado');
   rangeFrequencies.addEventListener('input', handleRangeValueChange);
-}
+} */
+
+const start = () => {
+  console.log('DOM carregado');
+  rangeFrequencies.addEventListener('input', handleRangeValueChange);
+};
 
 function handleRangeValueChange(event) {
   var currentFrequency = event.target.value;
@@ -21,7 +29,7 @@ function handleRangeValueChange(event) {
 function findPodcastFrom(frequency) {
   var foundPodcast = null;
   //console.log(realPodcasts);
-  for (i = 0; i < realPodcasts.length; i++) {
+  for (var i = 0; i < realPodcasts.length; i++) {
     var currentPodcast = realPodcasts[i];
 
     if (currentPodcast.id === frequency) {
@@ -35,22 +43,25 @@ function findPodcastFrom(frequency) {
     renderPodcast(foundPodcast);
     //divPodcast.innerHTML = '<p> Podcast encontrado. </p>';
   } else {
-    divPodcast.innerHTML = '<p> Nenhum podcast encontrado. </p>';
+    divPodcast.innerHTML = `<p> Nenhum podcast encontrado. </p>`;
   }
 }
 
-function renderPodcast() {
+function renderPodcast(podcast) {
   divPodcast.innerHTML = '';
 
   var img = document.createElement('img');
-  img.src = './img/' + podcast.img;
-  img.alt = 'Podcast' + podcast.title;
-  img.title = 'Podcast' + podcast.title;
+  //img.src = './img/' + podcast.img;
+  img.src = `./img/${podcast.img}`;
+  //img.alt = 'Podcast' + podcast.title;
+  img.alt = `Podcast ${podcast.title}`;
+  //img.title = 'Podcast' + podcast.title;
+  img.title = `Podcast ${podcast.title}`;
 
   var title = document.createElement('h2');
   title.textContent = podcast.title;
 
-  var description = document.createElement('h2');
+  var description = document.createElement('p2');
   description.textContent = podcast.description;
 
   divPodcast.appendChild(img);
