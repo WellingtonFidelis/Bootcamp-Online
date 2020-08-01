@@ -1,0 +1,12 @@
+{
+  "name": "brasileirao",
+  "version": "1.0.0",
+  "description": "aula-31-07-2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WellingtonFidelis",
+  "license": "ISC",
+  "type": "module"
+}
