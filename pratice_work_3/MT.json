@@ -1,0 +1,707 @@
+[
+  {
+    "idState": "13",
+    "idCity": "1346",
+    "nameCity": "Acorizal"
+  },
+  {
+    "idState": "13",
+    "idCity": "1347",
+    "nameCity": "Água Boa"
+  },
+  {
+    "idState": "13",
+    "idCity": "1348",
+    "nameCity": "Alta Floresta"
+  },
+  {
+    "idState": "13",
+    "idCity": "1349",
+    "nameCity": "Alto Araguaia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1350",
+    "nameCity": "Alto Boa Vista"
+  },
+  {
+    "idState": "13",
+    "idCity": "1351",
+    "nameCity": "Alto Garças"
+  },
+  {
+    "idState": "13",
+    "idCity": "1352",
+    "nameCity": "Alto Paraguai"
+  },
+  {
+    "idState": "13",
+    "idCity": "1353",
+    "nameCity": "Alto Taquari"
+  },
+  {
+    "idState": "13",
+    "idCity": "1354",
+    "nameCity": "Apiacás"
+  },
+  {
+    "idState": "13",
+    "idCity": "1355",
+    "nameCity": "Araguaiana"
+  },
+  {
+    "idState": "13",
+    "idCity": "1356",
+    "nameCity": "Araguainha"
+  },
+  {
+    "idState": "13",
+    "idCity": "1357",
+    "nameCity": "Araputanga"
+  },
+  {
+    "idState": "13",
+    "idCity": "1358",
+    "nameCity": "Arenápolis"
+  },
+  {
+    "idState": "13",
+    "idCity": "1359",
+    "nameCity": "Aripuanã"
+  },
+  {
+    "idState": "13",
+    "idCity": "1360",
+    "nameCity": "Barão de Melgaço"
+  },
+  {
+    "idState": "13",
+    "idCity": "1361",
+    "nameCity": "Barra do Bugres"
+  },
+  {
+    "idState": "13",
+    "idCity": "1362",
+    "nameCity": "Barra do Garças"
+  },
+  {
+    "idState": "13",
+    "idCity": "1363",
+    "nameCity": "Bom Jesus do Araguaia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1364",
+    "nameCity": "Brasnorte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1365",
+    "nameCity": "Cáceres"
+  },
+  {
+    "idState": "13",
+    "idCity": "1366",
+    "nameCity": "Campinápolis"
+  },
+  {
+    "idState": "13",
+    "idCity": "1367",
+    "nameCity": "Campo Novo do Parecis"
+  },
+  {
+    "idState": "13",
+    "idCity": "1368",
+    "nameCity": "Campo Verde"
+  },
+  {
+    "idState": "13",
+    "idCity": "1369",
+    "nameCity": "Campos de Júlio"
+  },
+  {
+    "idState": "13",
+    "idCity": "1370",
+    "nameCity": "Canabrava do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1371",
+    "nameCity": "Canarana"
+  },
+  {
+    "idState": "13",
+    "idCity": "1372",
+    "nameCity": "Carlinda"
+  },
+  {
+    "idState": "13",
+    "idCity": "1373",
+    "nameCity": "Castanheira"
+  },
+  {
+    "idState": "13",
+    "idCity": "1374",
+    "nameCity": "Chapada dos Guimarães"
+  },
+  {
+    "idState": "13",
+    "idCity": "1375",
+    "nameCity": "Cláudia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1376",
+    "nameCity": "Cocalinho"
+  },
+  {
+    "idState": "13",
+    "idCity": "1377",
+    "nameCity": "Colíder"
+  },
+  {
+    "idState": "13",
+    "idCity": "1378",
+    "nameCity": "Colniza"
+  },
+  {
+    "idState": "13",
+    "idCity": "1379",
+    "nameCity": "Comodoro"
+  },
+  {
+    "idState": "13",
+    "idCity": "1380",
+    "nameCity": "Confresa"
+  },
+  {
+    "idState": "13",
+    "idCity": "1381",
+    "nameCity": "Conquista d`Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1382",
+    "nameCity": "Cotriguaçu"
+  },
+  {
+    "idState": "13",
+    "idCity": "1383",
+    "nameCity": "Cuiabá"
+  },
+  {
+    "idState": "13",
+    "idCity": "1384",
+    "nameCity": "Curvelândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1385",
+    "nameCity": "Curvelândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1386",
+    "nameCity": "Denise"
+  },
+  {
+    "idState": "13",
+    "idCity": "1387",
+    "nameCity": "Diamantino"
+  },
+  {
+    "idState": "13",
+    "idCity": "1388",
+    "nameCity": "Dom Aquino"
+  },
+  {
+    "idState": "13",
+    "idCity": "1389",
+    "nameCity": "Feliz Natal"
+  },
+  {
+    "idState": "13",
+    "idCity": "1390",
+    "nameCity": "Figueirópolis d`Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1391",
+    "nameCity": "Gaúcha do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1392",
+    "nameCity": "General Carneiro"
+  },
+  {
+    "idState": "13",
+    "idCity": "1393",
+    "nameCity": "Glória d`Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1394",
+    "nameCity": "Guarantã do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1395",
+    "nameCity": "Guiratinga"
+  },
+  {
+    "idState": "13",
+    "idCity": "1396",
+    "nameCity": "Indiavaí"
+  },
+  {
+    "idState": "13",
+    "idCity": "1397",
+    "nameCity": "Ipiranga do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1398",
+    "nameCity": "Itanhangá"
+  },
+  {
+    "idState": "13",
+    "idCity": "1399",
+    "nameCity": "Itaúba"
+  },
+  {
+    "idState": "13",
+    "idCity": "1400",
+    "nameCity": "Itiquira"
+  },
+  {
+    "idState": "13",
+    "idCity": "1401",
+    "nameCity": "Jaciara"
+  },
+  {
+    "idState": "13",
+    "idCity": "1402",
+    "nameCity": "Jangada"
+  },
+  {
+    "idState": "13",
+    "idCity": "1403",
+    "nameCity": "Jauru"
+  },
+  {
+    "idState": "13",
+    "idCity": "1404",
+    "nameCity": "Juara"
+  },
+  {
+    "idState": "13",
+    "idCity": "1405",
+    "nameCity": "Juína"
+  },
+  {
+    "idState": "13",
+    "idCity": "1406",
+    "nameCity": "Juruena"
+  },
+  {
+    "idState": "13",
+    "idCity": "1407",
+    "nameCity": "Juscimeira"
+  },
+  {
+    "idState": "13",
+    "idCity": "1408",
+    "nameCity": "Lambari d`Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1409",
+    "nameCity": "Lucas do Rio Verde"
+  },
+  {
+    "idState": "13",
+    "idCity": "1410",
+    "nameCity": "Luciára"
+  },
+  {
+    "idState": "13",
+    "idCity": "1411",
+    "nameCity": "Marcelândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1412",
+    "nameCity": "Matupá"
+  },
+  {
+    "idState": "13",
+    "idCity": "1413",
+    "nameCity": "Mirassol d`Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1414",
+    "nameCity": "Nobres"
+  },
+  {
+    "idState": "13",
+    "idCity": "1415",
+    "nameCity": "Nortelândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1416",
+    "nameCity": "Nossa Senhora do Livramento"
+  },
+  {
+    "idState": "13",
+    "idCity": "1417",
+    "nameCity": "Nova Bandeirantes"
+  },
+  {
+    "idState": "13",
+    "idCity": "1418",
+    "nameCity": "Nova Brasilândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1419",
+    "nameCity": "Nova Canaã do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1420",
+    "nameCity": "Nova Guarita"
+  },
+  {
+    "idState": "13",
+    "idCity": "1421",
+    "nameCity": "Nova Lacerda"
+  },
+  {
+    "idState": "13",
+    "idCity": "1422",
+    "nameCity": "Nova Marilândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1423",
+    "nameCity": "Nova Maringá"
+  },
+  {
+    "idState": "13",
+    "idCity": "1424",
+    "nameCity": "Nova Monte verde"
+  },
+  {
+    "idState": "13",
+    "idCity": "1425",
+    "nameCity": "Nova Mutum"
+  },
+  {
+    "idState": "13",
+    "idCity": "1426",
+    "nameCity": "Nova Olímpia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1427",
+    "nameCity": "Nova Santa Helena"
+  },
+  {
+    "idState": "13",
+    "idCity": "1428",
+    "nameCity": "Nova Ubiratã"
+  },
+  {
+    "idState": "13",
+    "idCity": "1429",
+    "nameCity": "Nova Xavantina"
+  },
+  {
+    "idState": "13",
+    "idCity": "1430",
+    "nameCity": "Novo Horizonte do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1431",
+    "nameCity": "Novo Mundo"
+  },
+  {
+    "idState": "13",
+    "idCity": "1432",
+    "nameCity": "Novo Santo Antônio"
+  },
+  {
+    "idState": "13",
+    "idCity": "1433",
+    "nameCity": "Novo São Joaquim"
+  },
+  {
+    "idState": "13",
+    "idCity": "1434",
+    "nameCity": "Paranaíta"
+  },
+  {
+    "idState": "13",
+    "idCity": "1435",
+    "nameCity": "Paranatinga"
+  },
+  {
+    "idState": "13",
+    "idCity": "1436",
+    "nameCity": "Pedra Preta"
+  },
+  {
+    "idState": "13",
+    "idCity": "1437",
+    "nameCity": "Peixoto de Azevedo"
+  },
+  {
+    "idState": "13",
+    "idCity": "1438",
+    "nameCity": "Planalto da Serra"
+  },
+  {
+    "idState": "13",
+    "idCity": "1439",
+    "nameCity": "Poconé"
+  },
+  {
+    "idState": "13",
+    "idCity": "1440",
+    "nameCity": "Pontal do Araguaia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1441",
+    "nameCity": "Ponte Branca"
+  },
+  {
+    "idState": "13",
+    "idCity": "1442",
+    "nameCity": "Pontes e Lacerda"
+  },
+  {
+    "idState": "13",
+    "idCity": "1443",
+    "nameCity": "Porto Alegre do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1444",
+    "nameCity": "Porto dos Gaúchos"
+  },
+  {
+    "idState": "13",
+    "idCity": "1445",
+    "nameCity": "Porto Esperidião"
+  },
+  {
+    "idState": "13",
+    "idCity": "1446",
+    "nameCity": "Porto Estrela"
+  },
+  {
+    "idState": "13",
+    "idCity": "1447",
+    "nameCity": "Poxoréo"
+  },
+  {
+    "idState": "13",
+    "idCity": "1448",
+    "nameCity": "Primavera do Leste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1449",
+    "nameCity": "Querência"
+  },
+  {
+    "idState": "13",
+    "idCity": "1450",
+    "nameCity": "Reserva do Cabaçal"
+  },
+  {
+    "idState": "13",
+    "idCity": "1451",
+    "nameCity": "Ribeirão Cascalheira"
+  },
+  {
+    "idState": "13",
+    "idCity": "1452",
+    "nameCity": "Ribeirãozinho"
+  },
+  {
+    "idState": "13",
+    "idCity": "1453",
+    "nameCity": "Rio Branco"
+  },
+  {
+    "idState": "13",
+    "idCity": "1454",
+    "nameCity": "Rondolândia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1455",
+    "nameCity": "Rondonópolis"
+  },
+  {
+    "idState": "13",
+    "idCity": "1456",
+    "nameCity": "Rosário Oeste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1457",
+    "nameCity": "Salto do Céu"
+  },
+  {
+    "idState": "13",
+    "idCity": "1458",
+    "nameCity": "Santa Carmem"
+  },
+  {
+    "idState": "13",
+    "idCity": "1459",
+    "nameCity": "Santa Cruz do Xingu"
+  },
+  {
+    "idState": "13",
+    "idCity": "1460",
+    "nameCity": "Santa Rita do Trivelato"
+  },
+  {
+    "idState": "13",
+    "idCity": "1461",
+    "nameCity": "Santa Terezinha"
+  },
+  {
+    "idState": "13",
+    "idCity": "1462",
+    "nameCity": "Santo Afonso"
+  },
+  {
+    "idState": "13",
+    "idCity": "1463",
+    "nameCity": "Santo Antônio do Leste"
+  },
+  {
+    "idState": "13",
+    "idCity": "1464",
+    "nameCity": "Santo Antônio do Leverger"
+  },
+  {
+    "idState": "13",
+    "idCity": "1465",
+    "nameCity": "São Félix do Araguaia"
+  },
+  {
+    "idState": "13",
+    "idCity": "1466",
+    "nameCity": "São José do Povo"
+  },
+  {
+    "idState": "13",
+    "idCity": "1467",
+    "nameCity": "São José do Rio Claro"
+  },
+  {
+    "idState": "13",
+    "idCity": "1468",
+    "nameCity": "São José do Xingu"
+  },
+  {
+    "idState": "13",
+    "idCity": "1469",
+    "nameCity": "São José dos Quatro Marcos"
+  },
+  {
+    "idState": "13",
+    "idCity": "1470",
+    "nameCity": "São Pedro da Cipa"
+  },
+  {
+    "idState": "13",
+    "idCity": "1471",
+    "nameCity": "Sapezal"
+  },
+  {
+    "idState": "13",
+    "idCity": "1472",
+    "nameCity": "Serra Nova Dourada"
+  },
+  {
+    "idState": "13",
+    "idCity": "1473",
+    "nameCity": "Sinop"
+  },
+  {
+    "idState": "13",
+    "idCity": "1474",
+    "nameCity": "Sorriso"
+  },
+  {
+    "idState": "13",
+    "idCity": "1475",
+    "nameCity": "Tabaporã"
+  },
+  {
+    "idState": "13",
+    "idCity": "1476",
+    "nameCity": "Tangará da Serra"
+  },
+  {
+    "idState": "13",
+    "idCity": "1477",
+    "nameCity": "Tapurah"
+  },
+  {
+    "idState": "13",
+    "idCity": "1478",
+    "nameCity": "Terra Nova do Norte"
+  },
+  {
+    "idState": "13",
+    "idCity": "1479",
+    "nameCity": "Tesouro"
+  },
+  {
+    "idState": "13",
+    "idCity": "1480",
+    "nameCity": "Torixoréu"
+  },
+  {
+    "idState": "13",
+    "idCity": "1481",
+    "nameCity": "União do Sul"
+  },
+  {
+    "idState": "13",
+    "idCity": "1482",
+    "nameCity": "Vale de São Domingos"
+  },
+  {
+    "idState": "13",
+    "idCity": "1483",
+    "nameCity": "Várzea Grande"
+  },
+  {
+    "idState": "13",
+    "idCity": "1484",
+    "nameCity": "Vera"
+  },
+  {
+    "idState": "13",
+    "idCity": "1485",
+    "nameCity": "Vila Bela da Santíssima Trindade"
+  },
+  {
+    "idState": "13",
+    "idCity": "1486",
+    "nameCity": "Vila Rica"
+  }
+]

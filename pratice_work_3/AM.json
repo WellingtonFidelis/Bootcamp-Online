@@ -1,0 +1,312 @@
+[
+  {
+    "idState": "3",
+    "idCity": "219",
+    "nameCity": "Alvarães"
+  },
+  {
+    "idState": "3",
+    "idCity": "220",
+    "nameCity": "Amaturá"
+  },
+  {
+    "idState": "3",
+    "idCity": "221",
+    "nameCity": "Anamã"
+  },
+  {
+    "idState": "3",
+    "idCity": "222",
+    "nameCity": "Anori"
+  },
+  {
+    "idState": "3",
+    "idCity": "223",
+    "nameCity": "Apuí"
+  },
+  {
+    "idState": "3",
+    "idCity": "224",
+    "nameCity": "Atalaia do Norte"
+  },
+  {
+    "idState": "3",
+    "idCity": "225",
+    "nameCity": "Autazes"
+  },
+  {
+    "idState": "3",
+    "idCity": "226",
+    "nameCity": "Barcelos"
+  },
+  {
+    "idState": "3",
+    "idCity": "227",
+    "nameCity": "Barreirinha"
+  },
+  {
+    "idState": "3",
+    "idCity": "228",
+    "nameCity": "Benjamin Constant"
+  },
+  {
+    "idState": "3",
+    "idCity": "229",
+    "nameCity": "Beruri"
+  },
+  {
+    "idState": "3",
+    "idCity": "230",
+    "nameCity": "Boa Vista do Ramos"
+  },
+  {
+    "idState": "3",
+    "idCity": "231",
+    "nameCity": "Boca do Acre"
+  },
+  {
+    "idState": "3",
+    "idCity": "232",
+    "nameCity": "Borba"
+  },
+  {
+    "idState": "3",
+    "idCity": "233",
+    "nameCity": "Caapiranga"
+  },
+  {
+    "idState": "3",
+    "idCity": "234",
+    "nameCity": "Canutama"
+  },
+  {
+    "idState": "3",
+    "idCity": "235",
+    "nameCity": "Carauari"
+  },
+  {
+    "idState": "3",
+    "idCity": "236",
+    "nameCity": "Careiro"
+  },
+  {
+    "idState": "3",
+    "idCity": "237",
+    "nameCity": "Careiro da Várzea"
+  },
+  {
+    "idState": "3",
+    "idCity": "238",
+    "nameCity": "Coari"
+  },
+  {
+    "idState": "3",
+    "idCity": "239",
+    "nameCity": "Codajás"
+  },
+  {
+    "idState": "3",
+    "idCity": "240",
+    "nameCity": "Eirunepé"
+  },
+  {
+    "idState": "3",
+    "idCity": "241",
+    "nameCity": "Envira"
+  },
+  {
+    "idState": "3",
+    "idCity": "242",
+    "nameCity": "Fonte Boa"
+  },
+  {
+    "idState": "3",
+    "idCity": "243",
+    "nameCity": "Guajará"
+  },
+  {
+    "idState": "3",
+    "idCity": "244",
+    "nameCity": "Humaitá"
+  },
+  {
+    "idState": "3",
+    "idCity": "245",
+    "nameCity": "Ipixuna"
+  },
+  {
+    "idState": "3",
+    "idCity": "246",
+    "nameCity": "Iranduba"
+  },
+  {
+    "idState": "3",
+    "idCity": "247",
+    "nameCity": "Itacoatiara"
+  },
+  {
+    "idState": "3",
+    "idCity": "248",
+    "nameCity": "Itamarati"
+  },
+  {
+    "idState": "3",
+    "idCity": "249",
+    "nameCity": "Itapiranga"
+  },
+  {
+    "idState": "3",
+    "idCity": "250",
+    "nameCity": "Japurá"
+  },
+  {
+    "idState": "3",
+    "idCity": "251",
+    "nameCity": "Juruá"
+  },
+  {
+    "idState": "3",
+    "idCity": "252",
+    "nameCity": "Jutaí"
+  },
+  {
+    "idState": "3",
+    "idCity": "253",
+    "nameCity": "Lábrea"
+  },
+  {
+    "idState": "3",
+    "idCity": "254",
+    "nameCity": "Manacapuru"
+  },
+  {
+    "idState": "3",
+    "idCity": "255",
+    "nameCity": "Manaquiri"
+  },
+  {
+    "idState": "3",
+    "idCity": "256",
+    "nameCity": "Manaus"
+  },
+  {
+    "idState": "3",
+    "idCity": "257",
+    "nameCity": "Manicoré"
+  },
+  {
+    "idState": "3",
+    "idCity": "258",
+    "nameCity": "Maraã"
+  },
+  {
+    "idState": "3",
+    "idCity": "259",
+    "nameCity": "Maués"
+  },
+  {
+    "idState": "3",
+    "idCity": "260",
+    "nameCity": "Nhamundá"
+  },
+  {
+    "idState": "3",
+    "idCity": "261",
+    "nameCity": "Nova Olinda do Norte"
+  },
+  {
+    "idState": "3",
+    "idCity": "262",
+    "nameCity": "Novo Airão"
+  },
+  {
+    "idState": "3",
+    "idCity": "263",
+    "nameCity": "Novo Aripuanã"
+  },
+  {
+    "idState": "3",
+    "idCity": "264",
+    "nameCity": "Parintins"
+  },
+  {
+    "idState": "3",
+    "idCity": "265",
+    "nameCity": "Pauini"
+  },
+  {
+    "idState": "3",
+    "idCity": "266",
+    "nameCity": "Presidente Figueiredo"
+  },
+  {
+    "idState": "3",
+    "idCity": "267",
+    "nameCity": "Rio Preto da Eva"
+  },
+  {
+    "idState": "3",
+    "idCity": "268",
+    "nameCity": "Santa Isabel do Rio Negro"
+  },
+  {
+    "idState": "3",
+    "idCity": "269",
+    "nameCity": "Santo Antônio do Içá"
+  },
+  {
+    "idState": "3",
+    "idCity": "270",
+    "nameCity": "São Gabriel da Cachoeira"
+  },
+  {
+    "idState": "3",
+    "idCity": "271",
+    "nameCity": "São Paulo de Olivença"
+  },
+  {
+    "idState": "3",
+    "idCity": "272",
+    "nameCity": "São Sebastião do Uatumã"
+  },
+  {
+    "idState": "3",
+    "idCity": "273",
+    "nameCity": "Silves"
+  },
+  {
+    "idState": "3",
+    "idCity": "274",
+    "nameCity": "Tabatinga"
+  },
+  {
+    "idState": "3",
+    "idCity": "275",
+    "nameCity": "Tapauá"
+  },
+  {
+    "idState": "3",
+    "idCity": "276",
+    "nameCity": "Tefé"
+  },
+  {
+    "idState": "3",
+    "idCity": "277",
+    "nameCity": "Tonantins"
+  },
+  {
+    "idState": "3",
+    "idCity": "278",
+    "nameCity": "Uarini"
+  },
+  {
+    "idState": "3",
+    "idCity": "279",
+    "nameCity": "Urucará"
+  },
+  {
+    "idState": "3",
+    "idCity": "280",
+    "nameCity": "Urucurituba"
+  }
+]

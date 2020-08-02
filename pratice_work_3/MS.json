@@ -1,0 +1,392 @@
+[
+  {
+    "idState": "12",
+    "idCity": "1487",
+    "nameCity": "Água Clara"
+  },
+  {
+    "idState": "12",
+    "idCity": "1488",
+    "nameCity": "Alcinópolis"
+  },
+  {
+    "idState": "12",
+    "idCity": "1489",
+    "nameCity": "Amambaí"
+  },
+  {
+    "idState": "12",
+    "idCity": "1490",
+    "nameCity": "Anastácio"
+  },
+  {
+    "idState": "12",
+    "idCity": "1491",
+    "nameCity": "Anaurilândia"
+  },
+  {
+    "idState": "12",
+    "idCity": "1492",
+    "nameCity": "Angélica"
+  },
+  {
+    "idState": "12",
+    "idCity": "1493",
+    "nameCity": "Antônio João"
+  },
+  {
+    "idState": "12",
+    "idCity": "1494",
+    "nameCity": "Aparecida do Taboado"
+  },
+  {
+    "idState": "12",
+    "idCity": "1495",
+    "nameCity": "Aquidauana"
+  },
+  {
+    "idState": "12",
+    "idCity": "1496",
+    "nameCity": "Aral Moreira"
+  },
+  {
+    "idState": "12",
+    "idCity": "1497",
+    "nameCity": "Bandeirantes"
+  },
+  {
+    "idState": "12",
+    "idCity": "1498",
+    "nameCity": "Bataguassu"
+  },
+  {
+    "idState": "12",
+    "idCity": "1499",
+    "nameCity": "Bataiporã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1500",
+    "nameCity": "Bela Vista"
+  },
+  {
+    "idState": "12",
+    "idCity": "1501",
+    "nameCity": "Bodoquena"
+  },
+  {
+    "idState": "12",
+    "idCity": "1502",
+    "nameCity": "Bonito"
+  },
+  {
+    "idState": "12",
+    "idCity": "1503",
+    "nameCity": "Brasilândia"
+  },
+  {
+    "idState": "12",
+    "idCity": "1504",
+    "nameCity": "Caarapó"
+  },
+  {
+    "idState": "12",
+    "idCity": "1505",
+    "nameCity": "Camapuã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1506",
+    "nameCity": "Campo Grande"
+  },
+  {
+    "idState": "12",
+    "idCity": "1507",
+    "nameCity": "Caracol"
+  },
+  {
+    "idState": "12",
+    "idCity": "1508",
+    "nameCity": "Cassilândia"
+  },
+  {
+    "idState": "12",
+    "idCity": "1509",
+    "nameCity": "Chapadão do Sul"
+  },
+  {
+    "idState": "12",
+    "idCity": "1510",
+    "nameCity": "Corguinho"
+  },
+  {
+    "idState": "12",
+    "idCity": "1511",
+    "nameCity": "Coronel Sapucaia"
+  },
+  {
+    "idState": "12",
+    "idCity": "1512",
+    "nameCity": "Corumbá"
+  },
+  {
+    "idState": "12",
+    "idCity": "1513",
+    "nameCity": "Costa Rica"
+  },
+  {
+    "idState": "12",
+    "idCity": "1514",
+    "nameCity": "Coxim"
+  },
+  {
+    "idState": "12",
+    "idCity": "1515",
+    "nameCity": "Deodápolis"
+  },
+  {
+    "idState": "12",
+    "idCity": "1516",
+    "nameCity": "Dois Irmãos do Buriti"
+  },
+  {
+    "idState": "12",
+    "idCity": "1517",
+    "nameCity": "Douradina"
+  },
+  {
+    "idState": "12",
+    "idCity": "1518",
+    "nameCity": "Dourados"
+  },
+  {
+    "idState": "12",
+    "idCity": "1519",
+    "nameCity": "Eldorado"
+  },
+  {
+    "idState": "12",
+    "idCity": "1520",
+    "nameCity": "Fátima do Sul"
+  },
+  {
+    "idState": "12",
+    "idCity": "1521",
+    "nameCity": "Figueirão"
+  },
+  {
+    "idState": "12",
+    "idCity": "1522",
+    "nameCity": "Glória de Dourados"
+  },
+  {
+    "idState": "12",
+    "idCity": "1523",
+    "nameCity": "Guia Lopes da Laguna"
+  },
+  {
+    "idState": "12",
+    "idCity": "1524",
+    "nameCity": "Iguatemi"
+  },
+  {
+    "idState": "12",
+    "idCity": "1525",
+    "nameCity": "Inocência"
+  },
+  {
+    "idState": "12",
+    "idCity": "1526",
+    "nameCity": "Itaporã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1527",
+    "nameCity": "Itaquiraí"
+  },
+  {
+    "idState": "12",
+    "idCity": "1528",
+    "nameCity": "Ivinhema"
+  },
+  {
+    "idState": "12",
+    "idCity": "1529",
+    "nameCity": "Japorã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1530",
+    "nameCity": "Jaraguari"
+  },
+  {
+    "idState": "12",
+    "idCity": "1531",
+    "nameCity": "Jardim"
+  },
+  {
+    "idState": "12",
+    "idCity": "1532",
+    "nameCity": "Jateí"
+  },
+  {
+    "idState": "12",
+    "idCity": "1533",
+    "nameCity": "Juti"
+  },
+  {
+    "idState": "12",
+    "idCity": "1534",
+    "nameCity": "Ladário"
+  },
+  {
+    "idState": "12",
+    "idCity": "1535",
+    "nameCity": "Laguna Carapã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1536",
+    "nameCity": "Maracaju"
+  },
+  {
+    "idState": "12",
+    "idCity": "1537",
+    "nameCity": "Miranda"
+  },
+  {
+    "idState": "12",
+    "idCity": "1538",
+    "nameCity": "Mundo Novo"
+  },
+  {
+    "idState": "12",
+    "idCity": "1539",
+    "nameCity": "Naviraí"
+  },
+  {
+    "idState": "12",
+    "idCity": "1540",
+    "nameCity": "Nioaque"
+  },
+  {
+    "idState": "12",
+    "idCity": "1541",
+    "nameCity": "Nova Alvorada do Sul"
+  },
+  {
+    "idState": "12",
+    "idCity": "1542",
+    "nameCity": "Nova Andradina"
+  },
+  {
+    "idState": "12",
+    "idCity": "1543",
+    "nameCity": "Novo Horizonte do Sul"
+  },
+  {
+    "idState": "12",
+    "idCity": "1544",
+    "nameCity": "Paranaíba"
+  },
+  {
+    "idState": "12",
+    "idCity": "1545",
+    "nameCity": "Paranhos"
+  },
+  {
+    "idState": "12",
+    "idCity": "1546",
+    "nameCity": "Pedro Gomes"
+  },
+  {
+    "idState": "12",
+    "idCity": "1547",
+    "nameCity": "Ponta Porã"
+  },
+  {
+    "idState": "12",
+    "idCity": "1548",
+    "nameCity": "Porto Murtinho"
+  },
+  {
+    "idState": "12",
+    "idCity": "1549",
+    "nameCity": "Ribas do Rio Pardo"
+  },
+  {
+    "idState": "12",
+    "idCity": "1550",
+    "nameCity": "Rio Brilhante"
+  },
+  {
+    "idState": "12",
+    "idCity": "1551",
+    "nameCity": "Rio Negro"
+  },
+  {
+    "idState": "12",
+    "idCity": "1552",
+    "nameCity": "Rio Verde de Mato Grosso"
+  },
+  {
+    "idState": "12",
+    "idCity": "1553",
+    "nameCity": "Rochedo"
+  },
+  {
+    "idState": "12",
+    "idCity": "1554",
+    "nameCity": "Santa Rita do Pardo"
+  },
+  {
+    "idState": "12",
+    "idCity": "1555",
+    "nameCity": "São Gabriel do Oeste"
+  },
+  {
+    "idState": "12",
+    "idCity": "1556",
+    "nameCity": "Selvíria"
+  },
+  {
+    "idState": "12",
+    "idCity": "1557",
+    "nameCity": "Sete Quedas"
+  },
+  {
+    "idState": "12",
+    "idCity": "1558",
+    "nameCity": "Sidrolândia"
+  },
+  {
+    "idState": "12",
+    "idCity": "1559",
+    "nameCity": "Sonora"
+  },
+  {
+    "idState": "12",
+    "idCity": "1560",
+    "nameCity": "Tacuru"
+  },
+  {
+    "idState": "12",
+    "idCity": "1561",
+    "nameCity": "Taquarussu"
+  },
+  {
+    "idState": "12",
+    "idCity": "1562",
+    "nameCity": "Terenos"
+  },
+  {
+    "idState": "12",
+    "idCity": "1563",
+    "nameCity": "Três Lagoas"
+  },
+  {
+    "idState": "12",
+    "idCity": "1564",
+    "nameCity": "Vicentina"
+  }
+]

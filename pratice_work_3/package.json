@@ -1,0 +1,12 @@
+{
+  "name": "pratice_work_3",
+  "version": "1.0.0",
+  "description": "Module 2 IGTI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WellingtonFidelis",
+  "license": "ISC",
+  "type": "module"
+}

@@ -1,0 +1,1232 @@
+[
+  {
+    "idState": "9",
+    "idCity": "883",
+    "nameCity": "Abadia de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "884",
+    "nameCity": "Abadiânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "885",
+    "nameCity": "Acreúna"
+  },
+  {
+    "idState": "9",
+    "idCity": "886",
+    "nameCity": "Adelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "887",
+    "nameCity": "Água Fria de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "888",
+    "nameCity": "Água Limpa"
+  },
+  {
+    "idState": "9",
+    "idCity": "889",
+    "nameCity": "Águas Lindas de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "890",
+    "nameCity": "Alexânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "891",
+    "nameCity": "Aloândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "892",
+    "nameCity": "Alto Horizonte"
+  },
+  {
+    "idState": "9",
+    "idCity": "893",
+    "nameCity": "Alto Paraíso de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "894",
+    "nameCity": "Alvorada do Norte"
+  },
+  {
+    "idState": "9",
+    "idCity": "895",
+    "nameCity": "Amaralina"
+  },
+  {
+    "idState": "9",
+    "idCity": "896",
+    "nameCity": "Americano do Brasil"
+  },
+  {
+    "idState": "9",
+    "idCity": "897",
+    "nameCity": "Amorinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "898",
+    "nameCity": "Anápolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "899",
+    "nameCity": "Anhanguera"
+  },
+  {
+    "idState": "9",
+    "idCity": "900",
+    "nameCity": "Anicuns"
+  },
+  {
+    "idState": "9",
+    "idCity": "901",
+    "nameCity": "Aparecida de Goiânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "902",
+    "nameCity": "Aparecida do Rio Doce"
+  },
+  {
+    "idState": "9",
+    "idCity": "903",
+    "nameCity": "Aporé"
+  },
+  {
+    "idState": "9",
+    "idCity": "904",
+    "nameCity": "Araçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "905",
+    "nameCity": "Aragarças"
+  },
+  {
+    "idState": "9",
+    "idCity": "906",
+    "nameCity": "Aragoiânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "907",
+    "nameCity": "Araguapaz"
+  },
+  {
+    "idState": "9",
+    "idCity": "908",
+    "nameCity": "Arenópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "909",
+    "nameCity": "Aruanã"
+  },
+  {
+    "idState": "9",
+    "idCity": "910",
+    "nameCity": "Aurilândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "911",
+    "nameCity": "Avelinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "912",
+    "nameCity": "Baliza"
+  },
+  {
+    "idState": "9",
+    "idCity": "913",
+    "nameCity": "Barro Alto"
+  },
+  {
+    "idState": "9",
+    "idCity": "914",
+    "nameCity": "Bela Vista de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "915",
+    "nameCity": "Bom Jardim de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "916",
+    "nameCity": "Bom Jesus de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "917",
+    "nameCity": "Bonfinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "918",
+    "nameCity": "Bonópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "919",
+    "nameCity": "Brazabrantes"
+  },
+  {
+    "idState": "9",
+    "idCity": "920",
+    "nameCity": "Britânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "921",
+    "nameCity": "Buriti Alegre"
+  },
+  {
+    "idState": "9",
+    "idCity": "922",
+    "nameCity": "Buriti de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "923",
+    "nameCity": "Buritinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "924",
+    "nameCity": "Cabeceiras"
+  },
+  {
+    "idState": "9",
+    "idCity": "925",
+    "nameCity": "Cachoeira Alta"
+  },
+  {
+    "idState": "9",
+    "idCity": "926",
+    "nameCity": "Cachoeira de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "927",
+    "nameCity": "Cachoeira Dourada"
+  },
+  {
+    "idState": "9",
+    "idCity": "928",
+    "nameCity": "Caçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "929",
+    "nameCity": "Caiapônia"
+  },
+  {
+    "idState": "9",
+    "idCity": "930",
+    "nameCity": "Caldas Novas"
+  },
+  {
+    "idState": "9",
+    "idCity": "931",
+    "nameCity": "Caldazinha"
+  },
+  {
+    "idState": "9",
+    "idCity": "932",
+    "nameCity": "Campestre de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "933",
+    "nameCity": "Campinaçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "934",
+    "nameCity": "Campinorte"
+  },
+  {
+    "idState": "9",
+    "idCity": "935",
+    "nameCity": "Campo Alegre de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "936",
+    "nameCity": "Campo Limpo de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "937",
+    "nameCity": "Campos Belos"
+  },
+  {
+    "idState": "9",
+    "idCity": "938",
+    "nameCity": "Campos Verdes"
+  },
+  {
+    "idState": "9",
+    "idCity": "939",
+    "nameCity": "Carmo do Rio Verde"
+  },
+  {
+    "idState": "9",
+    "idCity": "940",
+    "nameCity": "Castelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "941",
+    "nameCity": "Catalão"
+  },
+  {
+    "idState": "9",
+    "idCity": "942",
+    "nameCity": "Caturaí"
+  },
+  {
+    "idState": "9",
+    "idCity": "943",
+    "nameCity": "Cavalcante"
+  },
+  {
+    "idState": "9",
+    "idCity": "944",
+    "nameCity": "Ceres"
+  },
+  {
+    "idState": "9",
+    "idCity": "945",
+    "nameCity": "Cezarina"
+  },
+  {
+    "idState": "9",
+    "idCity": "946",
+    "nameCity": "Chapadão do Céu"
+  },
+  {
+    "idState": "9",
+    "idCity": "947",
+    "nameCity": "Cidade Ocidental"
+  },
+  {
+    "idState": "9",
+    "idCity": "948",
+    "nameCity": "Cocalzinho de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "949",
+    "nameCity": "Colinas do Sul"
+  },
+  {
+    "idState": "9",
+    "idCity": "950",
+    "nameCity": "Córrego do Ouro"
+  },
+  {
+    "idState": "9",
+    "idCity": "951",
+    "nameCity": "Corumbá de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "952",
+    "nameCity": "Corumbaíba"
+  },
+  {
+    "idState": "9",
+    "idCity": "953",
+    "nameCity": "Cristalina"
+  },
+  {
+    "idState": "9",
+    "idCity": "954",
+    "nameCity": "Cristianópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "955",
+    "nameCity": "Crixás"
+  },
+  {
+    "idState": "9",
+    "idCity": "956",
+    "nameCity": "Cromínia"
+  },
+  {
+    "idState": "9",
+    "idCity": "957",
+    "nameCity": "Cumari"
+  },
+  {
+    "idState": "9",
+    "idCity": "958",
+    "nameCity": "Damianópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "959",
+    "nameCity": "Damolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "960",
+    "nameCity": "Davinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "961",
+    "nameCity": "Diorama"
+  },
+  {
+    "idState": "9",
+    "idCity": "962",
+    "nameCity": "Divinópolis de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "963",
+    "nameCity": "Doverlândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "964",
+    "nameCity": "Edealina"
+  },
+  {
+    "idState": "9",
+    "idCity": "965",
+    "nameCity": "Edéia"
+  },
+  {
+    "idState": "9",
+    "idCity": "966",
+    "nameCity": "Estrela do Norte"
+  },
+  {
+    "idState": "9",
+    "idCity": "967",
+    "nameCity": "Faina"
+  },
+  {
+    "idState": "9",
+    "idCity": "968",
+    "nameCity": "Fazenda Nova"
+  },
+  {
+    "idState": "9",
+    "idCity": "969",
+    "nameCity": "Firminópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "970",
+    "nameCity": "Flores de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "971",
+    "nameCity": "Formosa"
+  },
+  {
+    "idState": "9",
+    "idCity": "972",
+    "nameCity": "Formoso"
+  },
+  {
+    "idState": "9",
+    "idCity": "973",
+    "nameCity": "Gameleira de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "974",
+    "nameCity": "Goianápolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "975",
+    "nameCity": "Goiandira"
+  },
+  {
+    "idState": "9",
+    "idCity": "976",
+    "nameCity": "Goianésia"
+  },
+  {
+    "idState": "9",
+    "idCity": "977",
+    "nameCity": "Goiânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "978",
+    "nameCity": "Goianira"
+  },
+  {
+    "idState": "9",
+    "idCity": "979",
+    "nameCity": "Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "980",
+    "nameCity": "Goiatuba"
+  },
+  {
+    "idState": "9",
+    "idCity": "981",
+    "nameCity": "Gouvelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "982",
+    "nameCity": "Guapó"
+  },
+  {
+    "idState": "9",
+    "idCity": "983",
+    "nameCity": "Guaraíta"
+  },
+  {
+    "idState": "9",
+    "idCity": "984",
+    "nameCity": "Guarani de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "985",
+    "nameCity": "Guarinos"
+  },
+  {
+    "idState": "9",
+    "idCity": "986",
+    "nameCity": "Heitoraí"
+  },
+  {
+    "idState": "9",
+    "idCity": "987",
+    "nameCity": "Hidrolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "988",
+    "nameCity": "Hidrolina"
+  },
+  {
+    "idState": "9",
+    "idCity": "989",
+    "nameCity": "Iaciara"
+  },
+  {
+    "idState": "9",
+    "idCity": "990",
+    "nameCity": "Inaciolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "991",
+    "nameCity": "Indiara"
+  },
+  {
+    "idState": "9",
+    "idCity": "992",
+    "nameCity": "Inhumas"
+  },
+  {
+    "idState": "9",
+    "idCity": "993",
+    "nameCity": "Ipameri"
+  },
+  {
+    "idState": "9",
+    "idCity": "994",
+    "nameCity": "Ipiranga de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "995",
+    "nameCity": "Iporá"
+  },
+  {
+    "idState": "9",
+    "idCity": "996",
+    "nameCity": "Israelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "997",
+    "nameCity": "Itaberaí"
+  },
+  {
+    "idState": "9",
+    "idCity": "998",
+    "nameCity": "Itaguari"
+  },
+  {
+    "idState": "9",
+    "idCity": "999",
+    "nameCity": "Itaguaru"
+  },
+  {
+    "idState": "9",
+    "idCity": "1000",
+    "nameCity": "Itajá"
+  },
+  {
+    "idState": "9",
+    "idCity": "1001",
+    "nameCity": "Itapaci"
+  },
+  {
+    "idState": "9",
+    "idCity": "1002",
+    "nameCity": "Itapirapuã"
+  },
+  {
+    "idState": "9",
+    "idCity": "1003",
+    "nameCity": "Itapuranga"
+  },
+  {
+    "idState": "9",
+    "idCity": "1004",
+    "nameCity": "Itarumã"
+  },
+  {
+    "idState": "9",
+    "idCity": "1005",
+    "nameCity": "Itauçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "1006",
+    "nameCity": "Itumbiara"
+  },
+  {
+    "idState": "9",
+    "idCity": "1007",
+    "nameCity": "Ivolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1008",
+    "nameCity": "Jandaia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1009",
+    "nameCity": "Jaraguá"
+  },
+  {
+    "idState": "9",
+    "idCity": "1010",
+    "nameCity": "Jataí"
+  },
+  {
+    "idState": "9",
+    "idCity": "1011",
+    "nameCity": "Jaupaci"
+  },
+  {
+    "idState": "9",
+    "idCity": "1012",
+    "nameCity": "Jesúpolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1013",
+    "nameCity": "Joviânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1014",
+    "nameCity": "Jussara"
+  },
+  {
+    "idState": "9",
+    "idCity": "1015",
+    "nameCity": "Lagoa Santa"
+  },
+  {
+    "idState": "9",
+    "idCity": "1016",
+    "nameCity": "Leopoldo de Bulhões"
+  },
+  {
+    "idState": "9",
+    "idCity": "1017",
+    "nameCity": "Luziânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1018",
+    "nameCity": "Mairipotaba"
+  },
+  {
+    "idState": "9",
+    "idCity": "1019",
+    "nameCity": "Mambaí"
+  },
+  {
+    "idState": "9",
+    "idCity": "1020",
+    "nameCity": "Mara Rosa"
+  },
+  {
+    "idState": "9",
+    "idCity": "1021",
+    "nameCity": "Marzagão"
+  },
+  {
+    "idState": "9",
+    "idCity": "1022",
+    "nameCity": "Matrinchã"
+  },
+  {
+    "idState": "9",
+    "idCity": "1023",
+    "nameCity": "Maurilândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1024",
+    "nameCity": "Mimoso de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1025",
+    "nameCity": "Minaçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "1026",
+    "nameCity": "Mineiros"
+  },
+  {
+    "idState": "9",
+    "idCity": "1027",
+    "nameCity": "Moiporá"
+  },
+  {
+    "idState": "9",
+    "idCity": "1028",
+    "nameCity": "Monte Alegre de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1029",
+    "nameCity": "Montes Claros de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1030",
+    "nameCity": "Montividiu"
+  },
+  {
+    "idState": "9",
+    "idCity": "1031",
+    "nameCity": "Montividiu do Norte"
+  },
+  {
+    "idState": "9",
+    "idCity": "1032",
+    "nameCity": "Morrinhos"
+  },
+  {
+    "idState": "9",
+    "idCity": "1033",
+    "nameCity": "Morro Agudo de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1034",
+    "nameCity": "Mossâmedes"
+  },
+  {
+    "idState": "9",
+    "idCity": "1035",
+    "nameCity": "Mozarlândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1036",
+    "nameCity": "Mundo Novo"
+  },
+  {
+    "idState": "9",
+    "idCity": "1037",
+    "nameCity": "Mutunópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1038",
+    "nameCity": "Nazário"
+  },
+  {
+    "idState": "9",
+    "idCity": "1039",
+    "nameCity": "Nerópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1040",
+    "nameCity": "Niquelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1041",
+    "nameCity": "Nova América"
+  },
+  {
+    "idState": "9",
+    "idCity": "1042",
+    "nameCity": "Nova Aurora"
+  },
+  {
+    "idState": "9",
+    "idCity": "1043",
+    "nameCity": "Nova Crixás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1044",
+    "nameCity": "Nova Glória"
+  },
+  {
+    "idState": "9",
+    "idCity": "1045",
+    "nameCity": "Nova Iguaçu de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1046",
+    "nameCity": "Nova Roma"
+  },
+  {
+    "idState": "9",
+    "idCity": "1047",
+    "nameCity": "Nova Veneza"
+  },
+  {
+    "idState": "9",
+    "idCity": "1048",
+    "nameCity": "Novo Brasil"
+  },
+  {
+    "idState": "9",
+    "idCity": "1049",
+    "nameCity": "Novo Gama"
+  },
+  {
+    "idState": "9",
+    "idCity": "1050",
+    "nameCity": "Novo Planalto"
+  },
+  {
+    "idState": "9",
+    "idCity": "1051",
+    "nameCity": "Orizona"
+  },
+  {
+    "idState": "9",
+    "idCity": "1052",
+    "nameCity": "Ouro Verde de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1053",
+    "nameCity": "Ouvidor"
+  },
+  {
+    "idState": "9",
+    "idCity": "1054",
+    "nameCity": "Padre Bernardo"
+  },
+  {
+    "idState": "9",
+    "idCity": "1055",
+    "nameCity": "Palestina de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1056",
+    "nameCity": "Palmeiras de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1057",
+    "nameCity": "Palmelo"
+  },
+  {
+    "idState": "9",
+    "idCity": "1058",
+    "nameCity": "Palminópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1059",
+    "nameCity": "Panamá"
+  },
+  {
+    "idState": "9",
+    "idCity": "1060",
+    "nameCity": "Paranaiguara"
+  },
+  {
+    "idState": "9",
+    "idCity": "1061",
+    "nameCity": "Paraúna"
+  },
+  {
+    "idState": "9",
+    "idCity": "1062",
+    "nameCity": "Perolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1063",
+    "nameCity": "Petrolina de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1064",
+    "nameCity": "Pilar de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1065",
+    "nameCity": "Piracanjuba"
+  },
+  {
+    "idState": "9",
+    "idCity": "1066",
+    "nameCity": "Piranhas"
+  },
+  {
+    "idState": "9",
+    "idCity": "1067",
+    "nameCity": "Pirenópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1068",
+    "nameCity": "Pires do Rio"
+  },
+  {
+    "idState": "9",
+    "idCity": "1069",
+    "nameCity": "Planaltina"
+  },
+  {
+    "idState": "9",
+    "idCity": "1070",
+    "nameCity": "Pontalina"
+  },
+  {
+    "idState": "9",
+    "idCity": "1071",
+    "nameCity": "Porangatu"
+  },
+  {
+    "idState": "9",
+    "idCity": "1072",
+    "nameCity": "Porteirão"
+  },
+  {
+    "idState": "9",
+    "idCity": "1073",
+    "nameCity": "Portelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1074",
+    "nameCity": "Posse"
+  },
+  {
+    "idState": "9",
+    "idCity": "1075",
+    "nameCity": "Professor Jamil"
+  },
+  {
+    "idState": "9",
+    "idCity": "1076",
+    "nameCity": "Quirinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1077",
+    "nameCity": "Rialma"
+  },
+  {
+    "idState": "9",
+    "idCity": "1078",
+    "nameCity": "Rianápolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1079",
+    "nameCity": "Rio Quente"
+  },
+  {
+    "idState": "9",
+    "idCity": "1080",
+    "nameCity": "Rio Verde"
+  },
+  {
+    "idState": "9",
+    "idCity": "1081",
+    "nameCity": "Rubiataba"
+  },
+  {
+    "idState": "9",
+    "idCity": "1082",
+    "nameCity": "Sanclerlândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1083",
+    "nameCity": "Santa Bárbara de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1084",
+    "nameCity": "Santa Cruz de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1085",
+    "nameCity": "Santa Fé de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1086",
+    "nameCity": "Santa Helena de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1087",
+    "nameCity": "Santa Isabel"
+  },
+  {
+    "idState": "9",
+    "idCity": "1088",
+    "nameCity": "Santa Rita do Araguaia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1089",
+    "nameCity": "Santa Rita do Novo Destino"
+  },
+  {
+    "idState": "9",
+    "idCity": "1090",
+    "nameCity": "Santa Rosa de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1091",
+    "nameCity": "Santa Tereza de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1092",
+    "nameCity": "Santa Terezinha de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1093",
+    "nameCity": "Santo Antônio da Barra"
+  },
+  {
+    "idState": "9",
+    "idCity": "1094",
+    "nameCity": "Santo Antônio de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1095",
+    "nameCity": "Santo Antônio do Descoberto"
+  },
+  {
+    "idState": "9",
+    "idCity": "1096",
+    "nameCity": "São Domingos"
+  },
+  {
+    "idState": "9",
+    "idCity": "1097",
+    "nameCity": "São Francisco de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1098",
+    "nameCity": "São João d`Aliança"
+  },
+  {
+    "idState": "9",
+    "idCity": "1099",
+    "nameCity": "São João da Paraúna"
+  },
+  {
+    "idState": "9",
+    "idCity": "1100",
+    "nameCity": "São Luís de Montes Belos"
+  },
+  {
+    "idState": "9",
+    "idCity": "1101",
+    "nameCity": "São Luíz do Norte"
+  },
+  {
+    "idState": "9",
+    "idCity": "1102",
+    "nameCity": "São Miguel do Araguaia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1103",
+    "nameCity": "São Miguel do Passa Quatro"
+  },
+  {
+    "idState": "9",
+    "idCity": "1104",
+    "nameCity": "São Patrício"
+  },
+  {
+    "idState": "9",
+    "idCity": "1105",
+    "nameCity": "São Simão"
+  },
+  {
+    "idState": "9",
+    "idCity": "1106",
+    "nameCity": "Senador Canedo"
+  },
+  {
+    "idState": "9",
+    "idCity": "1107",
+    "nameCity": "Serranópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1108",
+    "nameCity": "Silvânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1109",
+    "nameCity": "Simolândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1110",
+    "nameCity": "Sítio d`Abadia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1111",
+    "nameCity": "Taquaral de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1112",
+    "nameCity": "Teresina de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1113",
+    "nameCity": "Terezópolis de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1114",
+    "nameCity": "Três Ranchos"
+  },
+  {
+    "idState": "9",
+    "idCity": "1115",
+    "nameCity": "Trindade"
+  },
+  {
+    "idState": "9",
+    "idCity": "1116",
+    "nameCity": "Trombas"
+  },
+  {
+    "idState": "9",
+    "idCity": "1117",
+    "nameCity": "Turvânia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1118",
+    "nameCity": "Turvelândia"
+  },
+  {
+    "idState": "9",
+    "idCity": "1119",
+    "nameCity": "Uirapuru"
+  },
+  {
+    "idState": "9",
+    "idCity": "1120",
+    "nameCity": "Uruaçu"
+  },
+  {
+    "idState": "9",
+    "idCity": "1121",
+    "nameCity": "Uruana"
+  },
+  {
+    "idState": "9",
+    "idCity": "1122",
+    "nameCity": "Urutaí"
+  },
+  {
+    "idState": "9",
+    "idCity": "1123",
+    "nameCity": "Valparaíso de Goiás"
+  },
+  {
+    "idState": "9",
+    "idCity": "1124",
+    "nameCity": "Varjão"
+  },
+  {
+    "idState": "9",
+    "idCity": "1125",
+    "nameCity": "Vianópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1126",
+    "nameCity": "Vicentinópolis"
+  },
+  {
+    "idState": "9",
+    "idCity": "1127",
+    "nameCity": "Vila Boa"
+  },
+  {
+    "idState": "9",
+    "idCity": "1128",
+    "nameCity": "Vila Propício"
+  }
+]

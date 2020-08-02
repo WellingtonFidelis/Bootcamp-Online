@@ -1,0 +1,3227 @@
+[
+  {
+    "idState": "26",
+    "idCity": "4706",
+    "nameCity": "Adamantina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4707",
+    "nameCity": "Adolfo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4708",
+    "nameCity": "Aguaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4709",
+    "nameCity": "Águas da Prata"
+  },
+  {
+    "idState": "26",
+    "idCity": "4710",
+    "nameCity": "Águas de Lindóia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4711",
+    "nameCity": "Águas de Santa Bárbara"
+  },
+  {
+    "idState": "26",
+    "idCity": "4712",
+    "nameCity": "Águas de São Pedro"
+  },
+  {
+    "idState": "26",
+    "idCity": "4713",
+    "nameCity": "Agudos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4714",
+    "nameCity": "Alambari"
+  },
+  {
+    "idState": "26",
+    "idCity": "4715",
+    "nameCity": "Alfredo Marcondes"
+  },
+  {
+    "idState": "26",
+    "idCity": "4716",
+    "nameCity": "Altair"
+  },
+  {
+    "idState": "26",
+    "idCity": "4717",
+    "nameCity": "Altinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4718",
+    "nameCity": "Alto Alegre"
+  },
+  {
+    "idState": "26",
+    "idCity": "4719",
+    "nameCity": "Alumínio"
+  },
+  {
+    "idState": "26",
+    "idCity": "4720",
+    "nameCity": "Álvares Florence"
+  },
+  {
+    "idState": "26",
+    "idCity": "4721",
+    "nameCity": "Álvares Machado"
+  },
+  {
+    "idState": "26",
+    "idCity": "4722",
+    "nameCity": "Álvaro de Carvalho"
+  },
+  {
+    "idState": "26",
+    "idCity": "4723",
+    "nameCity": "Alvinlândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4724",
+    "nameCity": "Americana"
+  },
+  {
+    "idState": "26",
+    "idCity": "4725",
+    "nameCity": "Américo Brasiliense"
+  },
+  {
+    "idState": "26",
+    "idCity": "4726",
+    "nameCity": "Américo de Campos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4727",
+    "nameCity": "Amparo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4728",
+    "nameCity": "Analândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4729",
+    "nameCity": "Andradina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4730",
+    "nameCity": "Angatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4731",
+    "nameCity": "Anhembi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4732",
+    "nameCity": "Anhumas"
+  },
+  {
+    "idState": "26",
+    "idCity": "4733",
+    "nameCity": "Aparecida"
+  },
+  {
+    "idState": "26",
+    "idCity": "4734",
+    "nameCity": "Aparecida d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "4735",
+    "nameCity": "Apiaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4736",
+    "nameCity": "Araçariguama"
+  },
+  {
+    "idState": "26",
+    "idCity": "4737",
+    "nameCity": "Araçatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4738",
+    "nameCity": "Araçoiaba da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "4739",
+    "nameCity": "Aramina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4740",
+    "nameCity": "Arandu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4741",
+    "nameCity": "Arapeí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4742",
+    "nameCity": "Araraquara"
+  },
+  {
+    "idState": "26",
+    "idCity": "4743",
+    "nameCity": "Araras"
+  },
+  {
+    "idState": "26",
+    "idCity": "4744",
+    "nameCity": "Arco-Íris"
+  },
+  {
+    "idState": "26",
+    "idCity": "4745",
+    "nameCity": "Arealva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4746",
+    "nameCity": "Areias"
+  },
+  {
+    "idState": "26",
+    "idCity": "4747",
+    "nameCity": "Areiópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4748",
+    "nameCity": "Ariranha"
+  },
+  {
+    "idState": "26",
+    "idCity": "4749",
+    "nameCity": "Artur Nogueira"
+  },
+  {
+    "idState": "26",
+    "idCity": "4750",
+    "nameCity": "Arujá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4751",
+    "nameCity": "Aspásia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4752",
+    "nameCity": "Assis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4753",
+    "nameCity": "Atibaia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4754",
+    "nameCity": "Auriflama"
+  },
+  {
+    "idState": "26",
+    "idCity": "4755",
+    "nameCity": "Avaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4756",
+    "nameCity": "Avanhandava"
+  },
+  {
+    "idState": "26",
+    "idCity": "4757",
+    "nameCity": "Avaré"
+  },
+  {
+    "idState": "26",
+    "idCity": "4758",
+    "nameCity": "Bady Bassitt"
+  },
+  {
+    "idState": "26",
+    "idCity": "4759",
+    "nameCity": "Balbinos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4760",
+    "nameCity": "Bálsamo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4761",
+    "nameCity": "Bananal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4762",
+    "nameCity": "Barão de Antonina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4763",
+    "nameCity": "Barbosa"
+  },
+  {
+    "idState": "26",
+    "idCity": "4764",
+    "nameCity": "Bariri"
+  },
+  {
+    "idState": "26",
+    "idCity": "4765",
+    "nameCity": "Barra Bonita"
+  },
+  {
+    "idState": "26",
+    "idCity": "4766",
+    "nameCity": "Barra do Chapéu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4767",
+    "nameCity": "Barra do Turvo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4768",
+    "nameCity": "Barretos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4769",
+    "nameCity": "Barrinha"
+  },
+  {
+    "idState": "26",
+    "idCity": "4770",
+    "nameCity": "Barueri"
+  },
+  {
+    "idState": "26",
+    "idCity": "4771",
+    "nameCity": "Bastos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4772",
+    "nameCity": "Batatais"
+  },
+  {
+    "idState": "26",
+    "idCity": "4773",
+    "nameCity": "Bauru"
+  },
+  {
+    "idState": "26",
+    "idCity": "4774",
+    "nameCity": "Bebedouro"
+  },
+  {
+    "idState": "26",
+    "idCity": "4775",
+    "nameCity": "Bento de Abreu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4776",
+    "nameCity": "Bernardino de Campos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4777",
+    "nameCity": "Bertioga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4778",
+    "nameCity": "Bilac"
+  },
+  {
+    "idState": "26",
+    "idCity": "4779",
+    "nameCity": "Birigui"
+  },
+  {
+    "idState": "26",
+    "idCity": "4780",
+    "nameCity": "Biritiba-Mirim"
+  },
+  {
+    "idState": "26",
+    "idCity": "4781",
+    "nameCity": "Boa Esperança do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "4782",
+    "nameCity": "Bocaina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4783",
+    "nameCity": "Bofete"
+  },
+  {
+    "idState": "26",
+    "idCity": "4784",
+    "nameCity": "Boituva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4785",
+    "nameCity": "Bom Jesus dos Perdões"
+  },
+  {
+    "idState": "26",
+    "idCity": "4786",
+    "nameCity": "Bom Sucesso de Itararé"
+  },
+  {
+    "idState": "26",
+    "idCity": "4787",
+    "nameCity": "Borá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4788",
+    "nameCity": "Boracéia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4789",
+    "nameCity": "Borborema"
+  },
+  {
+    "idState": "26",
+    "idCity": "4790",
+    "nameCity": "Borebi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4791",
+    "nameCity": "Botucatu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4792",
+    "nameCity": "Bragança Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4793",
+    "nameCity": "Braúna"
+  },
+  {
+    "idState": "26",
+    "idCity": "4794",
+    "nameCity": "Brejo Alegre"
+  },
+  {
+    "idState": "26",
+    "idCity": "4795",
+    "nameCity": "Brodowski"
+  },
+  {
+    "idState": "26",
+    "idCity": "4796",
+    "nameCity": "Brotas"
+  },
+  {
+    "idState": "26",
+    "idCity": "4797",
+    "nameCity": "Buri"
+  },
+  {
+    "idState": "26",
+    "idCity": "4798",
+    "nameCity": "Buritama"
+  },
+  {
+    "idState": "26",
+    "idCity": "4799",
+    "nameCity": "Buritizal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4800",
+    "nameCity": "Cabrália Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4801",
+    "nameCity": "Cabreúva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4802",
+    "nameCity": "Caçapava"
+  },
+  {
+    "idState": "26",
+    "idCity": "4803",
+    "nameCity": "Cachoeira Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4804",
+    "nameCity": "Caconde"
+  },
+  {
+    "idState": "26",
+    "idCity": "4805",
+    "nameCity": "Cafelândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4806",
+    "nameCity": "Caiabu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4807",
+    "nameCity": "Caieiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "4808",
+    "nameCity": "Caiuá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4809",
+    "nameCity": "Cajamar"
+  },
+  {
+    "idState": "26",
+    "idCity": "4810",
+    "nameCity": "Cajati"
+  },
+  {
+    "idState": "26",
+    "idCity": "4811",
+    "nameCity": "Cajobi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4812",
+    "nameCity": "Cajuru"
+  },
+  {
+    "idState": "26",
+    "idCity": "4813",
+    "nameCity": "Campina do Monte Alegre"
+  },
+  {
+    "idState": "26",
+    "idCity": "4814",
+    "nameCity": "Campinas"
+  },
+  {
+    "idState": "26",
+    "idCity": "4815",
+    "nameCity": "Campo Limpo Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4816",
+    "nameCity": "Campos do Jordão"
+  },
+  {
+    "idState": "26",
+    "idCity": "4817",
+    "nameCity": "Campos Novos Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4818",
+    "nameCity": "Cananéia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4819",
+    "nameCity": "Canas"
+  },
+  {
+    "idState": "26",
+    "idCity": "4820",
+    "nameCity": "Cândido Mota"
+  },
+  {
+    "idState": "26",
+    "idCity": "4821",
+    "nameCity": "Cândido Rodrigues"
+  },
+  {
+    "idState": "26",
+    "idCity": "4822",
+    "nameCity": "Canitar"
+  },
+  {
+    "idState": "26",
+    "idCity": "4823",
+    "nameCity": "Capão Bonito"
+  },
+  {
+    "idState": "26",
+    "idCity": "4824",
+    "nameCity": "Capela do Alto"
+  },
+  {
+    "idState": "26",
+    "idCity": "4825",
+    "nameCity": "Capivari"
+  },
+  {
+    "idState": "26",
+    "idCity": "4826",
+    "nameCity": "Caraguatatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4827",
+    "nameCity": "Carapicuíba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4828",
+    "nameCity": "Cardoso"
+  },
+  {
+    "idState": "26",
+    "idCity": "4829",
+    "nameCity": "Casa Branca"
+  },
+  {
+    "idState": "26",
+    "idCity": "4830",
+    "nameCity": "Cássia dos Coqueiros"
+  },
+  {
+    "idState": "26",
+    "idCity": "4831",
+    "nameCity": "Castilho"
+  },
+  {
+    "idState": "26",
+    "idCity": "4832",
+    "nameCity": "Catanduva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4833",
+    "nameCity": "Catiguá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4834",
+    "nameCity": "Cedral"
+  },
+  {
+    "idState": "26",
+    "idCity": "4835",
+    "nameCity": "Cerqueira César"
+  },
+  {
+    "idState": "26",
+    "idCity": "4836",
+    "nameCity": "Cerquilho"
+  },
+  {
+    "idState": "26",
+    "idCity": "4837",
+    "nameCity": "Cesário Lange"
+  },
+  {
+    "idState": "26",
+    "idCity": "4838",
+    "nameCity": "Charqueada"
+  },
+  {
+    "idState": "26",
+    "idCity": "4839",
+    "nameCity": "Chavantes"
+  },
+  {
+    "idState": "26",
+    "idCity": "4840",
+    "nameCity": "Clementina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4841",
+    "nameCity": "Colina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4842",
+    "nameCity": "Colômbia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4843",
+    "nameCity": "Conchal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4844",
+    "nameCity": "Conchas"
+  },
+  {
+    "idState": "26",
+    "idCity": "4845",
+    "nameCity": "Cordeirópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4846",
+    "nameCity": "Coroados"
+  },
+  {
+    "idState": "26",
+    "idCity": "4847",
+    "nameCity": "Coronel Macedo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4848",
+    "nameCity": "Corumbataí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4849",
+    "nameCity": "Cosmópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4850",
+    "nameCity": "Cosmorama"
+  },
+  {
+    "idState": "26",
+    "idCity": "4851",
+    "nameCity": "Cotia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4852",
+    "nameCity": "Cravinhos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4853",
+    "nameCity": "Cristais Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4854",
+    "nameCity": "Cruzália"
+  },
+  {
+    "idState": "26",
+    "idCity": "4855",
+    "nameCity": "Cruzeiro"
+  },
+  {
+    "idState": "26",
+    "idCity": "4856",
+    "nameCity": "Cubatão"
+  },
+  {
+    "idState": "26",
+    "idCity": "4857",
+    "nameCity": "Cunha"
+  },
+  {
+    "idState": "26",
+    "idCity": "4858",
+    "nameCity": "Descalvado"
+  },
+  {
+    "idState": "26",
+    "idCity": "4859",
+    "nameCity": "Diadema"
+  },
+  {
+    "idState": "26",
+    "idCity": "4860",
+    "nameCity": "Dirce Reis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4861",
+    "nameCity": "Divinolândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4862",
+    "nameCity": "Dobrada"
+  },
+  {
+    "idState": "26",
+    "idCity": "4863",
+    "nameCity": "Dois Córregos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4864",
+    "nameCity": "Dolcinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4865",
+    "nameCity": "Dourado"
+  },
+  {
+    "idState": "26",
+    "idCity": "4866",
+    "nameCity": "Dracena"
+  },
+  {
+    "idState": "26",
+    "idCity": "4867",
+    "nameCity": "Duartina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4868",
+    "nameCity": "Dumont"
+  },
+  {
+    "idState": "26",
+    "idCity": "4869",
+    "nameCity": "Echaporã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4870",
+    "nameCity": "Eldorado"
+  },
+  {
+    "idState": "26",
+    "idCity": "4871",
+    "nameCity": "Elias Fausto"
+  },
+  {
+    "idState": "26",
+    "idCity": "4872",
+    "nameCity": "Elisiário"
+  },
+  {
+    "idState": "26",
+    "idCity": "4873",
+    "nameCity": "Embaúba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4874",
+    "nameCity": "Embu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4875",
+    "nameCity": "Embu-Guaçu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4876",
+    "nameCity": "Emilianópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4877",
+    "nameCity": "Engenheiro Coelho"
+  },
+  {
+    "idState": "26",
+    "idCity": "4878",
+    "nameCity": "Espírito Santo do Pinhal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4879",
+    "nameCity": "Espírito Santo do Turvo"
+  },
+  {
+    "idState": "26",
+    "idCity": "4880",
+    "nameCity": "Estiva Gerbi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4881",
+    "nameCity": "Estrela d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "4882",
+    "nameCity": "Estrela do Norte"
+  },
+  {
+    "idState": "26",
+    "idCity": "4883",
+    "nameCity": "Euclides da Cunha Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4884",
+    "nameCity": "Fartura"
+  },
+  {
+    "idState": "26",
+    "idCity": "4885",
+    "nameCity": "Fernando Prestes"
+  },
+  {
+    "idState": "26",
+    "idCity": "4886",
+    "nameCity": "Fernandópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4887",
+    "nameCity": "Fernão"
+  },
+  {
+    "idState": "26",
+    "idCity": "4888",
+    "nameCity": "Ferraz de Vasconcelos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4889",
+    "nameCity": "Flora Rica"
+  },
+  {
+    "idState": "26",
+    "idCity": "4890",
+    "nameCity": "Floreal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4891",
+    "nameCity": "Flórida Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4892",
+    "nameCity": "Florínia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4893",
+    "nameCity": "Franca"
+  },
+  {
+    "idState": "26",
+    "idCity": "4894",
+    "nameCity": "Francisco Morato"
+  },
+  {
+    "idState": "26",
+    "idCity": "4895",
+    "nameCity": "Franco da Rocha"
+  },
+  {
+    "idState": "26",
+    "idCity": "4896",
+    "nameCity": "Gabriel Monteiro"
+  },
+  {
+    "idState": "26",
+    "idCity": "4897",
+    "nameCity": "Gália"
+  },
+  {
+    "idState": "26",
+    "idCity": "4898",
+    "nameCity": "Garça"
+  },
+  {
+    "idState": "26",
+    "idCity": "4899",
+    "nameCity": "Gastão Vidigal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4900",
+    "nameCity": "Gavião Peixoto"
+  },
+  {
+    "idState": "26",
+    "idCity": "4901",
+    "nameCity": "General Salgado"
+  },
+  {
+    "idState": "26",
+    "idCity": "4902",
+    "nameCity": "Getulina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4903",
+    "nameCity": "Glicério"
+  },
+  {
+    "idState": "26",
+    "idCity": "4904",
+    "nameCity": "Guaiçara"
+  },
+  {
+    "idState": "26",
+    "idCity": "4905",
+    "nameCity": "Guaimbê"
+  },
+  {
+    "idState": "26",
+    "idCity": "4906",
+    "nameCity": "Guaíra"
+  },
+  {
+    "idState": "26",
+    "idCity": "4907",
+    "nameCity": "Guapiaçu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4908",
+    "nameCity": "Guapiara"
+  },
+  {
+    "idState": "26",
+    "idCity": "4909",
+    "nameCity": "Guará"
+  },
+  {
+    "idState": "26",
+    "idCity": "4910",
+    "nameCity": "Guaraçaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4911",
+    "nameCity": "Guaraci"
+  },
+  {
+    "idState": "26",
+    "idCity": "4912",
+    "nameCity": "Guarani d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "4913",
+    "nameCity": "Guarantã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4914",
+    "nameCity": "Guararapes"
+  },
+  {
+    "idState": "26",
+    "idCity": "4915",
+    "nameCity": "Guararema"
+  },
+  {
+    "idState": "26",
+    "idCity": "4916",
+    "nameCity": "Guaratinguetá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4917",
+    "nameCity": "Guareí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4918",
+    "nameCity": "Guariba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4919",
+    "nameCity": "Guarujá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4920",
+    "nameCity": "Guarulhos"
+  },
+  {
+    "idState": "26",
+    "idCity": "4921",
+    "nameCity": "Guatapará"
+  },
+  {
+    "idState": "26",
+    "idCity": "4922",
+    "nameCity": "Guzolândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4923",
+    "nameCity": "Herculândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4924",
+    "nameCity": "Holambra"
+  },
+  {
+    "idState": "26",
+    "idCity": "4925",
+    "nameCity": "Hortolândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "4926",
+    "nameCity": "Iacanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4927",
+    "nameCity": "Iacri"
+  },
+  {
+    "idState": "26",
+    "idCity": "4928",
+    "nameCity": "Iaras"
+  },
+  {
+    "idState": "26",
+    "idCity": "4929",
+    "nameCity": "Ibaté"
+  },
+  {
+    "idState": "26",
+    "idCity": "4930",
+    "nameCity": "Ibirá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4931",
+    "nameCity": "Ibirarema"
+  },
+  {
+    "idState": "26",
+    "idCity": "4932",
+    "nameCity": "Ibitinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4933",
+    "nameCity": "Ibiúna"
+  },
+  {
+    "idState": "26",
+    "idCity": "4934",
+    "nameCity": "Icém"
+  },
+  {
+    "idState": "26",
+    "idCity": "4935",
+    "nameCity": "Iepê"
+  },
+  {
+    "idState": "26",
+    "idCity": "4936",
+    "nameCity": "Igaraçu do Tietê"
+  },
+  {
+    "idState": "26",
+    "idCity": "4937",
+    "nameCity": "Igarapava"
+  },
+  {
+    "idState": "26",
+    "idCity": "4938",
+    "nameCity": "Igaratá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4939",
+    "nameCity": "Iguape"
+  },
+  {
+    "idState": "26",
+    "idCity": "4940",
+    "nameCity": "Ilha Comprida"
+  },
+  {
+    "idState": "26",
+    "idCity": "4941",
+    "nameCity": "Ilha Solteira"
+  },
+  {
+    "idState": "26",
+    "idCity": "4942",
+    "nameCity": "Ilhabela"
+  },
+  {
+    "idState": "26",
+    "idCity": "4943",
+    "nameCity": "Indaiatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4944",
+    "nameCity": "Indiana"
+  },
+  {
+    "idState": "26",
+    "idCity": "4945",
+    "nameCity": "Indiaporã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4946",
+    "nameCity": "Inúbia Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4947",
+    "nameCity": "Ipaussu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4948",
+    "nameCity": "Iperó"
+  },
+  {
+    "idState": "26",
+    "idCity": "4949",
+    "nameCity": "Ipeúna"
+  },
+  {
+    "idState": "26",
+    "idCity": "4950",
+    "nameCity": "Ipiguá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4951",
+    "nameCity": "Iporanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4952",
+    "nameCity": "Ipuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4953",
+    "nameCity": "Iracemápolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4954",
+    "nameCity": "Irapuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4955",
+    "nameCity": "Irapuru"
+  },
+  {
+    "idState": "26",
+    "idCity": "4956",
+    "nameCity": "Itaberá"
+  },
+  {
+    "idState": "26",
+    "idCity": "4957",
+    "nameCity": "Itaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4958",
+    "nameCity": "Itajobi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4959",
+    "nameCity": "Itaju"
+  },
+  {
+    "idState": "26",
+    "idCity": "4960",
+    "nameCity": "Itanhaém"
+  },
+  {
+    "idState": "26",
+    "idCity": "4961",
+    "nameCity": "Itaóca"
+  },
+  {
+    "idState": "26",
+    "idCity": "4962",
+    "nameCity": "Itapecerica da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "4963",
+    "nameCity": "Itapetininga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4964",
+    "nameCity": "Itapeva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4965",
+    "nameCity": "Itapevi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4966",
+    "nameCity": "Itapira"
+  },
+  {
+    "idState": "26",
+    "idCity": "4967",
+    "nameCity": "Itapirapuã Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "4968",
+    "nameCity": "Itápolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4969",
+    "nameCity": "Itaporanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4970",
+    "nameCity": "Itapuí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4971",
+    "nameCity": "Itapura"
+  },
+  {
+    "idState": "26",
+    "idCity": "4972",
+    "nameCity": "Itaquaquecetuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4973",
+    "nameCity": "Itararé"
+  },
+  {
+    "idState": "26",
+    "idCity": "4974",
+    "nameCity": "Itariri"
+  },
+  {
+    "idState": "26",
+    "idCity": "4975",
+    "nameCity": "Itatiba"
+  },
+  {
+    "idState": "26",
+    "idCity": "4976",
+    "nameCity": "Itatinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4977",
+    "nameCity": "Itirapina"
+  },
+  {
+    "idState": "26",
+    "idCity": "4978",
+    "nameCity": "Itirapuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "4979",
+    "nameCity": "Itobi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4980",
+    "nameCity": "Itu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4981",
+    "nameCity": "Itupeva"
+  },
+  {
+    "idState": "26",
+    "idCity": "4982",
+    "nameCity": "Ituverava"
+  },
+  {
+    "idState": "26",
+    "idCity": "4983",
+    "nameCity": "Jaborandi"
+  },
+  {
+    "idState": "26",
+    "idCity": "4984",
+    "nameCity": "Jaboticabal"
+  },
+  {
+    "idState": "26",
+    "idCity": "4985",
+    "nameCity": "Jacareí"
+  },
+  {
+    "idState": "26",
+    "idCity": "4986",
+    "nameCity": "Jaci"
+  },
+  {
+    "idState": "26",
+    "idCity": "4987",
+    "nameCity": "Jacupiranga"
+  },
+  {
+    "idState": "26",
+    "idCity": "4988",
+    "nameCity": "Jaguariúna"
+  },
+  {
+    "idState": "26",
+    "idCity": "4989",
+    "nameCity": "Jales"
+  },
+  {
+    "idState": "26",
+    "idCity": "4990",
+    "nameCity": "Jambeiro"
+  },
+  {
+    "idState": "26",
+    "idCity": "4991",
+    "nameCity": "Jandira"
+  },
+  {
+    "idState": "26",
+    "idCity": "4992",
+    "nameCity": "Jardinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4993",
+    "nameCity": "Jarinu"
+  },
+  {
+    "idState": "26",
+    "idCity": "4994",
+    "nameCity": "Jaú"
+  },
+  {
+    "idState": "26",
+    "idCity": "4995",
+    "nameCity": "Jeriquara"
+  },
+  {
+    "idState": "26",
+    "idCity": "4996",
+    "nameCity": "Joanópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "4997",
+    "nameCity": "João Ramalho"
+  },
+  {
+    "idState": "26",
+    "idCity": "4998",
+    "nameCity": "José Bonifácio"
+  },
+  {
+    "idState": "26",
+    "idCity": "4999",
+    "nameCity": "Júlio Mesquita"
+  },
+  {
+    "idState": "26",
+    "idCity": "5000",
+    "nameCity": "Jumirim"
+  },
+  {
+    "idState": "26",
+    "idCity": "5001",
+    "nameCity": "Jundiaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5002",
+    "nameCity": "Junqueirópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5003",
+    "nameCity": "Juquiá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5004",
+    "nameCity": "Juquitiba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5005",
+    "nameCity": "Lagoinha"
+  },
+  {
+    "idState": "26",
+    "idCity": "5006",
+    "nameCity": "Laranjal Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5007",
+    "nameCity": "Lavínia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5008",
+    "nameCity": "Lavrinhas"
+  },
+  {
+    "idState": "26",
+    "idCity": "5009",
+    "nameCity": "Leme"
+  },
+  {
+    "idState": "26",
+    "idCity": "5010",
+    "nameCity": "Lençóis Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5011",
+    "nameCity": "Limeira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5012",
+    "nameCity": "Lindóia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5013",
+    "nameCity": "Lins"
+  },
+  {
+    "idState": "26",
+    "idCity": "5014",
+    "nameCity": "Lorena"
+  },
+  {
+    "idState": "26",
+    "idCity": "5015",
+    "nameCity": "Lourdes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5016",
+    "nameCity": "Louveira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5017",
+    "nameCity": "Lucélia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5018",
+    "nameCity": "Lucianópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5019",
+    "nameCity": "Luís Antônio"
+  },
+  {
+    "idState": "26",
+    "idCity": "5020",
+    "nameCity": "Luiziânia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5021",
+    "nameCity": "Lupércio"
+  },
+  {
+    "idState": "26",
+    "idCity": "5022",
+    "nameCity": "Lutécia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5023",
+    "nameCity": "Macatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5024",
+    "nameCity": "Macaubal"
+  },
+  {
+    "idState": "26",
+    "idCity": "5025",
+    "nameCity": "Macedônia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5026",
+    "nameCity": "Magda"
+  },
+  {
+    "idState": "26",
+    "idCity": "5027",
+    "nameCity": "Mairinque"
+  },
+  {
+    "idState": "26",
+    "idCity": "5028",
+    "nameCity": "Mairiporã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5029",
+    "nameCity": "Manduri"
+  },
+  {
+    "idState": "26",
+    "idCity": "5030",
+    "nameCity": "Marabá Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5031",
+    "nameCity": "Maracaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5032",
+    "nameCity": "Marapoama"
+  },
+  {
+    "idState": "26",
+    "idCity": "5033",
+    "nameCity": "Mariápolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5034",
+    "nameCity": "Marília"
+  },
+  {
+    "idState": "26",
+    "idCity": "5035",
+    "nameCity": "Marinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5036",
+    "nameCity": "Martinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5037",
+    "nameCity": "Matão"
+  },
+  {
+    "idState": "26",
+    "idCity": "5038",
+    "nameCity": "Mauá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5039",
+    "nameCity": "Mendonça"
+  },
+  {
+    "idState": "26",
+    "idCity": "5040",
+    "nameCity": "Meridiano"
+  },
+  {
+    "idState": "26",
+    "idCity": "5041",
+    "nameCity": "Mesópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5042",
+    "nameCity": "Miguelópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5043",
+    "nameCity": "Mineiros do Tietê"
+  },
+  {
+    "idState": "26",
+    "idCity": "5044",
+    "nameCity": "Mira Estrela"
+  },
+  {
+    "idState": "26",
+    "idCity": "5045",
+    "nameCity": "Miracatu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5046",
+    "nameCity": "Mirandópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5047",
+    "nameCity": "Mirante do Paranapanema"
+  },
+  {
+    "idState": "26",
+    "idCity": "5048",
+    "nameCity": "Mirassol"
+  },
+  {
+    "idState": "26",
+    "idCity": "5049",
+    "nameCity": "Mirassolândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5050",
+    "nameCity": "Mococa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5051",
+    "nameCity": "Mogi das Cruzes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5052",
+    "nameCity": "Mogi Guaçu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5053",
+    "nameCity": "Moji Mirim"
+  },
+  {
+    "idState": "26",
+    "idCity": "5054",
+    "nameCity": "Mombuca"
+  },
+  {
+    "idState": "26",
+    "idCity": "5055",
+    "nameCity": "Monções"
+  },
+  {
+    "idState": "26",
+    "idCity": "5056",
+    "nameCity": "Mongaguá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5057",
+    "nameCity": "Monte Alegre do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5058",
+    "nameCity": "Monte Alto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5059",
+    "nameCity": "Monte Aprazível"
+  },
+  {
+    "idState": "26",
+    "idCity": "5060",
+    "nameCity": "Monte Azul Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5061",
+    "nameCity": "Monte Castelo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5062",
+    "nameCity": "Monte Mor"
+  },
+  {
+    "idState": "26",
+    "idCity": "5063",
+    "nameCity": "Monteiro Lobato"
+  },
+  {
+    "idState": "26",
+    "idCity": "5064",
+    "nameCity": "Morro Agudo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5065",
+    "nameCity": "Morungaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5066",
+    "nameCity": "Motuca"
+  },
+  {
+    "idState": "26",
+    "idCity": "5067",
+    "nameCity": "Murutinga do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5068",
+    "nameCity": "Nantes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5069",
+    "nameCity": "Narandiba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5070",
+    "nameCity": "Natividade da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5071",
+    "nameCity": "Nazaré Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5072",
+    "nameCity": "Neves Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5073",
+    "nameCity": "Nhandeara"
+  },
+  {
+    "idState": "26",
+    "idCity": "5074",
+    "nameCity": "Nipoã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5075",
+    "nameCity": "Nova Aliança"
+  },
+  {
+    "idState": "26",
+    "idCity": "5076",
+    "nameCity": "Nova Campina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5077",
+    "nameCity": "Nova Canaã Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5078",
+    "nameCity": "Nova Castilho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5079",
+    "nameCity": "Nova Europa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5080",
+    "nameCity": "Nova Granada"
+  },
+  {
+    "idState": "26",
+    "idCity": "5081",
+    "nameCity": "Nova Guataporanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5082",
+    "nameCity": "Nova Independência"
+  },
+  {
+    "idState": "26",
+    "idCity": "5083",
+    "nameCity": "Nova Luzitânia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5084",
+    "nameCity": "Nova Odessa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5085",
+    "nameCity": "Novais"
+  },
+  {
+    "idState": "26",
+    "idCity": "5086",
+    "nameCity": "Novo Horizonte"
+  },
+  {
+    "idState": "26",
+    "idCity": "5087",
+    "nameCity": "Nuporanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5088",
+    "nameCity": "Ocauçu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5089",
+    "nameCity": "Óleo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5090",
+    "nameCity": "Olímpia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5091",
+    "nameCity": "Onda Verde"
+  },
+  {
+    "idState": "26",
+    "idCity": "5092",
+    "nameCity": "Oriente"
+  },
+  {
+    "idState": "26",
+    "idCity": "5093",
+    "nameCity": "Orindiúva"
+  },
+  {
+    "idState": "26",
+    "idCity": "5094",
+    "nameCity": "Orlândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5095",
+    "nameCity": "Osasco"
+  },
+  {
+    "idState": "26",
+    "idCity": "5096",
+    "nameCity": "Oscar Bressane"
+  },
+  {
+    "idState": "26",
+    "idCity": "5097",
+    "nameCity": "Osvaldo Cruz"
+  },
+  {
+    "idState": "26",
+    "idCity": "5098",
+    "nameCity": "Ourinhos"
+  },
+  {
+    "idState": "26",
+    "idCity": "5099",
+    "nameCity": "Ouro Verde"
+  },
+  {
+    "idState": "26",
+    "idCity": "5100",
+    "nameCity": "Ouroeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "5101",
+    "nameCity": "Pacaembu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5102",
+    "nameCity": "Palestina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5103",
+    "nameCity": "Palmares Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5104",
+    "nameCity": "Palmeira d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "5105",
+    "nameCity": "Palmital"
+  },
+  {
+    "idState": "26",
+    "idCity": "5106",
+    "nameCity": "Panorama"
+  },
+  {
+    "idState": "26",
+    "idCity": "5107",
+    "nameCity": "Paraguaçu Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5108",
+    "nameCity": "Paraibuna"
+  },
+  {
+    "idState": "26",
+    "idCity": "5109",
+    "nameCity": "Paraíso"
+  },
+  {
+    "idState": "26",
+    "idCity": "5110",
+    "nameCity": "Paranapanema"
+  },
+  {
+    "idState": "26",
+    "idCity": "5111",
+    "nameCity": "Paranapuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5112",
+    "nameCity": "Parapuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5113",
+    "nameCity": "Pardinho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5114",
+    "nameCity": "Pariquera-Açu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5115",
+    "nameCity": "Parisi"
+  },
+  {
+    "idState": "26",
+    "idCity": "5116",
+    "nameCity": "Patrocínio Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5117",
+    "nameCity": "Paulicéia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5118",
+    "nameCity": "Paulínia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5119",
+    "nameCity": "Paulistânia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5120",
+    "nameCity": "Paulo de Faria"
+  },
+  {
+    "idState": "26",
+    "idCity": "5121",
+    "nameCity": "Pederneiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5122",
+    "nameCity": "Pedra Bela"
+  },
+  {
+    "idState": "26",
+    "idCity": "5123",
+    "nameCity": "Pedranópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5124",
+    "nameCity": "Pedregulho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5125",
+    "nameCity": "Pedreira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5126",
+    "nameCity": "Pedrinhas Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5127",
+    "nameCity": "Pedro de Toledo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5128",
+    "nameCity": "Penápolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5129",
+    "nameCity": "Pereira Barreto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5130",
+    "nameCity": "Pereiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5131",
+    "nameCity": "Peruíbe"
+  },
+  {
+    "idState": "26",
+    "idCity": "5132",
+    "nameCity": "Piacatu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5133",
+    "nameCity": "Piedade"
+  },
+  {
+    "idState": "26",
+    "idCity": "5134",
+    "nameCity": "Pilar do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5135",
+    "nameCity": "Pindamonhangaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5136",
+    "nameCity": "Pindorama"
+  },
+  {
+    "idState": "26",
+    "idCity": "5137",
+    "nameCity": "Pinhalzinho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5138",
+    "nameCity": "Piquerobi"
+  },
+  {
+    "idState": "26",
+    "idCity": "5139",
+    "nameCity": "Piquete"
+  },
+  {
+    "idState": "26",
+    "idCity": "5140",
+    "nameCity": "Piracaia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5141",
+    "nameCity": "Piracicaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5142",
+    "nameCity": "Piraju"
+  },
+  {
+    "idState": "26",
+    "idCity": "5143",
+    "nameCity": "Pirajuí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5144",
+    "nameCity": "Pirangi"
+  },
+  {
+    "idState": "26",
+    "idCity": "5145",
+    "nameCity": "Pirapora do Bom Jesus"
+  },
+  {
+    "idState": "26",
+    "idCity": "5146",
+    "nameCity": "Pirapozinho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5147",
+    "nameCity": "Pirassununga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5148",
+    "nameCity": "Piratininga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5149",
+    "nameCity": "Pitangueiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5150",
+    "nameCity": "Planalto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5151",
+    "nameCity": "Platina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5152",
+    "nameCity": "Poá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5153",
+    "nameCity": "Poloni"
+  },
+  {
+    "idState": "26",
+    "idCity": "5154",
+    "nameCity": "Pompéia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5155",
+    "nameCity": "Pongaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5156",
+    "nameCity": "Pontal"
+  },
+  {
+    "idState": "26",
+    "idCity": "5157",
+    "nameCity": "Pontalinda"
+  },
+  {
+    "idState": "26",
+    "idCity": "5158",
+    "nameCity": "Pontes Gestal"
+  },
+  {
+    "idState": "26",
+    "idCity": "5159",
+    "nameCity": "Populina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5160",
+    "nameCity": "Porangaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5161",
+    "nameCity": "Porto Feliz"
+  },
+  {
+    "idState": "26",
+    "idCity": "5162",
+    "nameCity": "Porto Ferreira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5163",
+    "nameCity": "Potim"
+  },
+  {
+    "idState": "26",
+    "idCity": "5164",
+    "nameCity": "Potirendaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5165",
+    "nameCity": "Pracinha"
+  },
+  {
+    "idState": "26",
+    "idCity": "5166",
+    "nameCity": "Pradópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5167",
+    "nameCity": "Praia Grande"
+  },
+  {
+    "idState": "26",
+    "idCity": "5168",
+    "nameCity": "Pratânia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5169",
+    "nameCity": "Presidente Alves"
+  },
+  {
+    "idState": "26",
+    "idCity": "5170",
+    "nameCity": "Presidente Bernardes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5171",
+    "nameCity": "Presidente Epitácio"
+  },
+  {
+    "idState": "26",
+    "idCity": "5172",
+    "nameCity": "Presidente Prudente"
+  },
+  {
+    "idState": "26",
+    "idCity": "5173",
+    "nameCity": "Presidente Venceslau"
+  },
+  {
+    "idState": "26",
+    "idCity": "5174",
+    "nameCity": "Promissão"
+  },
+  {
+    "idState": "26",
+    "idCity": "5175",
+    "nameCity": "Quadra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5176",
+    "nameCity": "Quatá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5177",
+    "nameCity": "Queiroz"
+  },
+  {
+    "idState": "26",
+    "idCity": "5178",
+    "nameCity": "Queluz"
+  },
+  {
+    "idState": "26",
+    "idCity": "5179",
+    "nameCity": "Quintana"
+  },
+  {
+    "idState": "26",
+    "idCity": "5180",
+    "nameCity": "Rafard"
+  },
+  {
+    "idState": "26",
+    "idCity": "5181",
+    "nameCity": "Rancharia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5182",
+    "nameCity": "Redenção da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5183",
+    "nameCity": "Regente Feijó"
+  },
+  {
+    "idState": "26",
+    "idCity": "5184",
+    "nameCity": "Reginópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5185",
+    "nameCity": "Registro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5186",
+    "nameCity": "Restinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5187",
+    "nameCity": "Ribeira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5188",
+    "nameCity": "Ribeirão Bonito"
+  },
+  {
+    "idState": "26",
+    "idCity": "5189",
+    "nameCity": "Ribeirão Branco"
+  },
+  {
+    "idState": "26",
+    "idCity": "5190",
+    "nameCity": "Ribeirão Corrente"
+  },
+  {
+    "idState": "26",
+    "idCity": "5191",
+    "nameCity": "Ribeirão do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5192",
+    "nameCity": "Ribeirão dos Índios"
+  },
+  {
+    "idState": "26",
+    "idCity": "5193",
+    "nameCity": "Ribeirão Grande"
+  },
+  {
+    "idState": "26",
+    "idCity": "5194",
+    "nameCity": "Ribeirão Pires"
+  },
+  {
+    "idState": "26",
+    "idCity": "5195",
+    "nameCity": "Ribeirão Preto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5196",
+    "nameCity": "Rifaina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5197",
+    "nameCity": "Rincão"
+  },
+  {
+    "idState": "26",
+    "idCity": "5198",
+    "nameCity": "Rinópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5199",
+    "nameCity": "Rio Claro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5200",
+    "nameCity": "Rio das Pedras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5201",
+    "nameCity": "Rio Grande da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5202",
+    "nameCity": "Riolândia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5203",
+    "nameCity": "Riversul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5204",
+    "nameCity": "Rosana"
+  },
+  {
+    "idState": "26",
+    "idCity": "5205",
+    "nameCity": "Roseira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5206",
+    "nameCity": "Rubiácea"
+  },
+  {
+    "idState": "26",
+    "idCity": "5207",
+    "nameCity": "Rubinéia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5208",
+    "nameCity": "Sabino"
+  },
+  {
+    "idState": "26",
+    "idCity": "5209",
+    "nameCity": "Sagres"
+  },
+  {
+    "idState": "26",
+    "idCity": "5210",
+    "nameCity": "Sales"
+  },
+  {
+    "idState": "26",
+    "idCity": "5211",
+    "nameCity": "Sales Oliveira"
+  },
+  {
+    "idState": "26",
+    "idCity": "5212",
+    "nameCity": "Salesópolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5213",
+    "nameCity": "Salmourão"
+  },
+  {
+    "idState": "26",
+    "idCity": "5214",
+    "nameCity": "Saltinho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5215",
+    "nameCity": "Salto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5216",
+    "nameCity": "Salto de Pirapora"
+  },
+  {
+    "idState": "26",
+    "idCity": "5217",
+    "nameCity": "Salto Grande"
+  },
+  {
+    "idState": "26",
+    "idCity": "5218",
+    "nameCity": "Sandovalina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5219",
+    "nameCity": "Santa Adélia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5220",
+    "nameCity": "Santa Albertina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5221",
+    "nameCity": "Santa Bárbara d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "5222",
+    "nameCity": "Santa Branca"
+  },
+  {
+    "idState": "26",
+    "idCity": "5223",
+    "nameCity": "Santa Clara d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "5224",
+    "nameCity": "Santa Cruz da Conceição"
+  },
+  {
+    "idState": "26",
+    "idCity": "5225",
+    "nameCity": "Santa Cruz da Esperança"
+  },
+  {
+    "idState": "26",
+    "idCity": "5226",
+    "nameCity": "Santa Cruz das Palmeiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5227",
+    "nameCity": "Santa Cruz do Rio Pardo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5228",
+    "nameCity": "Santa Ernestina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5229",
+    "nameCity": "Santa Fé do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5230",
+    "nameCity": "Santa Gertrudes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5231",
+    "nameCity": "Santa Isabel"
+  },
+  {
+    "idState": "26",
+    "idCity": "5232",
+    "nameCity": "Santa Lúcia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5233",
+    "nameCity": "Santa Maria da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5234",
+    "nameCity": "Santa Mercedes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5235",
+    "nameCity": "Santa Rita d`Oeste"
+  },
+  {
+    "idState": "26",
+    "idCity": "5236",
+    "nameCity": "Santa Rita do Passa Quatro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5237",
+    "nameCity": "Santa Rosa de Viterbo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5238",
+    "nameCity": "Santa Salete"
+  },
+  {
+    "idState": "26",
+    "idCity": "5239",
+    "nameCity": "Santana da Ponte Pensa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5240",
+    "nameCity": "Santana de Parnaíba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5241",
+    "nameCity": "Santo Anastácio"
+  },
+  {
+    "idState": "26",
+    "idCity": "5242",
+    "nameCity": "Santo André"
+  },
+  {
+    "idState": "26",
+    "idCity": "5243",
+    "nameCity": "Santo Antônio da Alegria"
+  },
+  {
+    "idState": "26",
+    "idCity": "5244",
+    "nameCity": "Santo Antônio de Posse"
+  },
+  {
+    "idState": "26",
+    "idCity": "5245",
+    "nameCity": "Santo Antônio do Aracanguá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5246",
+    "nameCity": "Santo Antônio do Jardim"
+  },
+  {
+    "idState": "26",
+    "idCity": "5247",
+    "nameCity": "Santo Antônio do Pinhal"
+  },
+  {
+    "idState": "26",
+    "idCity": "5248",
+    "nameCity": "Santo Expedito"
+  },
+  {
+    "idState": "26",
+    "idCity": "5249",
+    "nameCity": "Santópolis do Aguapeí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5250",
+    "nameCity": "Santos"
+  },
+  {
+    "idState": "26",
+    "idCity": "5251",
+    "nameCity": "São Bento do Sapucaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5252",
+    "nameCity": "São Bernardo do Campo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5253",
+    "nameCity": "São Caetano do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5254",
+    "nameCity": "São Carlos"
+  },
+  {
+    "idState": "26",
+    "idCity": "5255",
+    "nameCity": "São Francisco"
+  },
+  {
+    "idState": "26",
+    "idCity": "5256",
+    "nameCity": "São João da Boa Vista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5257",
+    "nameCity": "São João das Duas Pontes"
+  },
+  {
+    "idState": "26",
+    "idCity": "5258",
+    "nameCity": "São João de Iracema"
+  },
+  {
+    "idState": "26",
+    "idCity": "5259",
+    "nameCity": "São João do Pau d`Alho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5260",
+    "nameCity": "São Joaquim da Barra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5261",
+    "nameCity": "São José da Bela Vista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5262",
+    "nameCity": "São José do Barreiro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5263",
+    "nameCity": "São José do Rio Pardo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5264",
+    "nameCity": "São José do Rio Preto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5265",
+    "nameCity": "São José dos Campos"
+  },
+  {
+    "idState": "26",
+    "idCity": "5266",
+    "nameCity": "São Lourenço da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5267",
+    "nameCity": "São Luís do Paraitinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5268",
+    "nameCity": "São Manuel"
+  },
+  {
+    "idState": "26",
+    "idCity": "5269",
+    "nameCity": "São Miguel Arcanjo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5270",
+    "nameCity": "São Paulo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5271",
+    "nameCity": "São Pedro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5272",
+    "nameCity": "São Pedro do Turvo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5273",
+    "nameCity": "São Roque"
+  },
+  {
+    "idState": "26",
+    "idCity": "5274",
+    "nameCity": "São Sebastião"
+  },
+  {
+    "idState": "26",
+    "idCity": "5275",
+    "nameCity": "São Sebastião da Grama"
+  },
+  {
+    "idState": "26",
+    "idCity": "5276",
+    "nameCity": "São Simão"
+  },
+  {
+    "idState": "26",
+    "idCity": "5277",
+    "nameCity": "São Vicente"
+  },
+  {
+    "idState": "26",
+    "idCity": "5278",
+    "nameCity": "Sarapuí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5279",
+    "nameCity": "Sarutaiá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5280",
+    "nameCity": "Sebastianópolis do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5281",
+    "nameCity": "Serra Azul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5282",
+    "nameCity": "Serra Negra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5283",
+    "nameCity": "Serrana"
+  },
+  {
+    "idState": "26",
+    "idCity": "5284",
+    "nameCity": "Sertãozinho"
+  },
+  {
+    "idState": "26",
+    "idCity": "5285",
+    "nameCity": "Sete Barras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5286",
+    "nameCity": "Severínia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5287",
+    "nameCity": "Silveiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5288",
+    "nameCity": "Socorro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5289",
+    "nameCity": "Sorocaba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5290",
+    "nameCity": "Sud Mennucci"
+  },
+  {
+    "idState": "26",
+    "idCity": "5291",
+    "nameCity": "Sumaré"
+  },
+  {
+    "idState": "26",
+    "idCity": "5292",
+    "nameCity": "Suzanápolis"
+  },
+  {
+    "idState": "26",
+    "idCity": "5293",
+    "nameCity": "Suzano"
+  },
+  {
+    "idState": "26",
+    "idCity": "5294",
+    "nameCity": "Tabapuã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5295",
+    "nameCity": "Tabatinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5296",
+    "nameCity": "Taboão da Serra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5297",
+    "nameCity": "Taciba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5298",
+    "nameCity": "Taguaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5299",
+    "nameCity": "Taiaçu"
+  },
+  {
+    "idState": "26",
+    "idCity": "5300",
+    "nameCity": "Taiúva"
+  },
+  {
+    "idState": "26",
+    "idCity": "5301",
+    "nameCity": "Tambaú"
+  },
+  {
+    "idState": "26",
+    "idCity": "5302",
+    "nameCity": "Tanabi"
+  },
+  {
+    "idState": "26",
+    "idCity": "5303",
+    "nameCity": "Tapiraí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5304",
+    "nameCity": "Tapiratiba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5305",
+    "nameCity": "Taquaral"
+  },
+  {
+    "idState": "26",
+    "idCity": "5306",
+    "nameCity": "Taquaritinga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5307",
+    "nameCity": "Taquarituba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5308",
+    "nameCity": "Taquarivaí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5309",
+    "nameCity": "Tarabai"
+  },
+  {
+    "idState": "26",
+    "idCity": "5310",
+    "nameCity": "Tarumã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5311",
+    "nameCity": "Tatuí"
+  },
+  {
+    "idState": "26",
+    "idCity": "5312",
+    "nameCity": "Taubaté"
+  },
+  {
+    "idState": "26",
+    "idCity": "5313",
+    "nameCity": "Tejupá"
+  },
+  {
+    "idState": "26",
+    "idCity": "5314",
+    "nameCity": "Teodoro Sampaio"
+  },
+  {
+    "idState": "26",
+    "idCity": "5315",
+    "nameCity": "Terra Roxa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5316",
+    "nameCity": "Tietê"
+  },
+  {
+    "idState": "26",
+    "idCity": "5317",
+    "nameCity": "Timburi"
+  },
+  {
+    "idState": "26",
+    "idCity": "5318",
+    "nameCity": "Torre de Pedra"
+  },
+  {
+    "idState": "26",
+    "idCity": "5319",
+    "nameCity": "Torrinha"
+  },
+  {
+    "idState": "26",
+    "idCity": "5320",
+    "nameCity": "Trabiju"
+  },
+  {
+    "idState": "26",
+    "idCity": "5321",
+    "nameCity": "Tremembé"
+  },
+  {
+    "idState": "26",
+    "idCity": "5322",
+    "nameCity": "Três Fronteiras"
+  },
+  {
+    "idState": "26",
+    "idCity": "5323",
+    "nameCity": "Tuiuti"
+  },
+  {
+    "idState": "26",
+    "idCity": "5324",
+    "nameCity": "Tupã"
+  },
+  {
+    "idState": "26",
+    "idCity": "5325",
+    "nameCity": "Tupi Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5326",
+    "nameCity": "Turiúba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5327",
+    "nameCity": "Turmalina"
+  },
+  {
+    "idState": "26",
+    "idCity": "5328",
+    "nameCity": "Ubarana"
+  },
+  {
+    "idState": "26",
+    "idCity": "5329",
+    "nameCity": "Ubatuba"
+  },
+  {
+    "idState": "26",
+    "idCity": "5330",
+    "nameCity": "Ubirajara"
+  },
+  {
+    "idState": "26",
+    "idCity": "5331",
+    "nameCity": "Uchoa"
+  },
+  {
+    "idState": "26",
+    "idCity": "5332",
+    "nameCity": "União Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5333",
+    "nameCity": "Urânia"
+  },
+  {
+    "idState": "26",
+    "idCity": "5334",
+    "nameCity": "Uru"
+  },
+  {
+    "idState": "26",
+    "idCity": "5335",
+    "nameCity": "Urupês"
+  },
+  {
+    "idState": "26",
+    "idCity": "5336",
+    "nameCity": "Valentim Gentil"
+  },
+  {
+    "idState": "26",
+    "idCity": "5337",
+    "nameCity": "Valinhos"
+  },
+  {
+    "idState": "26",
+    "idCity": "5338",
+    "nameCity": "Valparaíso"
+  },
+  {
+    "idState": "26",
+    "idCity": "5339",
+    "nameCity": "Vargem"
+  },
+  {
+    "idState": "26",
+    "idCity": "5340",
+    "nameCity": "Vargem Grande do Sul"
+  },
+  {
+    "idState": "26",
+    "idCity": "5341",
+    "nameCity": "Vargem Grande Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5342",
+    "nameCity": "Várzea Paulista"
+  },
+  {
+    "idState": "26",
+    "idCity": "5343",
+    "nameCity": "Vera Cruz"
+  },
+  {
+    "idState": "26",
+    "idCity": "5344",
+    "nameCity": "Vinhedo"
+  },
+  {
+    "idState": "26",
+    "idCity": "5345",
+    "nameCity": "Viradouro"
+  },
+  {
+    "idState": "26",
+    "idCity": "5346",
+    "nameCity": "Vista Alegre do Alto"
+  },
+  {
+    "idState": "26",
+    "idCity": "5347",
+    "nameCity": "Vitória Brasil"
+  },
+  {
+    "idState": "26",
+    "idCity": "5348",
+    "nameCity": "Votorantim"
+  },
+  {
+    "idState": "26",
+    "idCity": "5349",
+    "nameCity": "Votuporanga"
+  },
+  {
+    "idState": "26",
+    "idCity": "5350",
+    "nameCity": "Zacarias"
+  }
+]

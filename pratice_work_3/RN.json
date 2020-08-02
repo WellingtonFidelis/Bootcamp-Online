@@ -1,0 +1,837 @@
+[
+  {
+    "idState": "20",
+    "idCity": "3683",
+    "nameCity": "Acari"
+  },
+  {
+    "idState": "20",
+    "idCity": "3684",
+    "nameCity": "Açu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3685",
+    "nameCity": "Afonso Bezerra"
+  },
+  {
+    "idState": "20",
+    "idCity": "3686",
+    "nameCity": "Água Nova"
+  },
+  {
+    "idState": "20",
+    "idCity": "3687",
+    "nameCity": "Alexandria"
+  },
+  {
+    "idState": "20",
+    "idCity": "3688",
+    "nameCity": "Almino Afonso"
+  },
+  {
+    "idState": "20",
+    "idCity": "3689",
+    "nameCity": "Alto do Rodrigues"
+  },
+  {
+    "idState": "20",
+    "idCity": "3690",
+    "nameCity": "Angicos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3691",
+    "nameCity": "Antônio Martins"
+  },
+  {
+    "idState": "20",
+    "idCity": "3692",
+    "nameCity": "Apodi"
+  },
+  {
+    "idState": "20",
+    "idCity": "3693",
+    "nameCity": "Areia Branca"
+  },
+  {
+    "idState": "20",
+    "idCity": "3694",
+    "nameCity": "Arês"
+  },
+  {
+    "idState": "20",
+    "idCity": "3695",
+    "nameCity": "Augusto Severo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3696",
+    "nameCity": "Baía Formosa"
+  },
+  {
+    "idState": "20",
+    "idCity": "3697",
+    "nameCity": "Baraúna"
+  },
+  {
+    "idState": "20",
+    "idCity": "3698",
+    "nameCity": "Barcelona"
+  },
+  {
+    "idState": "20",
+    "idCity": "3699",
+    "nameCity": "Bento Fernandes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3700",
+    "nameCity": "Bodó"
+  },
+  {
+    "idState": "20",
+    "idCity": "3701",
+    "nameCity": "Bom Jesus"
+  },
+  {
+    "idState": "20",
+    "idCity": "3702",
+    "nameCity": "Brejinho"
+  },
+  {
+    "idState": "20",
+    "idCity": "3703",
+    "nameCity": "Caiçara do Norte"
+  },
+  {
+    "idState": "20",
+    "idCity": "3704",
+    "nameCity": "Caiçara do Rio do Vento"
+  },
+  {
+    "idState": "20",
+    "idCity": "3705",
+    "nameCity": "Caicó"
+  },
+  {
+    "idState": "20",
+    "idCity": "3706",
+    "nameCity": "Campo Redondo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3707",
+    "nameCity": "Canguaretama"
+  },
+  {
+    "idState": "20",
+    "idCity": "3708",
+    "nameCity": "Caraúbas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3709",
+    "nameCity": "Carnaúba dos Dantas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3710",
+    "nameCity": "Carnaubais"
+  },
+  {
+    "idState": "20",
+    "idCity": "3711",
+    "nameCity": "Ceará-Mirim"
+  },
+  {
+    "idState": "20",
+    "idCity": "3712",
+    "nameCity": "Cerro Corá"
+  },
+  {
+    "idState": "20",
+    "idCity": "3713",
+    "nameCity": "Coronel Ezequiel"
+  },
+  {
+    "idState": "20",
+    "idCity": "3714",
+    "nameCity": "Coronel João Pessoa"
+  },
+  {
+    "idState": "20",
+    "idCity": "3715",
+    "nameCity": "Cruzeta"
+  },
+  {
+    "idState": "20",
+    "idCity": "3716",
+    "nameCity": "Currais Novos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3717",
+    "nameCity": "Doutor Severiano"
+  },
+  {
+    "idState": "20",
+    "idCity": "3718",
+    "nameCity": "Encanto"
+  },
+  {
+    "idState": "20",
+    "idCity": "3719",
+    "nameCity": "Equador"
+  },
+  {
+    "idState": "20",
+    "idCity": "3720",
+    "nameCity": "Espírito Santo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3721",
+    "nameCity": "Extremoz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3722",
+    "nameCity": "Felipe Guerra"
+  },
+  {
+    "idState": "20",
+    "idCity": "3723",
+    "nameCity": "Fernando Pedroza"
+  },
+  {
+    "idState": "20",
+    "idCity": "3724",
+    "nameCity": "Florânia"
+  },
+  {
+    "idState": "20",
+    "idCity": "3725",
+    "nameCity": "Francisco Dantas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3726",
+    "nameCity": "Frutuoso Gomes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3727",
+    "nameCity": "Galinhos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3728",
+    "nameCity": "Goianinha"
+  },
+  {
+    "idState": "20",
+    "idCity": "3729",
+    "nameCity": "Governador Dix-Sept Rosado"
+  },
+  {
+    "idState": "20",
+    "idCity": "3730",
+    "nameCity": "Grossos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3731",
+    "nameCity": "Guamaré"
+  },
+  {
+    "idState": "20",
+    "idCity": "3732",
+    "nameCity": "Ielmo Marinho"
+  },
+  {
+    "idState": "20",
+    "idCity": "3733",
+    "nameCity": "Ipanguaçu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3734",
+    "nameCity": "Ipueira"
+  },
+  {
+    "idState": "20",
+    "idCity": "3735",
+    "nameCity": "Itajá"
+  },
+  {
+    "idState": "20",
+    "idCity": "3736",
+    "nameCity": "Itaú"
+  },
+  {
+    "idState": "20",
+    "idCity": "3737",
+    "nameCity": "Jaçanã"
+  },
+  {
+    "idState": "20",
+    "idCity": "3738",
+    "nameCity": "Jandaíra"
+  },
+  {
+    "idState": "20",
+    "idCity": "3739",
+    "nameCity": "Janduís"
+  },
+  {
+    "idState": "20",
+    "idCity": "3740",
+    "nameCity": "Januário Cicco"
+  },
+  {
+    "idState": "20",
+    "idCity": "3741",
+    "nameCity": "Japi"
+  },
+  {
+    "idState": "20",
+    "idCity": "3742",
+    "nameCity": "Jardim de Angicos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3743",
+    "nameCity": "Jardim de Piranhas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3744",
+    "nameCity": "Jardim do Seridó"
+  },
+  {
+    "idState": "20",
+    "idCity": "3745",
+    "nameCity": "João Câmara"
+  },
+  {
+    "idState": "20",
+    "idCity": "3746",
+    "nameCity": "João Dias"
+  },
+  {
+    "idState": "20",
+    "idCity": "3747",
+    "nameCity": "José da Penha"
+  },
+  {
+    "idState": "20",
+    "idCity": "3748",
+    "nameCity": "Jucurutu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3749",
+    "nameCity": "Jundiá"
+  },
+  {
+    "idState": "20",
+    "idCity": "3750",
+    "nameCity": "Lagoa d`Anta"
+  },
+  {
+    "idState": "20",
+    "idCity": "3751",
+    "nameCity": "Lagoa de Pedras"
+  },
+  {
+    "idState": "20",
+    "idCity": "3752",
+    "nameCity": "Lagoa de Velhos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3753",
+    "nameCity": "Lagoa Nova"
+  },
+  {
+    "idState": "20",
+    "idCity": "3754",
+    "nameCity": "Lagoa Salgada"
+  },
+  {
+    "idState": "20",
+    "idCity": "3755",
+    "nameCity": "Lajes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3756",
+    "nameCity": "Lajes Pintadas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3757",
+    "nameCity": "Lucrécia"
+  },
+  {
+    "idState": "20",
+    "idCity": "3758",
+    "nameCity": "Luís Gomes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3759",
+    "nameCity": "Macaíba"
+  },
+  {
+    "idState": "20",
+    "idCity": "3760",
+    "nameCity": "Macau"
+  },
+  {
+    "idState": "20",
+    "idCity": "3761",
+    "nameCity": "Major Sales"
+  },
+  {
+    "idState": "20",
+    "idCity": "3762",
+    "nameCity": "Marcelino Vieira"
+  },
+  {
+    "idState": "20",
+    "idCity": "3763",
+    "nameCity": "Martins"
+  },
+  {
+    "idState": "20",
+    "idCity": "3764",
+    "nameCity": "Maxaranguape"
+  },
+  {
+    "idState": "20",
+    "idCity": "3765",
+    "nameCity": "Messias Targino"
+  },
+  {
+    "idState": "20",
+    "idCity": "3766",
+    "nameCity": "Montanhas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3767",
+    "nameCity": "Monte Alegre"
+  },
+  {
+    "idState": "20",
+    "idCity": "3768",
+    "nameCity": "Monte das Gameleiras"
+  },
+  {
+    "idState": "20",
+    "idCity": "3769",
+    "nameCity": "Mossoró"
+  },
+  {
+    "idState": "20",
+    "idCity": "3770",
+    "nameCity": "Natal"
+  },
+  {
+    "idState": "20",
+    "idCity": "3771",
+    "nameCity": "Nísia Floresta"
+  },
+  {
+    "idState": "20",
+    "idCity": "3772",
+    "nameCity": "Nova Cruz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3773",
+    "nameCity": "Olho-d`Água do Borges"
+  },
+  {
+    "idState": "20",
+    "idCity": "3774",
+    "nameCity": "Ouro Branco"
+  },
+  {
+    "idState": "20",
+    "idCity": "3775",
+    "nameCity": "Paraná"
+  },
+  {
+    "idState": "20",
+    "idCity": "3776",
+    "nameCity": "Paraú"
+  },
+  {
+    "idState": "20",
+    "idCity": "3777",
+    "nameCity": "Parazinho"
+  },
+  {
+    "idState": "20",
+    "idCity": "3778",
+    "nameCity": "Parelhas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3779",
+    "nameCity": "Parnamirim"
+  },
+  {
+    "idState": "20",
+    "idCity": "3780",
+    "nameCity": "Passa e Fica"
+  },
+  {
+    "idState": "20",
+    "idCity": "3781",
+    "nameCity": "Passagem"
+  },
+  {
+    "idState": "20",
+    "idCity": "3782",
+    "nameCity": "Patu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3783",
+    "nameCity": "Pau dos Ferros"
+  },
+  {
+    "idState": "20",
+    "idCity": "3784",
+    "nameCity": "Pedra Grande"
+  },
+  {
+    "idState": "20",
+    "idCity": "3785",
+    "nameCity": "Pedra Preta"
+  },
+  {
+    "idState": "20",
+    "idCity": "3786",
+    "nameCity": "Pedro Avelino"
+  },
+  {
+    "idState": "20",
+    "idCity": "3787",
+    "nameCity": "Pedro Velho"
+  },
+  {
+    "idState": "20",
+    "idCity": "3788",
+    "nameCity": "Pendências"
+  },
+  {
+    "idState": "20",
+    "idCity": "3789",
+    "nameCity": "Pilões"
+  },
+  {
+    "idState": "20",
+    "idCity": "3790",
+    "nameCity": "Poço Branco"
+  },
+  {
+    "idState": "20",
+    "idCity": "3791",
+    "nameCity": "Portalegre"
+  },
+  {
+    "idState": "20",
+    "idCity": "3792",
+    "nameCity": "Porto do Mangue"
+  },
+  {
+    "idState": "20",
+    "idCity": "3793",
+    "nameCity": "Presidente Juscelino"
+  },
+  {
+    "idState": "20",
+    "idCity": "3794",
+    "nameCity": "Pureza"
+  },
+  {
+    "idState": "20",
+    "idCity": "3795",
+    "nameCity": "Rafael Fernandes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3796",
+    "nameCity": "Rafael Godeiro"
+  },
+  {
+    "idState": "20",
+    "idCity": "3797",
+    "nameCity": "Riacho da Cruz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3798",
+    "nameCity": "Riacho de Santana"
+  },
+  {
+    "idState": "20",
+    "idCity": "3799",
+    "nameCity": "Riachuelo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3800",
+    "nameCity": "Rio do Fogo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3801",
+    "nameCity": "Rodolfo Fernandes"
+  },
+  {
+    "idState": "20",
+    "idCity": "3802",
+    "nameCity": "Ruy Barbosa"
+  },
+  {
+    "idState": "20",
+    "idCity": "3803",
+    "nameCity": "Santa Cruz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3804",
+    "nameCity": "Santa Maria"
+  },
+  {
+    "idState": "20",
+    "idCity": "3805",
+    "nameCity": "Santana do Matos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3806",
+    "nameCity": "Santana do Seridó"
+  },
+  {
+    "idState": "20",
+    "idCity": "3807",
+    "nameCity": "Santo Antônio"
+  },
+  {
+    "idState": "20",
+    "idCity": "3808",
+    "nameCity": "São Bento do Norte"
+  },
+  {
+    "idState": "20",
+    "idCity": "3809",
+    "nameCity": "São Bento do Trairí"
+  },
+  {
+    "idState": "20",
+    "idCity": "3810",
+    "nameCity": "São Fernando"
+  },
+  {
+    "idState": "20",
+    "idCity": "3811",
+    "nameCity": "São Francisco do Oeste"
+  },
+  {
+    "idState": "20",
+    "idCity": "3812",
+    "nameCity": "São Gonçalo do Amarante"
+  },
+  {
+    "idState": "20",
+    "idCity": "3813",
+    "nameCity": "São João do Sabugi"
+  },
+  {
+    "idState": "20",
+    "idCity": "3814",
+    "nameCity": "São José de Mipibu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3815",
+    "nameCity": "São José do Campestre"
+  },
+  {
+    "idState": "20",
+    "idCity": "3816",
+    "nameCity": "São José do Seridó"
+  },
+  {
+    "idState": "20",
+    "idCity": "3817",
+    "nameCity": "São Miguel"
+  },
+  {
+    "idState": "20",
+    "idCity": "3818",
+    "nameCity": "São Miguel do Gostoso"
+  },
+  {
+    "idState": "20",
+    "idCity": "3819",
+    "nameCity": "São Paulo do Potengi"
+  },
+  {
+    "idState": "20",
+    "idCity": "3820",
+    "nameCity": "São Pedro"
+  },
+  {
+    "idState": "20",
+    "idCity": "3821",
+    "nameCity": "São Rafael"
+  },
+  {
+    "idState": "20",
+    "idCity": "3822",
+    "nameCity": "São Tomé"
+  },
+  {
+    "idState": "20",
+    "idCity": "3823",
+    "nameCity": "São Vicente"
+  },
+  {
+    "idState": "20",
+    "idCity": "3824",
+    "nameCity": "Senador Elói de Souza"
+  },
+  {
+    "idState": "20",
+    "idCity": "3825",
+    "nameCity": "Senador Georgino Avelino"
+  },
+  {
+    "idState": "20",
+    "idCity": "3826",
+    "nameCity": "Serra de São Bento"
+  },
+  {
+    "idState": "20",
+    "idCity": "3827",
+    "nameCity": "Serra do Mel"
+  },
+  {
+    "idState": "20",
+    "idCity": "3828",
+    "nameCity": "Serra Negra do Norte"
+  },
+  {
+    "idState": "20",
+    "idCity": "3829",
+    "nameCity": "Serrinha"
+  },
+  {
+    "idState": "20",
+    "idCity": "3830",
+    "nameCity": "Serrinha dos Pintos"
+  },
+  {
+    "idState": "20",
+    "idCity": "3831",
+    "nameCity": "Severiano Melo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3832",
+    "nameCity": "Sítio Novo"
+  },
+  {
+    "idState": "20",
+    "idCity": "3833",
+    "nameCity": "Taboleiro Grande"
+  },
+  {
+    "idState": "20",
+    "idCity": "3834",
+    "nameCity": "Taipu"
+  },
+  {
+    "idState": "20",
+    "idCity": "3835",
+    "nameCity": "Tangará"
+  },
+  {
+    "idState": "20",
+    "idCity": "3836",
+    "nameCity": "Tenente Ananias"
+  },
+  {
+    "idState": "20",
+    "idCity": "3837",
+    "nameCity": "Tenente Laurentino Cruz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3838",
+    "nameCity": "Tibau"
+  },
+  {
+    "idState": "20",
+    "idCity": "3839",
+    "nameCity": "Tibau do Sul"
+  },
+  {
+    "idState": "20",
+    "idCity": "3840",
+    "nameCity": "Timbaúba dos Batistas"
+  },
+  {
+    "idState": "20",
+    "idCity": "3841",
+    "nameCity": "Touros"
+  },
+  {
+    "idState": "20",
+    "idCity": "3842",
+    "nameCity": "Triunfo Potiguar"
+  },
+  {
+    "idState": "20",
+    "idCity": "3843",
+    "nameCity": "Umarizal"
+  },
+  {
+    "idState": "20",
+    "idCity": "3844",
+    "nameCity": "Upanema"
+  },
+  {
+    "idState": "20",
+    "idCity": "3845",
+    "nameCity": "Várzea"
+  },
+  {
+    "idState": "20",
+    "idCity": "3846",
+    "nameCity": "Venha-Ver"
+  },
+  {
+    "idState": "20",
+    "idCity": "3847",
+    "nameCity": "Vera Cruz"
+  },
+  {
+    "idState": "20",
+    "idCity": "3848",
+    "nameCity": "Viçosa"
+  },
+  {
+    "idState": "20",
+    "idCity": "3849",
+    "nameCity": "Vila Flor"
+  }
+]

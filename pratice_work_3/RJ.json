@@ -1,0 +1,462 @@
+[
+  {
+    "idState": "19",
+    "idCity": "3591",
+    "nameCity": "Angra dos Reis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3592",
+    "nameCity": "Aperibé"
+  },
+  {
+    "idState": "19",
+    "idCity": "3593",
+    "nameCity": "Araruama"
+  },
+  {
+    "idState": "19",
+    "idCity": "3594",
+    "nameCity": "Areal"
+  },
+  {
+    "idState": "19",
+    "idCity": "3595",
+    "nameCity": "Armação dos Búzios"
+  },
+  {
+    "idState": "19",
+    "idCity": "3596",
+    "nameCity": "Arraial do Cabo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3597",
+    "nameCity": "Barra do Piraí"
+  },
+  {
+    "idState": "19",
+    "idCity": "3598",
+    "nameCity": "Barra Mansa"
+  },
+  {
+    "idState": "19",
+    "idCity": "3599",
+    "nameCity": "Belford Roxo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3600",
+    "nameCity": "Bom Jardim"
+  },
+  {
+    "idState": "19",
+    "idCity": "3601",
+    "nameCity": "Bom Jesus do Itabapoana"
+  },
+  {
+    "idState": "19",
+    "idCity": "3602",
+    "nameCity": "Cabo Frio"
+  },
+  {
+    "idState": "19",
+    "idCity": "3603",
+    "nameCity": "Cachoeiras de Macacu"
+  },
+  {
+    "idState": "19",
+    "idCity": "3604",
+    "nameCity": "Cambuci"
+  },
+  {
+    "idState": "19",
+    "idCity": "3605",
+    "nameCity": "Campos dos Goytacazes"
+  },
+  {
+    "idState": "19",
+    "idCity": "3606",
+    "nameCity": "Cantagalo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3607",
+    "nameCity": "Carapebus"
+  },
+  {
+    "idState": "19",
+    "idCity": "3608",
+    "nameCity": "Cardoso Moreira"
+  },
+  {
+    "idState": "19",
+    "idCity": "3609",
+    "nameCity": "Carmo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3610",
+    "nameCity": "Casimiro de Abreu"
+  },
+  {
+    "idState": "19",
+    "idCity": "3611",
+    "nameCity": "Comendador Levy Gasparian"
+  },
+  {
+    "idState": "19",
+    "idCity": "3612",
+    "nameCity": "Conceição de Macabu"
+  },
+  {
+    "idState": "19",
+    "idCity": "3613",
+    "nameCity": "Cordeiro"
+  },
+  {
+    "idState": "19",
+    "idCity": "3614",
+    "nameCity": "Duas Barras"
+  },
+  {
+    "idState": "19",
+    "idCity": "3615",
+    "nameCity": "Duque de Caxias"
+  },
+  {
+    "idState": "19",
+    "idCity": "3616",
+    "nameCity": "Engenheiro Paulo de Frontin"
+  },
+  {
+    "idState": "19",
+    "idCity": "3617",
+    "nameCity": "Guapimirim"
+  },
+  {
+    "idState": "19",
+    "idCity": "3618",
+    "nameCity": "Iguaba Grande"
+  },
+  {
+    "idState": "19",
+    "idCity": "3619",
+    "nameCity": "Itaboraí"
+  },
+  {
+    "idState": "19",
+    "idCity": "3620",
+    "nameCity": "Itaguaí"
+  },
+  {
+    "idState": "19",
+    "idCity": "3621",
+    "nameCity": "Italva"
+  },
+  {
+    "idState": "19",
+    "idCity": "3622",
+    "nameCity": "Itaocara"
+  },
+  {
+    "idState": "19",
+    "idCity": "3623",
+    "nameCity": "Itaperuna"
+  },
+  {
+    "idState": "19",
+    "idCity": "3624",
+    "nameCity": "Itatiaia"
+  },
+  {
+    "idState": "19",
+    "idCity": "3625",
+    "nameCity": "Japeri"
+  },
+  {
+    "idState": "19",
+    "idCity": "3626",
+    "nameCity": "Laje do Muriaé"
+  },
+  {
+    "idState": "19",
+    "idCity": "3627",
+    "nameCity": "Macaé"
+  },
+  {
+    "idState": "19",
+    "idCity": "3628",
+    "nameCity": "Macuco"
+  },
+  {
+    "idState": "19",
+    "idCity": "3629",
+    "nameCity": "Magé"
+  },
+  {
+    "idState": "19",
+    "idCity": "3630",
+    "nameCity": "Mangaratiba"
+  },
+  {
+    "idState": "19",
+    "idCity": "3631",
+    "nameCity": "Maricá"
+  },
+  {
+    "idState": "19",
+    "idCity": "3632",
+    "nameCity": "Mendes"
+  },
+  {
+    "idState": "19",
+    "idCity": "3633",
+    "nameCity": "Mesquita"
+  },
+  {
+    "idState": "19",
+    "idCity": "3634",
+    "nameCity": "Miguel Pereira"
+  },
+  {
+    "idState": "19",
+    "idCity": "3635",
+    "nameCity": "Miracema"
+  },
+  {
+    "idState": "19",
+    "idCity": "3636",
+    "nameCity": "Natividade"
+  },
+  {
+    "idState": "19",
+    "idCity": "3637",
+    "nameCity": "Nilópolis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3638",
+    "nameCity": "Niterói"
+  },
+  {
+    "idState": "19",
+    "idCity": "3639",
+    "nameCity": "Nova Friburgo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3640",
+    "nameCity": "Nova Iguaçu"
+  },
+  {
+    "idState": "19",
+    "idCity": "3641",
+    "nameCity": "Paracambi"
+  },
+  {
+    "idState": "19",
+    "idCity": "3642",
+    "nameCity": "Paraíba do Sul"
+  },
+  {
+    "idState": "19",
+    "idCity": "3643",
+    "nameCity": "Parati"
+  },
+  {
+    "idState": "19",
+    "idCity": "3644",
+    "nameCity": "Paty do Alferes"
+  },
+  {
+    "idState": "19",
+    "idCity": "3645",
+    "nameCity": "Petrópolis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3646",
+    "nameCity": "Pinheiral"
+  },
+  {
+    "idState": "19",
+    "idCity": "3647",
+    "nameCity": "Piraí"
+  },
+  {
+    "idState": "19",
+    "idCity": "3648",
+    "nameCity": "Porciúncula"
+  },
+  {
+    "idState": "19",
+    "idCity": "3649",
+    "nameCity": "Porto Real"
+  },
+  {
+    "idState": "19",
+    "idCity": "3650",
+    "nameCity": "Quatis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3651",
+    "nameCity": "Queimados"
+  },
+  {
+    "idState": "19",
+    "idCity": "3652",
+    "nameCity": "Quissamã"
+  },
+  {
+    "idState": "19",
+    "idCity": "3653",
+    "nameCity": "Resende"
+  },
+  {
+    "idState": "19",
+    "idCity": "3654",
+    "nameCity": "Rio Bonito"
+  },
+  {
+    "idState": "19",
+    "idCity": "3655",
+    "nameCity": "Rio Claro"
+  },
+  {
+    "idState": "19",
+    "idCity": "3656",
+    "nameCity": "Rio das Flores"
+  },
+  {
+    "idState": "19",
+    "idCity": "3657",
+    "nameCity": "Rio das Ostras"
+  },
+  {
+    "idState": "19",
+    "idCity": "3658",
+    "nameCity": "Rio de Janeiro"
+  },
+  {
+    "idState": "19",
+    "idCity": "3659",
+    "nameCity": "Santa Maria Madalena"
+  },
+  {
+    "idState": "19",
+    "idCity": "3660",
+    "nameCity": "Santo Antônio de Pádua"
+  },
+  {
+    "idState": "19",
+    "idCity": "3661",
+    "nameCity": "São Fidélis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3662",
+    "nameCity": "São Francisco de Itabapoana"
+  },
+  {
+    "idState": "19",
+    "idCity": "3663",
+    "nameCity": "São Gonçalo"
+  },
+  {
+    "idState": "19",
+    "idCity": "3664",
+    "nameCity": "São João da Barra"
+  },
+  {
+    "idState": "19",
+    "idCity": "3665",
+    "nameCity": "São João de Meriti"
+  },
+  {
+    "idState": "19",
+    "idCity": "3666",
+    "nameCity": "São José de Ubá"
+  },
+  {
+    "idState": "19",
+    "idCity": "3667",
+    "nameCity": "São José do Vale do Rio Pret"
+  },
+  {
+    "idState": "19",
+    "idCity": "3668",
+    "nameCity": "São Pedro da Aldeia"
+  },
+  {
+    "idState": "19",
+    "idCity": "3669",
+    "nameCity": "São Sebastião do Alto"
+  },
+  {
+    "idState": "19",
+    "idCity": "3670",
+    "nameCity": "Sapucaia"
+  },
+  {
+    "idState": "19",
+    "idCity": "3671",
+    "nameCity": "Saquarema"
+  },
+  {
+    "idState": "19",
+    "idCity": "3672",
+    "nameCity": "Seropédica"
+  },
+  {
+    "idState": "19",
+    "idCity": "3673",
+    "nameCity": "Silva Jardim"
+  },
+  {
+    "idState": "19",
+    "idCity": "3674",
+    "nameCity": "Sumidouro"
+  },
+  {
+    "idState": "19",
+    "idCity": "3675",
+    "nameCity": "Tanguá"
+  },
+  {
+    "idState": "19",
+    "idCity": "3676",
+    "nameCity": "Teresópolis"
+  },
+  {
+    "idState": "19",
+    "idCity": "3677",
+    "nameCity": "Trajano de Morais"
+  },
+  {
+    "idState": "19",
+    "idCity": "3678",
+    "nameCity": "Três Rios"
+  },
+  {
+    "idState": "19",
+    "idCity": "3679",
+    "nameCity": "Valença"
+  },
+  {
+    "idState": "19",
+    "idCity": "3680",
+    "nameCity": "Varre-Sai"
+  },
+  {
+    "idState": "19",
+    "idCity": "3681",
+    "nameCity": "Vassouras"
+  },
+  {
+    "idState": "19",
+    "idCity": "3682",
+    "nameCity": "Volta Redonda"
+  }
+]

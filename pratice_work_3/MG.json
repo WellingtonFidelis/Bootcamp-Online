@@ -1,0 +1,4267 @@
+[
+  {
+    "idState": "11",
+    "idCity": "1565",
+    "nameCity": "Abadia dos Dourados"
+  },
+  {
+    "idState": "11",
+    "idCity": "1566",
+    "nameCity": "Abaeté"
+  },
+  {
+    "idState": "11",
+    "idCity": "1567",
+    "nameCity": "Abre Campo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1568",
+    "nameCity": "Acaiaca"
+  },
+  {
+    "idState": "11",
+    "idCity": "1569",
+    "nameCity": "Açucena"
+  },
+  {
+    "idState": "11",
+    "idCity": "1570",
+    "nameCity": "Água Boa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1571",
+    "nameCity": "Água Comprida"
+  },
+  {
+    "idState": "11",
+    "idCity": "1572",
+    "nameCity": "Aguanil"
+  },
+  {
+    "idState": "11",
+    "idCity": "1573",
+    "nameCity": "Águas Formosas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1574",
+    "nameCity": "Águas Vermelhas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1575",
+    "nameCity": "Aimorés"
+  },
+  {
+    "idState": "11",
+    "idCity": "1576",
+    "nameCity": "Aiuruoca"
+  },
+  {
+    "idState": "11",
+    "idCity": "1577",
+    "nameCity": "Alagoa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1578",
+    "nameCity": "Albertina"
+  },
+  {
+    "idState": "11",
+    "idCity": "1579",
+    "nameCity": "Além Paraíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1580",
+    "nameCity": "Alfenas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1581",
+    "nameCity": "Alfredo Vasconcelos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1582",
+    "nameCity": "Almenara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1583",
+    "nameCity": "Alpercata"
+  },
+  {
+    "idState": "11",
+    "idCity": "1584",
+    "nameCity": "Alpinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1585",
+    "nameCity": "Alterosa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1586",
+    "nameCity": "Alto Caparaó"
+  },
+  {
+    "idState": "11",
+    "idCity": "1587",
+    "nameCity": "Alto Jequitibá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1588",
+    "nameCity": "Alto Rio Doce"
+  },
+  {
+    "idState": "11",
+    "idCity": "1589",
+    "nameCity": "Alvarenga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1590",
+    "nameCity": "Alvinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1591",
+    "nameCity": "Alvorada de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1592",
+    "nameCity": "Amparo do Serra"
+  },
+  {
+    "idState": "11",
+    "idCity": "1593",
+    "nameCity": "Andradas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1594",
+    "nameCity": "Andrelândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1595",
+    "nameCity": "Angelândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1596",
+    "nameCity": "Antônio Carlos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1597",
+    "nameCity": "Antônio Dias"
+  },
+  {
+    "idState": "11",
+    "idCity": "1598",
+    "nameCity": "Antônio Prado de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1599",
+    "nameCity": "Araçaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1600",
+    "nameCity": "Aracitaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1601",
+    "nameCity": "Araçuaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1602",
+    "nameCity": "Araguari"
+  },
+  {
+    "idState": "11",
+    "idCity": "1603",
+    "nameCity": "Arantina"
+  },
+  {
+    "idState": "11",
+    "idCity": "1604",
+    "nameCity": "Araponga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1605",
+    "nameCity": "Araporã"
+  },
+  {
+    "idState": "11",
+    "idCity": "1606",
+    "nameCity": "Arapuá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1607",
+    "nameCity": "Araújos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1608",
+    "nameCity": "Araxá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1609",
+    "nameCity": "Arceburgo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1610",
+    "nameCity": "Arcos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1611",
+    "nameCity": "Areado"
+  },
+  {
+    "idState": "11",
+    "idCity": "1612",
+    "nameCity": "Argirita"
+  },
+  {
+    "idState": "11",
+    "idCity": "1613",
+    "nameCity": "Aricanduva"
+  },
+  {
+    "idState": "11",
+    "idCity": "1614",
+    "nameCity": "Arinos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1615",
+    "nameCity": "Astolfo Dutra"
+  },
+  {
+    "idState": "11",
+    "idCity": "1616",
+    "nameCity": "Ataléia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1617",
+    "nameCity": "Augusto de Lima"
+  },
+  {
+    "idState": "11",
+    "idCity": "1618",
+    "nameCity": "Baependi"
+  },
+  {
+    "idState": "11",
+    "idCity": "1619",
+    "nameCity": "Baldim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1620",
+    "nameCity": "Bambuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1621",
+    "nameCity": "Bandeira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1622",
+    "nameCity": "Bandeira do Sul"
+  },
+  {
+    "idState": "11",
+    "idCity": "1623",
+    "nameCity": "Barão de Cocais"
+  },
+  {
+    "idState": "11",
+    "idCity": "1624",
+    "nameCity": "Barão de Monte Alto"
+  },
+  {
+    "idState": "11",
+    "idCity": "1625",
+    "nameCity": "Barbacena"
+  },
+  {
+    "idState": "11",
+    "idCity": "1626",
+    "nameCity": "Barra Longa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1627",
+    "nameCity": "Barroso"
+  },
+  {
+    "idState": "11",
+    "idCity": "1628",
+    "nameCity": "Bela Vista de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1629",
+    "nameCity": "Belmiro Braga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1630",
+    "nameCity": "Belo Horizonte"
+  },
+  {
+    "idState": "11",
+    "idCity": "1631",
+    "nameCity": "Belo Oriente"
+  },
+  {
+    "idState": "11",
+    "idCity": "1632",
+    "nameCity": "Belo Vale"
+  },
+  {
+    "idState": "11",
+    "idCity": "1633",
+    "nameCity": "Berilo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1634",
+    "nameCity": "Berizal"
+  },
+  {
+    "idState": "11",
+    "idCity": "1635",
+    "nameCity": "Bertópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1636",
+    "nameCity": "Betim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1637",
+    "nameCity": "Bias Fortes"
+  },
+  {
+    "idState": "11",
+    "idCity": "1638",
+    "nameCity": "Bicas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1639",
+    "nameCity": "Biquinhas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1640",
+    "nameCity": "Boa Esperança"
+  },
+  {
+    "idState": "11",
+    "idCity": "1641",
+    "nameCity": "Bocaina de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1642",
+    "nameCity": "Bocaiúva"
+  },
+  {
+    "idState": "11",
+    "idCity": "1643",
+    "nameCity": "Bom Despacho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1644",
+    "nameCity": "Bom Jardim de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1645",
+    "nameCity": "Bom Jesus da Penha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1646",
+    "nameCity": "Bom Jesus do Amparo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1647",
+    "nameCity": "Bom Jesus do Galho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1648",
+    "nameCity": "Bom Repouso"
+  },
+  {
+    "idState": "11",
+    "idCity": "1649",
+    "nameCity": "Bom Sucesso"
+  },
+  {
+    "idState": "11",
+    "idCity": "1650",
+    "nameCity": "Bonfim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1651",
+    "nameCity": "Bonfinópolis de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1652",
+    "nameCity": "Bonito de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1653",
+    "nameCity": "Borda da Mata"
+  },
+  {
+    "idState": "11",
+    "idCity": "1654",
+    "nameCity": "Botelhos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1655",
+    "nameCity": "Botumirim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1656",
+    "nameCity": "Brás Pires"
+  },
+  {
+    "idState": "11",
+    "idCity": "1657",
+    "nameCity": "Brasilândia de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1658",
+    "nameCity": "Brasília de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1659",
+    "nameCity": "Brasópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1660",
+    "nameCity": "Braúnas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1661",
+    "nameCity": "Brumadinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1662",
+    "nameCity": "Bueno Brandão"
+  },
+  {
+    "idState": "11",
+    "idCity": "1663",
+    "nameCity": "Buenópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1664",
+    "nameCity": "Bugre"
+  },
+  {
+    "idState": "11",
+    "idCity": "1665",
+    "nameCity": "Buritis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1666",
+    "nameCity": "Buritizeiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1667",
+    "nameCity": "Cabeceira Grande"
+  },
+  {
+    "idState": "11",
+    "idCity": "1668",
+    "nameCity": "Cabo Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "1669",
+    "nameCity": "Cachoeira da Prata"
+  },
+  {
+    "idState": "11",
+    "idCity": "1670",
+    "nameCity": "Cachoeira de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1671",
+    "nameCity": "Cachoeira de Pajeú"
+  },
+  {
+    "idState": "11",
+    "idCity": "1672",
+    "nameCity": "Cachoeira Dourada"
+  },
+  {
+    "idState": "11",
+    "idCity": "1673",
+    "nameCity": "Caetanópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1674",
+    "nameCity": "Caeté"
+  },
+  {
+    "idState": "11",
+    "idCity": "1675",
+    "nameCity": "Caiana"
+  },
+  {
+    "idState": "11",
+    "idCity": "1676",
+    "nameCity": "Cajuri"
+  },
+  {
+    "idState": "11",
+    "idCity": "1677",
+    "nameCity": "Caldas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1678",
+    "nameCity": "Camacho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1679",
+    "nameCity": "Camanducaia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1680",
+    "nameCity": "Cambuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1681",
+    "nameCity": "Cambuquira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1682",
+    "nameCity": "Campanário"
+  },
+  {
+    "idState": "11",
+    "idCity": "1683",
+    "nameCity": "Campanha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1684",
+    "nameCity": "Campestre"
+  },
+  {
+    "idState": "11",
+    "idCity": "1685",
+    "nameCity": "Campina Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "1686",
+    "nameCity": "Campo Azul"
+  },
+  {
+    "idState": "11",
+    "idCity": "1687",
+    "nameCity": "Campo Belo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1688",
+    "nameCity": "Campo do Meio"
+  },
+  {
+    "idState": "11",
+    "idCity": "1689",
+    "nameCity": "Campo Florido"
+  },
+  {
+    "idState": "11",
+    "idCity": "1690",
+    "nameCity": "Campos Altos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1691",
+    "nameCity": "Campos Gerais"
+  },
+  {
+    "idState": "11",
+    "idCity": "1692",
+    "nameCity": "Cana Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "1693",
+    "nameCity": "Canaã"
+  },
+  {
+    "idState": "11",
+    "idCity": "1694",
+    "nameCity": "Canápolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1695",
+    "nameCity": "Candeias"
+  },
+  {
+    "idState": "11",
+    "idCity": "1696",
+    "nameCity": "Cantagalo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1697",
+    "nameCity": "Caparaó"
+  },
+  {
+    "idState": "11",
+    "idCity": "1698",
+    "nameCity": "Capela Nova"
+  },
+  {
+    "idState": "11",
+    "idCity": "1699",
+    "nameCity": "Capelinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1700",
+    "nameCity": "Capetinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1701",
+    "nameCity": "Capim Branco"
+  },
+  {
+    "idState": "11",
+    "idCity": "1702",
+    "nameCity": "Capinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1703",
+    "nameCity": "Capitão Andrade"
+  },
+  {
+    "idState": "11",
+    "idCity": "1704",
+    "nameCity": "Capitão Enéas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1705",
+    "nameCity": "Capitólio"
+  },
+  {
+    "idState": "11",
+    "idCity": "1706",
+    "nameCity": "Caputira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1707",
+    "nameCity": "Caraí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1708",
+    "nameCity": "Caranaíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1709",
+    "nameCity": "Carandaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1710",
+    "nameCity": "Carangola"
+  },
+  {
+    "idState": "11",
+    "idCity": "1711",
+    "nameCity": "Caratinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1712",
+    "nameCity": "Carbonita"
+  },
+  {
+    "idState": "11",
+    "idCity": "1713",
+    "nameCity": "Careaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1714",
+    "nameCity": "Carlos Chagas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1715",
+    "nameCity": "Carmésia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1716",
+    "nameCity": "Carmo da Cachoeira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1717",
+    "nameCity": "Carmo da Mata"
+  },
+  {
+    "idState": "11",
+    "idCity": "1718",
+    "nameCity": "Carmo de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1719",
+    "nameCity": "Carmo do Cajuru"
+  },
+  {
+    "idState": "11",
+    "idCity": "1720",
+    "nameCity": "Carmo do Paranaíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1721",
+    "nameCity": "Carmo do Rio Claro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1722",
+    "nameCity": "Carmópolis de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1723",
+    "nameCity": "Carneirinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1724",
+    "nameCity": "Carrancas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1725",
+    "nameCity": "Carvalhópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1726",
+    "nameCity": "Carvalhos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1727",
+    "nameCity": "Casa Grande"
+  },
+  {
+    "idState": "11",
+    "idCity": "1728",
+    "nameCity": "Cascalho Rico"
+  },
+  {
+    "idState": "11",
+    "idCity": "1729",
+    "nameCity": "Cássia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1730",
+    "nameCity": "Cataguases"
+  },
+  {
+    "idState": "11",
+    "idCity": "1731",
+    "nameCity": "Catas Altas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1732",
+    "nameCity": "Catas Altas da Noruega"
+  },
+  {
+    "idState": "11",
+    "idCity": "1733",
+    "nameCity": "Catuji"
+  },
+  {
+    "idState": "11",
+    "idCity": "1734",
+    "nameCity": "Catuti"
+  },
+  {
+    "idState": "11",
+    "idCity": "1735",
+    "nameCity": "Caxambu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1736",
+    "nameCity": "Cedro do Abaeté"
+  },
+  {
+    "idState": "11",
+    "idCity": "1737",
+    "nameCity": "Central de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1738",
+    "nameCity": "Centralina"
+  },
+  {
+    "idState": "11",
+    "idCity": "1739",
+    "nameCity": "Chácara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1740",
+    "nameCity": "Chalé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1741",
+    "nameCity": "Chapada do Norte"
+  },
+  {
+    "idState": "11",
+    "idCity": "1742",
+    "nameCity": "Chapada Gaúcha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1743",
+    "nameCity": "Chiador"
+  },
+  {
+    "idState": "11",
+    "idCity": "1744",
+    "nameCity": "Cipotânea"
+  },
+  {
+    "idState": "11",
+    "idCity": "1745",
+    "nameCity": "Claraval"
+  },
+  {
+    "idState": "11",
+    "idCity": "1746",
+    "nameCity": "Claro dos Poções"
+  },
+  {
+    "idState": "11",
+    "idCity": "1747",
+    "nameCity": "Cláudio"
+  },
+  {
+    "idState": "11",
+    "idCity": "1748",
+    "nameCity": "Coimbra"
+  },
+  {
+    "idState": "11",
+    "idCity": "1749",
+    "nameCity": "Coluna"
+  },
+  {
+    "idState": "11",
+    "idCity": "1750",
+    "nameCity": "Comendador Gomes"
+  },
+  {
+    "idState": "11",
+    "idCity": "1751",
+    "nameCity": "Comercinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1752",
+    "nameCity": "Conceição da Aparecida"
+  },
+  {
+    "idState": "11",
+    "idCity": "1753",
+    "nameCity": "Conceição da Barra de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1754",
+    "nameCity": "Conceição das Alagoas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1755",
+    "nameCity": "Conceição das Pedras"
+  },
+  {
+    "idState": "11",
+    "idCity": "1756",
+    "nameCity": "Conceição de Ipanema"
+  },
+  {
+    "idState": "11",
+    "idCity": "1757",
+    "nameCity": "Conceição do Mato Dentro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1758",
+    "nameCity": "Conceição do Pará"
+  },
+  {
+    "idState": "11",
+    "idCity": "1759",
+    "nameCity": "Conceição do Rio Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "1760",
+    "nameCity": "Conceição dos Ouros"
+  },
+  {
+    "idState": "11",
+    "idCity": "1761",
+    "nameCity": "Cônego Marinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1762",
+    "nameCity": "Confins"
+  },
+  {
+    "idState": "11",
+    "idCity": "1763",
+    "nameCity": "Congonhal"
+  },
+  {
+    "idState": "11",
+    "idCity": "1764",
+    "nameCity": "Congonhas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1765",
+    "nameCity": "Congonhas do Norte"
+  },
+  {
+    "idState": "11",
+    "idCity": "1766",
+    "nameCity": "Conquista"
+  },
+  {
+    "idState": "11",
+    "idCity": "1767",
+    "nameCity": "Conselheiro Lafaiete"
+  },
+  {
+    "idState": "11",
+    "idCity": "1768",
+    "nameCity": "Conselheiro Pena"
+  },
+  {
+    "idState": "11",
+    "idCity": "1769",
+    "nameCity": "Consolação"
+  },
+  {
+    "idState": "11",
+    "idCity": "1770",
+    "nameCity": "Contagem"
+  },
+  {
+    "idState": "11",
+    "idCity": "1771",
+    "nameCity": "Coqueiral"
+  },
+  {
+    "idState": "11",
+    "idCity": "1772",
+    "nameCity": "Coração de Jesus"
+  },
+  {
+    "idState": "11",
+    "idCity": "1773",
+    "nameCity": "Cordisburgo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1774",
+    "nameCity": "Cordislândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1775",
+    "nameCity": "Corinto"
+  },
+  {
+    "idState": "11",
+    "idCity": "1776",
+    "nameCity": "Coroaci"
+  },
+  {
+    "idState": "11",
+    "idCity": "1777",
+    "nameCity": "Coromandel"
+  },
+  {
+    "idState": "11",
+    "idCity": "1778",
+    "nameCity": "Coronel Fabriciano"
+  },
+  {
+    "idState": "11",
+    "idCity": "1779",
+    "nameCity": "Coronel Murta"
+  },
+  {
+    "idState": "11",
+    "idCity": "1780",
+    "nameCity": "Coronel Pacheco"
+  },
+  {
+    "idState": "11",
+    "idCity": "1781",
+    "nameCity": "Coronel Xavier Chaves"
+  },
+  {
+    "idState": "11",
+    "idCity": "1782",
+    "nameCity": "Córrego Danta"
+  },
+  {
+    "idState": "11",
+    "idCity": "1783",
+    "nameCity": "Córrego do Bom Jesus"
+  },
+  {
+    "idState": "11",
+    "idCity": "1784",
+    "nameCity": "Córrego Fundo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1785",
+    "nameCity": "Córrego Novo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1786",
+    "nameCity": "Couto de Magalhães de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1787",
+    "nameCity": "Crisólita"
+  },
+  {
+    "idState": "11",
+    "idCity": "1788",
+    "nameCity": "Cristais"
+  },
+  {
+    "idState": "11",
+    "idCity": "1789",
+    "nameCity": "Cristália"
+  },
+  {
+    "idState": "11",
+    "idCity": "1790",
+    "nameCity": "Cristiano Otoni"
+  },
+  {
+    "idState": "11",
+    "idCity": "1791",
+    "nameCity": "Cristina"
+  },
+  {
+    "idState": "11",
+    "idCity": "1792",
+    "nameCity": "Crucilândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1793",
+    "nameCity": "Cruzeiro da Fortaleza"
+  },
+  {
+    "idState": "11",
+    "idCity": "1794",
+    "nameCity": "Cruzília"
+  },
+  {
+    "idState": "11",
+    "idCity": "1795",
+    "nameCity": "Cuparaque"
+  },
+  {
+    "idState": "11",
+    "idCity": "1796",
+    "nameCity": "Curral de Dentro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1797",
+    "nameCity": "Curvelo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1798",
+    "nameCity": "Datas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1799",
+    "nameCity": "Delfim Moreira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1800",
+    "nameCity": "Delfinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1801",
+    "nameCity": "Delta"
+  },
+  {
+    "idState": "11",
+    "idCity": "1802",
+    "nameCity": "Descoberto"
+  },
+  {
+    "idState": "11",
+    "idCity": "1803",
+    "nameCity": "Desterro de Entre Rios"
+  },
+  {
+    "idState": "11",
+    "idCity": "1804",
+    "nameCity": "Desterro do Melo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1805",
+    "nameCity": "Diamantina"
+  },
+  {
+    "idState": "11",
+    "idCity": "1806",
+    "nameCity": "Diogo de Vasconcelos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1807",
+    "nameCity": "Dionísio"
+  },
+  {
+    "idState": "11",
+    "idCity": "1808",
+    "nameCity": "Divinésia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1809",
+    "nameCity": "Divino"
+  },
+  {
+    "idState": "11",
+    "idCity": "1810",
+    "nameCity": "Divino das Laranjeiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "1811",
+    "nameCity": "Divinolândia de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1812",
+    "nameCity": "Divinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1813",
+    "nameCity": "Divisa Alegre"
+  },
+  {
+    "idState": "11",
+    "idCity": "1814",
+    "nameCity": "Divisa Nova"
+  },
+  {
+    "idState": "11",
+    "idCity": "1815",
+    "nameCity": "Divisópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1816",
+    "nameCity": "Dom Bosco"
+  },
+  {
+    "idState": "11",
+    "idCity": "1817",
+    "nameCity": "Dom Cavati"
+  },
+  {
+    "idState": "11",
+    "idCity": "1818",
+    "nameCity": "Dom Joaquim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1819",
+    "nameCity": "Dom Silvério"
+  },
+  {
+    "idState": "11",
+    "idCity": "1820",
+    "nameCity": "Dom Viçoso"
+  },
+  {
+    "idState": "11",
+    "idCity": "1821",
+    "nameCity": "Dona Eusébia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1822",
+    "nameCity": "Dores de Campos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1823",
+    "nameCity": "Dores de Guanhães"
+  },
+  {
+    "idState": "11",
+    "idCity": "1824",
+    "nameCity": "Dores do Indaiá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1825",
+    "nameCity": "Dores do Turvo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1826",
+    "nameCity": "Doresópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1827",
+    "nameCity": "Douradoquara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1828",
+    "nameCity": "Durandé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1829",
+    "nameCity": "Elói Mendes"
+  },
+  {
+    "idState": "11",
+    "idCity": "1830",
+    "nameCity": "Engenheiro Caldas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1831",
+    "nameCity": "Engenheiro Navarro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1832",
+    "nameCity": "Entre Folhas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1833",
+    "nameCity": "Entre Rios de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1834",
+    "nameCity": "Ervália"
+  },
+  {
+    "idState": "11",
+    "idCity": "1835",
+    "nameCity": "Esmeraldas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1836",
+    "nameCity": "Espera Feliz"
+  },
+  {
+    "idState": "11",
+    "idCity": "1837",
+    "nameCity": "Espinosa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1838",
+    "nameCity": "Espírito Santo do Dourado"
+  },
+  {
+    "idState": "11",
+    "idCity": "1839",
+    "nameCity": "Estiva"
+  },
+  {
+    "idState": "11",
+    "idCity": "1840",
+    "nameCity": "Estrela Dalva"
+  },
+  {
+    "idState": "11",
+    "idCity": "1841",
+    "nameCity": "Estrela do Indaiá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1842",
+    "nameCity": "Estrela do Sul"
+  },
+  {
+    "idState": "11",
+    "idCity": "1843",
+    "nameCity": "Eugenópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1844",
+    "nameCity": "Ewbank da Câmara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1845",
+    "nameCity": "Extrema"
+  },
+  {
+    "idState": "11",
+    "idCity": "1846",
+    "nameCity": "Fama"
+  },
+  {
+    "idState": "11",
+    "idCity": "1847",
+    "nameCity": "Faria Lemos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1848",
+    "nameCity": "Felício dos Santos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1849",
+    "nameCity": "Felisburgo"
+  },
+  {
+    "idState": "11",
+    "idCity": "1850",
+    "nameCity": "Felixlândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1851",
+    "nameCity": "Fernandes Tourinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "1852",
+    "nameCity": "Ferros"
+  },
+  {
+    "idState": "11",
+    "idCity": "1853",
+    "nameCity": "Fervedouro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1854",
+    "nameCity": "Florestal"
+  },
+  {
+    "idState": "11",
+    "idCity": "1855",
+    "nameCity": "Formiga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1856",
+    "nameCity": "Formoso"
+  },
+  {
+    "idState": "11",
+    "idCity": "1857",
+    "nameCity": "Fortaleza de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1858",
+    "nameCity": "Fortuna de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1859",
+    "nameCity": "Francisco Badaró"
+  },
+  {
+    "idState": "11",
+    "idCity": "1860",
+    "nameCity": "Francisco Dumont"
+  },
+  {
+    "idState": "11",
+    "idCity": "1861",
+    "nameCity": "Francisco Sá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1862",
+    "nameCity": "Franciscópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1863",
+    "nameCity": "Frei Gaspar"
+  },
+  {
+    "idState": "11",
+    "idCity": "1864",
+    "nameCity": "Frei Inocêncio"
+  },
+  {
+    "idState": "11",
+    "idCity": "1865",
+    "nameCity": "Frei Lagonegro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1866",
+    "nameCity": "Fronteira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1867",
+    "nameCity": "Fronteira dos Vales"
+  },
+  {
+    "idState": "11",
+    "idCity": "1868",
+    "nameCity": "Fruta de Leite"
+  },
+  {
+    "idState": "11",
+    "idCity": "1869",
+    "nameCity": "Frutal"
+  },
+  {
+    "idState": "11",
+    "idCity": "1870",
+    "nameCity": "Funilândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1871",
+    "nameCity": "Galiléia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1872",
+    "nameCity": "Gameleiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "1873",
+    "nameCity": "Glaucilândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1874",
+    "nameCity": "Goiabeira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1875",
+    "nameCity": "Goianá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1876",
+    "nameCity": "Gonçalves"
+  },
+  {
+    "idState": "11",
+    "idCity": "1877",
+    "nameCity": "Gonzaga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1878",
+    "nameCity": "Gouveia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1879",
+    "nameCity": "Governador Valadares"
+  },
+  {
+    "idState": "11",
+    "idCity": "1880",
+    "nameCity": "Grão Mogol"
+  },
+  {
+    "idState": "11",
+    "idCity": "1881",
+    "nameCity": "Grupiara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1882",
+    "nameCity": "Guanhães"
+  },
+  {
+    "idState": "11",
+    "idCity": "1883",
+    "nameCity": "Guapé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1884",
+    "nameCity": "Guaraciaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1885",
+    "nameCity": "Guaraciama"
+  },
+  {
+    "idState": "11",
+    "idCity": "1886",
+    "nameCity": "Guaranésia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1887",
+    "nameCity": "Guarani"
+  },
+  {
+    "idState": "11",
+    "idCity": "1888",
+    "nameCity": "Guarará"
+  },
+  {
+    "idState": "11",
+    "idCity": "1889",
+    "nameCity": "Guarda-Mor"
+  },
+  {
+    "idState": "11",
+    "idCity": "1890",
+    "nameCity": "Guaxupé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1891",
+    "nameCity": "Guidoval"
+  },
+  {
+    "idState": "11",
+    "idCity": "1892",
+    "nameCity": "Guimarânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1893",
+    "nameCity": "Guiricema"
+  },
+  {
+    "idState": "11",
+    "idCity": "1894",
+    "nameCity": "Gurinhatã"
+  },
+  {
+    "idState": "11",
+    "idCity": "1895",
+    "nameCity": "Heliodora"
+  },
+  {
+    "idState": "11",
+    "idCity": "1896",
+    "nameCity": "Iapu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1897",
+    "nameCity": "Ibertioga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1898",
+    "nameCity": "Ibiá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1899",
+    "nameCity": "Ibiaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1900",
+    "nameCity": "Ibiracatu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1901",
+    "nameCity": "Ibiraci"
+  },
+  {
+    "idState": "11",
+    "idCity": "1902",
+    "nameCity": "Ibirité"
+  },
+  {
+    "idState": "11",
+    "idCity": "1903",
+    "nameCity": "Ibitiúra de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1904",
+    "nameCity": "Ibituruna"
+  },
+  {
+    "idState": "11",
+    "idCity": "1905",
+    "nameCity": "Icaraí de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1906",
+    "nameCity": "Igarapé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1907",
+    "nameCity": "Igaratinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1908",
+    "nameCity": "Iguatama"
+  },
+  {
+    "idState": "11",
+    "idCity": "1909",
+    "nameCity": "Ijaci"
+  },
+  {
+    "idState": "11",
+    "idCity": "1910",
+    "nameCity": "Ilicínea"
+  },
+  {
+    "idState": "11",
+    "idCity": "1911",
+    "nameCity": "Imbé de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1912",
+    "nameCity": "Inconfidentes"
+  },
+  {
+    "idState": "11",
+    "idCity": "1913",
+    "nameCity": "Indaiabira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1914",
+    "nameCity": "Indianópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1915",
+    "nameCity": "Ingaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1916",
+    "nameCity": "Inhapim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1917",
+    "nameCity": "Inhaúma"
+  },
+  {
+    "idState": "11",
+    "idCity": "1918",
+    "nameCity": "Inimutaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1919",
+    "nameCity": "Ipaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1920",
+    "nameCity": "Ipanema"
+  },
+  {
+    "idState": "11",
+    "idCity": "1921",
+    "nameCity": "Ipatinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1922",
+    "nameCity": "Ipiaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1923",
+    "nameCity": "Ipuiúna"
+  },
+  {
+    "idState": "11",
+    "idCity": "1924",
+    "nameCity": "Iraí de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1925",
+    "nameCity": "Itabira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1926",
+    "nameCity": "Itabirinha de Mantena"
+  },
+  {
+    "idState": "11",
+    "idCity": "1927",
+    "nameCity": "Itabirito"
+  },
+  {
+    "idState": "11",
+    "idCity": "1928",
+    "nameCity": "Itacambira"
+  },
+  {
+    "idState": "11",
+    "idCity": "1929",
+    "nameCity": "Itacarambi"
+  },
+  {
+    "idState": "11",
+    "idCity": "1930",
+    "nameCity": "Itaguara"
+  },
+  {
+    "idState": "11",
+    "idCity": "1931",
+    "nameCity": "Itaipé"
+  },
+  {
+    "idState": "11",
+    "idCity": "1932",
+    "nameCity": "Itajubá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1933",
+    "nameCity": "Itamarandiba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1934",
+    "nameCity": "Itamarati de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1935",
+    "nameCity": "Itambacuri"
+  },
+  {
+    "idState": "11",
+    "idCity": "1936",
+    "nameCity": "Itambé do Mato Dentro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1937",
+    "nameCity": "Itamogi"
+  },
+  {
+    "idState": "11",
+    "idCity": "1938",
+    "nameCity": "Itamonte"
+  },
+  {
+    "idState": "11",
+    "idCity": "1939",
+    "nameCity": "Itanhandu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1940",
+    "nameCity": "Itanhomi"
+  },
+  {
+    "idState": "11",
+    "idCity": "1941",
+    "nameCity": "Itaobim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1942",
+    "nameCity": "Itapagipe"
+  },
+  {
+    "idState": "11",
+    "idCity": "1943",
+    "nameCity": "Itapecerica"
+  },
+  {
+    "idState": "11",
+    "idCity": "1944",
+    "nameCity": "Itapeva"
+  },
+  {
+    "idState": "11",
+    "idCity": "1945",
+    "nameCity": "Itatiaiuçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1946",
+    "nameCity": "Itaú de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1947",
+    "nameCity": "Itaúna"
+  },
+  {
+    "idState": "11",
+    "idCity": "1948",
+    "nameCity": "Itaverava"
+  },
+  {
+    "idState": "11",
+    "idCity": "1949",
+    "nameCity": "Itinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1950",
+    "nameCity": "Itueta"
+  },
+  {
+    "idState": "11",
+    "idCity": "1951",
+    "nameCity": "Ituiutaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1952",
+    "nameCity": "Itumirim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1953",
+    "nameCity": "Iturama"
+  },
+  {
+    "idState": "11",
+    "idCity": "1954",
+    "nameCity": "Itutinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1955",
+    "nameCity": "Jaboticatubas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1956",
+    "nameCity": "Jacinto"
+  },
+  {
+    "idState": "11",
+    "idCity": "1957",
+    "nameCity": "Jacuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1958",
+    "nameCity": "Jacutinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "1959",
+    "nameCity": "Jaguaraçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "1960",
+    "nameCity": "Jaíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1961",
+    "nameCity": "Jampruca"
+  },
+  {
+    "idState": "11",
+    "idCity": "1962",
+    "nameCity": "Janaúba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1963",
+    "nameCity": "Januária"
+  },
+  {
+    "idState": "11",
+    "idCity": "1964",
+    "nameCity": "Japaraíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1965",
+    "nameCity": "Japonvar"
+  },
+  {
+    "idState": "11",
+    "idCity": "1966",
+    "nameCity": "Jeceaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1967",
+    "nameCity": "Jenipapo de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1968",
+    "nameCity": "Jequeri"
+  },
+  {
+    "idState": "11",
+    "idCity": "1969",
+    "nameCity": "Jequitaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "1970",
+    "nameCity": "Jequitibá"
+  },
+  {
+    "idState": "11",
+    "idCity": "1971",
+    "nameCity": "Jequitinhonha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1972",
+    "nameCity": "Jesuânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1973",
+    "nameCity": "Joaíma"
+  },
+  {
+    "idState": "11",
+    "idCity": "1974",
+    "nameCity": "Joanésia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1975",
+    "nameCity": "João Monlevade"
+  },
+  {
+    "idState": "11",
+    "idCity": "1976",
+    "nameCity": "João Pinheiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "1977",
+    "nameCity": "Joaquim Felício"
+  },
+  {
+    "idState": "11",
+    "idCity": "1978",
+    "nameCity": "Jordânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1979",
+    "nameCity": "José Gonçalves de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "1980",
+    "nameCity": "José Raydan"
+  },
+  {
+    "idState": "11",
+    "idCity": "1981",
+    "nameCity": "Josenópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "1982",
+    "nameCity": "Juatuba"
+  },
+  {
+    "idState": "11",
+    "idCity": "1983",
+    "nameCity": "Juiz de Fora"
+  },
+  {
+    "idState": "11",
+    "idCity": "1984",
+    "nameCity": "Juramento"
+  },
+  {
+    "idState": "11",
+    "idCity": "1985",
+    "nameCity": "Juruaia"
+  },
+  {
+    "idState": "11",
+    "idCity": "1986",
+    "nameCity": "Juvenília"
+  },
+  {
+    "idState": "11",
+    "idCity": "1987",
+    "nameCity": "Ladainha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1988",
+    "nameCity": "Lagamar"
+  },
+  {
+    "idState": "11",
+    "idCity": "1989",
+    "nameCity": "Lagoa da Prata"
+  },
+  {
+    "idState": "11",
+    "idCity": "1990",
+    "nameCity": "Lagoa dos Patos"
+  },
+  {
+    "idState": "11",
+    "idCity": "1991",
+    "nameCity": "Lagoa Dourada"
+  },
+  {
+    "idState": "11",
+    "idCity": "1992",
+    "nameCity": "Lagoa Formosa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1993",
+    "nameCity": "Lagoa Grande"
+  },
+  {
+    "idState": "11",
+    "idCity": "1994",
+    "nameCity": "Lagoa Santa"
+  },
+  {
+    "idState": "11",
+    "idCity": "1995",
+    "nameCity": "Lajinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "1996",
+    "nameCity": "Lambari"
+  },
+  {
+    "idState": "11",
+    "idCity": "1997",
+    "nameCity": "Lamim"
+  },
+  {
+    "idState": "11",
+    "idCity": "1998",
+    "nameCity": "Laranjal"
+  },
+  {
+    "idState": "11",
+    "idCity": "1999",
+    "nameCity": "Lassance"
+  },
+  {
+    "idState": "11",
+    "idCity": "2000",
+    "nameCity": "Lavras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2001",
+    "nameCity": "Leandro Ferreira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2002",
+    "nameCity": "Leme do Prado"
+  },
+  {
+    "idState": "11",
+    "idCity": "2003",
+    "nameCity": "Leopoldina"
+  },
+  {
+    "idState": "11",
+    "idCity": "2004",
+    "nameCity": "Liberdade"
+  },
+  {
+    "idState": "11",
+    "idCity": "2005",
+    "nameCity": "Lima Duarte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2006",
+    "nameCity": "Limeira do Oeste"
+  },
+  {
+    "idState": "11",
+    "idCity": "2007",
+    "nameCity": "Lontra"
+  },
+  {
+    "idState": "11",
+    "idCity": "2008",
+    "nameCity": "Luisburgo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2009",
+    "nameCity": "Luislândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2010",
+    "nameCity": "Luminárias"
+  },
+  {
+    "idState": "11",
+    "idCity": "2011",
+    "nameCity": "Luz"
+  },
+  {
+    "idState": "11",
+    "idCity": "2012",
+    "nameCity": "Machacalis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2013",
+    "nameCity": "Machado"
+  },
+  {
+    "idState": "11",
+    "idCity": "2014",
+    "nameCity": "Madre de Deus de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2015",
+    "nameCity": "Malacacheta"
+  },
+  {
+    "idState": "11",
+    "idCity": "2016",
+    "nameCity": "Mamonas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2017",
+    "nameCity": "Manga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2018",
+    "nameCity": "Manhuaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2019",
+    "nameCity": "Manhumirim"
+  },
+  {
+    "idState": "11",
+    "idCity": "2020",
+    "nameCity": "Mantena"
+  },
+  {
+    "idState": "11",
+    "idCity": "2021",
+    "nameCity": "Mar de Espanha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2022",
+    "nameCity": "Maravilhas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2023",
+    "nameCity": "Maria da Fé"
+  },
+  {
+    "idState": "11",
+    "idCity": "2024",
+    "nameCity": "Mariana"
+  },
+  {
+    "idState": "11",
+    "idCity": "2025",
+    "nameCity": "Marilac"
+  },
+  {
+    "idState": "11",
+    "idCity": "2026",
+    "nameCity": "Mário Campos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2027",
+    "nameCity": "Maripá de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2028",
+    "nameCity": "Marliéria"
+  },
+  {
+    "idState": "11",
+    "idCity": "2029",
+    "nameCity": "Marmelópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2030",
+    "nameCity": "Martinho Campos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2031",
+    "nameCity": "Martins Soares"
+  },
+  {
+    "idState": "11",
+    "idCity": "2032",
+    "nameCity": "Mata Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "2033",
+    "nameCity": "Materlândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2034",
+    "nameCity": "Mateus Leme"
+  },
+  {
+    "idState": "11",
+    "idCity": "2035",
+    "nameCity": "Mathias Lobato"
+  },
+  {
+    "idState": "11",
+    "idCity": "2036",
+    "nameCity": "Matias Barbosa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2037",
+    "nameCity": "Matias Cardoso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2038",
+    "nameCity": "Matipó"
+  },
+  {
+    "idState": "11",
+    "idCity": "2039",
+    "nameCity": "Mato Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "2040",
+    "nameCity": "Matozinhos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2041",
+    "nameCity": "Matutina"
+  },
+  {
+    "idState": "11",
+    "idCity": "2042",
+    "nameCity": "Medeiros"
+  },
+  {
+    "idState": "11",
+    "idCity": "2043",
+    "nameCity": "Medina"
+  },
+  {
+    "idState": "11",
+    "idCity": "2044",
+    "nameCity": "Mendes Pimentel"
+  },
+  {
+    "idState": "11",
+    "idCity": "2045",
+    "nameCity": "Mercês"
+  },
+  {
+    "idState": "11",
+    "idCity": "2046",
+    "nameCity": "Mesquita"
+  },
+  {
+    "idState": "11",
+    "idCity": "2047",
+    "nameCity": "Minas Novas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2048",
+    "nameCity": "Minduri"
+  },
+  {
+    "idState": "11",
+    "idCity": "2049",
+    "nameCity": "Mirabela"
+  },
+  {
+    "idState": "11",
+    "idCity": "2050",
+    "nameCity": "Miradouro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2051",
+    "nameCity": "Miraí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2052",
+    "nameCity": "Miravânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2053",
+    "nameCity": "Moeda"
+  },
+  {
+    "idState": "11",
+    "idCity": "2054",
+    "nameCity": "Moema"
+  },
+  {
+    "idState": "11",
+    "idCity": "2055",
+    "nameCity": "Monjolos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2056",
+    "nameCity": "Monsenhor Paulo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2057",
+    "nameCity": "Montalvânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2058",
+    "nameCity": "Monte Alegre de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2059",
+    "nameCity": "Monte Azul"
+  },
+  {
+    "idState": "11",
+    "idCity": "2060",
+    "nameCity": "Monte Belo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2061",
+    "nameCity": "Monte Carmelo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2062",
+    "nameCity": "Monte Formoso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2063",
+    "nameCity": "Monte Santo de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2064",
+    "nameCity": "Monte Sião"
+  },
+  {
+    "idState": "11",
+    "idCity": "2065",
+    "nameCity": "Montes Claros"
+  },
+  {
+    "idState": "11",
+    "idCity": "2066",
+    "nameCity": "Montezuma"
+  },
+  {
+    "idState": "11",
+    "idCity": "2067",
+    "nameCity": "Morada Nova de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2068",
+    "nameCity": "Morro da Garça"
+  },
+  {
+    "idState": "11",
+    "idCity": "2069",
+    "nameCity": "Morro do Pilar"
+  },
+  {
+    "idState": "11",
+    "idCity": "2070",
+    "nameCity": "Munhoz"
+  },
+  {
+    "idState": "11",
+    "idCity": "2071",
+    "nameCity": "Muriaé"
+  },
+  {
+    "idState": "11",
+    "idCity": "2072",
+    "nameCity": "Mutum"
+  },
+  {
+    "idState": "11",
+    "idCity": "2073",
+    "nameCity": "Muzambinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2074",
+    "nameCity": "Nacip Raydan"
+  },
+  {
+    "idState": "11",
+    "idCity": "2075",
+    "nameCity": "Nanuque"
+  },
+  {
+    "idState": "11",
+    "idCity": "2076",
+    "nameCity": "Naque"
+  },
+  {
+    "idState": "11",
+    "idCity": "2077",
+    "nameCity": "Natalândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2078",
+    "nameCity": "Natércia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2079",
+    "nameCity": "Nazareno"
+  },
+  {
+    "idState": "11",
+    "idCity": "2080",
+    "nameCity": "Nepomuceno"
+  },
+  {
+    "idState": "11",
+    "idCity": "2081",
+    "nameCity": "Ninheira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2082",
+    "nameCity": "Nova Belém"
+  },
+  {
+    "idState": "11",
+    "idCity": "2083",
+    "nameCity": "Nova Era"
+  },
+  {
+    "idState": "11",
+    "idCity": "2084",
+    "nameCity": "Nova Lima"
+  },
+  {
+    "idState": "11",
+    "idCity": "2085",
+    "nameCity": "Nova Módica"
+  },
+  {
+    "idState": "11",
+    "idCity": "2086",
+    "nameCity": "Nova Ponte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2087",
+    "nameCity": "Nova Porteirinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2088",
+    "nameCity": "Nova Resende"
+  },
+  {
+    "idState": "11",
+    "idCity": "2089",
+    "nameCity": "Nova Serrana"
+  },
+  {
+    "idState": "11",
+    "idCity": "2090",
+    "nameCity": "Nova União"
+  },
+  {
+    "idState": "11",
+    "idCity": "2091",
+    "nameCity": "Novo Cruzeiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2092",
+    "nameCity": "Novo Oriente de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2093",
+    "nameCity": "Novorizonte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2094",
+    "nameCity": "Olaria"
+  },
+  {
+    "idState": "11",
+    "idCity": "2095",
+    "nameCity": "Olhos-d`Água"
+  },
+  {
+    "idState": "11",
+    "idCity": "2096",
+    "nameCity": "Olímpio Noronha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2097",
+    "nameCity": "Oliveira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2098",
+    "nameCity": "Oliveira Fortes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2099",
+    "nameCity": "Onça de Pitangui"
+  },
+  {
+    "idState": "11",
+    "idCity": "2100",
+    "nameCity": "Oratórios"
+  },
+  {
+    "idState": "11",
+    "idCity": "2101",
+    "nameCity": "Orizânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2102",
+    "nameCity": "Ouro Branco"
+  },
+  {
+    "idState": "11",
+    "idCity": "2103",
+    "nameCity": "Ouro Fino"
+  },
+  {
+    "idState": "11",
+    "idCity": "2104",
+    "nameCity": "Ouro Preto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2105",
+    "nameCity": "Ouro Verde de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2106",
+    "nameCity": "Padre Carvalho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2107",
+    "nameCity": "Padre Paraíso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2108",
+    "nameCity": "Pai Pedro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2109",
+    "nameCity": "Paineiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2110",
+    "nameCity": "Pains"
+  },
+  {
+    "idState": "11",
+    "idCity": "2111",
+    "nameCity": "Paiva"
+  },
+  {
+    "idState": "11",
+    "idCity": "2112",
+    "nameCity": "Palma"
+  },
+  {
+    "idState": "11",
+    "idCity": "2113",
+    "nameCity": "Palmópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2114",
+    "nameCity": "Papagaios"
+  },
+  {
+    "idState": "11",
+    "idCity": "2115",
+    "nameCity": "Pará de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2116",
+    "nameCity": "Paracatu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2117",
+    "nameCity": "Paraguaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2118",
+    "nameCity": "Paraisópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2119",
+    "nameCity": "Paraopeba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2120",
+    "nameCity": "Passa Quatro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2121",
+    "nameCity": "Passa Tempo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2122",
+    "nameCity": "Passabém"
+  },
+  {
+    "idState": "11",
+    "idCity": "2123",
+    "nameCity": "Passa-Vinte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2124",
+    "nameCity": "Passos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2125",
+    "nameCity": "Patis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2126",
+    "nameCity": "Patos de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2127",
+    "nameCity": "Patrocínio"
+  },
+  {
+    "idState": "11",
+    "idCity": "2128",
+    "nameCity": "Patrocínio do Muriaé"
+  },
+  {
+    "idState": "11",
+    "idCity": "2129",
+    "nameCity": "Paula Cândido"
+  },
+  {
+    "idState": "11",
+    "idCity": "2130",
+    "nameCity": "Paulistas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2131",
+    "nameCity": "Pavão"
+  },
+  {
+    "idState": "11",
+    "idCity": "2132",
+    "nameCity": "Peçanha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2133",
+    "nameCity": "Pedra Azul"
+  },
+  {
+    "idState": "11",
+    "idCity": "2134",
+    "nameCity": "Pedra Bonita"
+  },
+  {
+    "idState": "11",
+    "idCity": "2135",
+    "nameCity": "Pedra do Anta"
+  },
+  {
+    "idState": "11",
+    "idCity": "2136",
+    "nameCity": "Pedra do Indaiá"
+  },
+  {
+    "idState": "11",
+    "idCity": "2137",
+    "nameCity": "Pedra Dourada"
+  },
+  {
+    "idState": "11",
+    "idCity": "2138",
+    "nameCity": "Pedralva"
+  },
+  {
+    "idState": "11",
+    "idCity": "2139",
+    "nameCity": "Pedras de Maria da Cruz"
+  },
+  {
+    "idState": "11",
+    "idCity": "2140",
+    "nameCity": "Pedrinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2141",
+    "nameCity": "Pedro Leopoldo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2142",
+    "nameCity": "Pedro Teixeira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2143",
+    "nameCity": "Pequeri"
+  },
+  {
+    "idState": "11",
+    "idCity": "2144",
+    "nameCity": "Pequi"
+  },
+  {
+    "idState": "11",
+    "idCity": "2145",
+    "nameCity": "Perdigão"
+  },
+  {
+    "idState": "11",
+    "idCity": "2146",
+    "nameCity": "Perdizes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2147",
+    "nameCity": "Perdões"
+  },
+  {
+    "idState": "11",
+    "idCity": "2148",
+    "nameCity": "Periquito"
+  },
+  {
+    "idState": "11",
+    "idCity": "2149",
+    "nameCity": "Pescador"
+  },
+  {
+    "idState": "11",
+    "idCity": "2150",
+    "nameCity": "Piau"
+  },
+  {
+    "idState": "11",
+    "idCity": "2151",
+    "nameCity": "Piedade de Caratinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2152",
+    "nameCity": "Piedade de Ponte Nova"
+  },
+  {
+    "idState": "11",
+    "idCity": "2153",
+    "nameCity": "Piedade do Rio Grande"
+  },
+  {
+    "idState": "11",
+    "idCity": "2154",
+    "nameCity": "Piedade dos Gerais"
+  },
+  {
+    "idState": "11",
+    "idCity": "2155",
+    "nameCity": "Pimenta"
+  },
+  {
+    "idState": "11",
+    "idCity": "2156",
+    "nameCity": "Pingo-d`Água"
+  },
+  {
+    "idState": "11",
+    "idCity": "2157",
+    "nameCity": "Pintópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2158",
+    "nameCity": "Piracema"
+  },
+  {
+    "idState": "11",
+    "idCity": "2159",
+    "nameCity": "Pirajuba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2160",
+    "nameCity": "Piranga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2161",
+    "nameCity": "Piranguçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2162",
+    "nameCity": "Piranguinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2163",
+    "nameCity": "Pirapetinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2164",
+    "nameCity": "Pirapora"
+  },
+  {
+    "idState": "11",
+    "idCity": "2165",
+    "nameCity": "Piraúba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2166",
+    "nameCity": "Pitangui"
+  },
+  {
+    "idState": "11",
+    "idCity": "2167",
+    "nameCity": "Piumhi"
+  },
+  {
+    "idState": "11",
+    "idCity": "2168",
+    "nameCity": "Planura"
+  },
+  {
+    "idState": "11",
+    "idCity": "2169",
+    "nameCity": "Poço Fundo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2170",
+    "nameCity": "Poços de Caldas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2171",
+    "nameCity": "Pocrane"
+  },
+  {
+    "idState": "11",
+    "idCity": "2172",
+    "nameCity": "Pompéu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2173",
+    "nameCity": "Ponte Nova"
+  },
+  {
+    "idState": "11",
+    "idCity": "2174",
+    "nameCity": "Ponto Chique"
+  },
+  {
+    "idState": "11",
+    "idCity": "2175",
+    "nameCity": "Ponto dos Volantes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2176",
+    "nameCity": "Porteirinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2177",
+    "nameCity": "Porto Firme"
+  },
+  {
+    "idState": "11",
+    "idCity": "2178",
+    "nameCity": "Poté"
+  },
+  {
+    "idState": "11",
+    "idCity": "2179",
+    "nameCity": "Pouso Alegre"
+  },
+  {
+    "idState": "11",
+    "idCity": "2180",
+    "nameCity": "Pouso Alto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2181",
+    "nameCity": "Prados"
+  },
+  {
+    "idState": "11",
+    "idCity": "2182",
+    "nameCity": "Prata"
+  },
+  {
+    "idState": "11",
+    "idCity": "2183",
+    "nameCity": "Pratápolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2184",
+    "nameCity": "Pratinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2185",
+    "nameCity": "Presidente Bernardes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2186",
+    "nameCity": "Presidente Juscelino"
+  },
+  {
+    "idState": "11",
+    "idCity": "2187",
+    "nameCity": "Presidente Kubitschek"
+  },
+  {
+    "idState": "11",
+    "idCity": "2188",
+    "nameCity": "Presidente Olegário"
+  },
+  {
+    "idState": "11",
+    "idCity": "2189",
+    "nameCity": "Prudente de Morais"
+  },
+  {
+    "idState": "11",
+    "idCity": "2190",
+    "nameCity": "Quartel Geral"
+  },
+  {
+    "idState": "11",
+    "idCity": "2191",
+    "nameCity": "Queluzito"
+  },
+  {
+    "idState": "11",
+    "idCity": "2192",
+    "nameCity": "Raposos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2193",
+    "nameCity": "Raul Soares"
+  },
+  {
+    "idState": "11",
+    "idCity": "2194",
+    "nameCity": "Recreio"
+  },
+  {
+    "idState": "11",
+    "idCity": "2195",
+    "nameCity": "Reduto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2196",
+    "nameCity": "Resende Costa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2197",
+    "nameCity": "Resplendor"
+  },
+  {
+    "idState": "11",
+    "idCity": "2198",
+    "nameCity": "Ressaquinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2199",
+    "nameCity": "Riachinho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2200",
+    "nameCity": "Riacho dos Machados"
+  },
+  {
+    "idState": "11",
+    "idCity": "2201",
+    "nameCity": "Ribeirão das Neves"
+  },
+  {
+    "idState": "11",
+    "idCity": "2202",
+    "nameCity": "Ribeirão Vermelho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2203",
+    "nameCity": "Rio Acima"
+  },
+  {
+    "idState": "11",
+    "idCity": "2204",
+    "nameCity": "Rio Casca"
+  },
+  {
+    "idState": "11",
+    "idCity": "2205",
+    "nameCity": "Rio do Prado"
+  },
+  {
+    "idState": "11",
+    "idCity": "2206",
+    "nameCity": "Rio Doce"
+  },
+  {
+    "idState": "11",
+    "idCity": "2207",
+    "nameCity": "Rio Espera"
+  },
+  {
+    "idState": "11",
+    "idCity": "2208",
+    "nameCity": "Rio Manso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2209",
+    "nameCity": "Rio Novo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2210",
+    "nameCity": "Rio Paranaíba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2211",
+    "nameCity": "Rio Pardo de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2212",
+    "nameCity": "Rio Piracicaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2213",
+    "nameCity": "Rio Pomba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2214",
+    "nameCity": "Rio Preto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2215",
+    "nameCity": "Rio Vermelho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2216",
+    "nameCity": "Ritápolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2217",
+    "nameCity": "Rochedo de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2218",
+    "nameCity": "Rodeiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2219",
+    "nameCity": "Romaria"
+  },
+  {
+    "idState": "11",
+    "idCity": "2220",
+    "nameCity": "Rosário da Limeira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2221",
+    "nameCity": "Rubelita"
+  },
+  {
+    "idState": "11",
+    "idCity": "2222",
+    "nameCity": "Rubim"
+  },
+  {
+    "idState": "11",
+    "idCity": "2223",
+    "nameCity": "Sabará"
+  },
+  {
+    "idState": "11",
+    "idCity": "2224",
+    "nameCity": "Sabinópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2225",
+    "nameCity": "Sacramento"
+  },
+  {
+    "idState": "11",
+    "idCity": "2226",
+    "nameCity": "Salinas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2227",
+    "nameCity": "Salto da Divisa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2228",
+    "nameCity": "Santa Bárbara"
+  },
+  {
+    "idState": "11",
+    "idCity": "2229",
+    "nameCity": "Santa Bárbara do Leste"
+  },
+  {
+    "idState": "11",
+    "idCity": "2230",
+    "nameCity": "Santa Bárbara do Monte Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "2231",
+    "nameCity": "Santa Bárbara do Tugúrio"
+  },
+  {
+    "idState": "11",
+    "idCity": "2232",
+    "nameCity": "Santa Cruz de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2233",
+    "nameCity": "Santa Cruz de Salinas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2234",
+    "nameCity": "Santa Cruz do Escalvado"
+  },
+  {
+    "idState": "11",
+    "idCity": "2235",
+    "nameCity": "Santa Efigênia de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2236",
+    "nameCity": "Santa Fé de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2237",
+    "nameCity": "Santa Helena de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2238",
+    "nameCity": "Santa Juliana"
+  },
+  {
+    "idState": "11",
+    "idCity": "2239",
+    "nameCity": "Santa Luzia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2240",
+    "nameCity": "Santa Margarida"
+  },
+  {
+    "idState": "11",
+    "idCity": "2241",
+    "nameCity": "Santa Maria de Itabira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2242",
+    "nameCity": "Santa Maria do Salto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2243",
+    "nameCity": "Santa Maria do Suaçuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2244",
+    "nameCity": "Santa Rita de Caldas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2245",
+    "nameCity": "Santa Rita de Ibitipoca"
+  },
+  {
+    "idState": "11",
+    "idCity": "2246",
+    "nameCity": "Santa Rita de Jacutinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2247",
+    "nameCity": "Santa Rita de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2248",
+    "nameCity": "Santa Rita do Itueto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2249",
+    "nameCity": "Santa Rita do Sapucaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2250",
+    "nameCity": "Santa Rosa da Serra"
+  },
+  {
+    "idState": "11",
+    "idCity": "2251",
+    "nameCity": "Santa Vitória"
+  },
+  {
+    "idState": "11",
+    "idCity": "2252",
+    "nameCity": "Santana da Vargem"
+  },
+  {
+    "idState": "11",
+    "idCity": "2253",
+    "nameCity": "Santana de Cataguases"
+  },
+  {
+    "idState": "11",
+    "idCity": "2254",
+    "nameCity": "Santana de Pirapama"
+  },
+  {
+    "idState": "11",
+    "idCity": "2255",
+    "nameCity": "Santana do Deserto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2256",
+    "nameCity": "Santana do Garambéu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2257",
+    "nameCity": "Santana do Jacaré"
+  },
+  {
+    "idState": "11",
+    "idCity": "2258",
+    "nameCity": "Santana do Manhuaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2259",
+    "nameCity": "Santana do Paraíso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2260",
+    "nameCity": "Santana do Riacho"
+  },
+  {
+    "idState": "11",
+    "idCity": "2261",
+    "nameCity": "Santana dos Montes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2262",
+    "nameCity": "Santo Antônio do Amparo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2263",
+    "nameCity": "Santo Antônio do Aventureiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2264",
+    "nameCity": "Santo Antônio do Grama"
+  },
+  {
+    "idState": "11",
+    "idCity": "2265",
+    "nameCity": "Santo Antônio do Itambé"
+  },
+  {
+    "idState": "11",
+    "idCity": "2266",
+    "nameCity": "Santo Antônio do Jacinto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2267",
+    "nameCity": "Santo Antônio do Monte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2268",
+    "nameCity": "Santo Antônio do Retiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2269",
+    "nameCity": "Santo Antônio do Rio Abaixo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2270",
+    "nameCity": "Santo Hipólito"
+  },
+  {
+    "idState": "11",
+    "idCity": "2271",
+    "nameCity": "Santos Dumont"
+  },
+  {
+    "idState": "11",
+    "idCity": "2272",
+    "nameCity": "São Bento Abade"
+  },
+  {
+    "idState": "11",
+    "idCity": "2273",
+    "nameCity": "São Brás do Suaçuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2274",
+    "nameCity": "São Domingos das Dores"
+  },
+  {
+    "idState": "11",
+    "idCity": "2275",
+    "nameCity": "São Domingos do Prata"
+  },
+  {
+    "idState": "11",
+    "idCity": "2276",
+    "nameCity": "São Félix de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2277",
+    "nameCity": "São Francisco"
+  },
+  {
+    "idState": "11",
+    "idCity": "2278",
+    "nameCity": "São Francisco de Paula"
+  },
+  {
+    "idState": "11",
+    "idCity": "2279",
+    "nameCity": "São Francisco de Sales"
+  },
+  {
+    "idState": "11",
+    "idCity": "2280",
+    "nameCity": "São Francisco do Glória"
+  },
+  {
+    "idState": "11",
+    "idCity": "2281",
+    "nameCity": "São Geraldo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2282",
+    "nameCity": "São Geraldo da Piedade"
+  },
+  {
+    "idState": "11",
+    "idCity": "2283",
+    "nameCity": "São Geraldo do Baixio"
+  },
+  {
+    "idState": "11",
+    "idCity": "2284",
+    "nameCity": "São Gonçalo do Abaeté"
+  },
+  {
+    "idState": "11",
+    "idCity": "2285",
+    "nameCity": "São Gonçalo do Pará"
+  },
+  {
+    "idState": "11",
+    "idCity": "2286",
+    "nameCity": "São Gonçalo do Rio Abaixo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2287",
+    "nameCity": "São Gonçalo do Rio Preto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2288",
+    "nameCity": "São Gonçalo do Sapucaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2289",
+    "nameCity": "São Gotardo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2290",
+    "nameCity": "São João Batista do Glória"
+  },
+  {
+    "idState": "11",
+    "idCity": "2291",
+    "nameCity": "São João da Lagoa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2292",
+    "nameCity": "São João da Mata"
+  },
+  {
+    "idState": "11",
+    "idCity": "2293",
+    "nameCity": "São João da Ponte"
+  },
+  {
+    "idState": "11",
+    "idCity": "2294",
+    "nameCity": "São João das Missões"
+  },
+  {
+    "idState": "11",
+    "idCity": "2295",
+    "nameCity": "São João del Rei"
+  },
+  {
+    "idState": "11",
+    "idCity": "2296",
+    "nameCity": "São João do Manhuaçu"
+  },
+  {
+    "idState": "11",
+    "idCity": "2297",
+    "nameCity": "São João do Manteninha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2298",
+    "nameCity": "São João do Oriente"
+  },
+  {
+    "idState": "11",
+    "idCity": "2299",
+    "nameCity": "São João do Pacuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2300",
+    "nameCity": "São João do Paraíso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2301",
+    "nameCity": "São João Evangelista"
+  },
+  {
+    "idState": "11",
+    "idCity": "2302",
+    "nameCity": "São João Nepomuceno"
+  },
+  {
+    "idState": "11",
+    "idCity": "2303",
+    "nameCity": "São Joaquim de Bicas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2304",
+    "nameCity": "São José da Barra"
+  },
+  {
+    "idState": "11",
+    "idCity": "2305",
+    "nameCity": "São José da Lapa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2306",
+    "nameCity": "São José da Safira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2307",
+    "nameCity": "São José da Varginha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2308",
+    "nameCity": "São José do Alegre"
+  },
+  {
+    "idState": "11",
+    "idCity": "2309",
+    "nameCity": "São José do Divino"
+  },
+  {
+    "idState": "11",
+    "idCity": "2310",
+    "nameCity": "São José do Goiabal"
+  },
+  {
+    "idState": "11",
+    "idCity": "2311",
+    "nameCity": "São José do Jacuri"
+  },
+  {
+    "idState": "11",
+    "idCity": "2312",
+    "nameCity": "São José do Mantimento"
+  },
+  {
+    "idState": "11",
+    "idCity": "2313",
+    "nameCity": "São Lourenço"
+  },
+  {
+    "idState": "11",
+    "idCity": "2314",
+    "nameCity": "São Miguel do Anta"
+  },
+  {
+    "idState": "11",
+    "idCity": "2315",
+    "nameCity": "São Pedro da União"
+  },
+  {
+    "idState": "11",
+    "idCity": "2316",
+    "nameCity": "São Pedro do Suaçuí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2317",
+    "nameCity": "São Pedro dos Ferros"
+  },
+  {
+    "idState": "11",
+    "idCity": "2318",
+    "nameCity": "São Romão"
+  },
+  {
+    "idState": "11",
+    "idCity": "2319",
+    "nameCity": "São Roque de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2320",
+    "nameCity": "São Sebastião da Bela Vista"
+  },
+  {
+    "idState": "11",
+    "idCity": "2321",
+    "nameCity": "São Sebastião da Vargem Alegre"
+  },
+  {
+    "idState": "11",
+    "idCity": "2322",
+    "nameCity": "São Sebastião do Anta"
+  },
+  {
+    "idState": "11",
+    "idCity": "2323",
+    "nameCity": "São Sebastião do Maranhão"
+  },
+  {
+    "idState": "11",
+    "idCity": "2324",
+    "nameCity": "São Sebastião do Oeste"
+  },
+  {
+    "idState": "11",
+    "idCity": "2325",
+    "nameCity": "São Sebastião do Paraíso"
+  },
+  {
+    "idState": "11",
+    "idCity": "2326",
+    "nameCity": "São Sebastião do Rio Preto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2327",
+    "nameCity": "São Sebastião do Rio Verde"
+  },
+  {
+    "idState": "11",
+    "idCity": "2328",
+    "nameCity": "São Thomé das Letras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2329",
+    "nameCity": "São Tiago"
+  },
+  {
+    "idState": "11",
+    "idCity": "2330",
+    "nameCity": "São Tomás de Aquino"
+  },
+  {
+    "idState": "11",
+    "idCity": "2331",
+    "nameCity": "São Vicente de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2332",
+    "nameCity": "Sapucaí-Mirim"
+  },
+  {
+    "idState": "11",
+    "idCity": "2333",
+    "nameCity": "Sardoá"
+  },
+  {
+    "idState": "11",
+    "idCity": "2334",
+    "nameCity": "Sarzedo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2335",
+    "nameCity": "Sem-Peixe"
+  },
+  {
+    "idState": "11",
+    "idCity": "2336",
+    "nameCity": "Senador Amaral"
+  },
+  {
+    "idState": "11",
+    "idCity": "2337",
+    "nameCity": "Senador Cortes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2338",
+    "nameCity": "Senador Firmino"
+  },
+  {
+    "idState": "11",
+    "idCity": "2339",
+    "nameCity": "Senador José Bento"
+  },
+  {
+    "idState": "11",
+    "idCity": "2340",
+    "nameCity": "Senador Modestino Gonçalves"
+  },
+  {
+    "idState": "11",
+    "idCity": "2341",
+    "nameCity": "Senhora de Oliveira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2342",
+    "nameCity": "Senhora do Porto"
+  },
+  {
+    "idState": "11",
+    "idCity": "2343",
+    "nameCity": "Senhora dos Remédios"
+  },
+  {
+    "idState": "11",
+    "idCity": "2344",
+    "nameCity": "Sericita"
+  },
+  {
+    "idState": "11",
+    "idCity": "2345",
+    "nameCity": "Seritinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2346",
+    "nameCity": "Serra Azul de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2347",
+    "nameCity": "Serra da Saudade"
+  },
+  {
+    "idState": "11",
+    "idCity": "2348",
+    "nameCity": "Serra do Salitre"
+  },
+  {
+    "idState": "11",
+    "idCity": "2349",
+    "nameCity": "Serra dos Aimorés"
+  },
+  {
+    "idState": "11",
+    "idCity": "2350",
+    "nameCity": "Serrania"
+  },
+  {
+    "idState": "11",
+    "idCity": "2351",
+    "nameCity": "Serranópolis de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2352",
+    "nameCity": "Serranos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2353",
+    "nameCity": "Serro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2354",
+    "nameCity": "Sete Lagoas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2355",
+    "nameCity": "Setubinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2356",
+    "nameCity": "Silveirânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2357",
+    "nameCity": "Silvianópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2358",
+    "nameCity": "Simão Pereira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2359",
+    "nameCity": "Simonésia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2360",
+    "nameCity": "Sobrália"
+  },
+  {
+    "idState": "11",
+    "idCity": "2361",
+    "nameCity": "Soledade de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2362",
+    "nameCity": "Tabuleiro"
+  },
+  {
+    "idState": "11",
+    "idCity": "2363",
+    "nameCity": "Taiobeiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2364",
+    "nameCity": "Taparuba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2365",
+    "nameCity": "Tapira"
+  },
+  {
+    "idState": "11",
+    "idCity": "2366",
+    "nameCity": "Tapiraí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2367",
+    "nameCity": "Taquaraçu de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2368",
+    "nameCity": "Tarumirim"
+  },
+  {
+    "idState": "11",
+    "idCity": "2369",
+    "nameCity": "Teixeiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2370",
+    "nameCity": "Teófilo Otoni"
+  },
+  {
+    "idState": "11",
+    "idCity": "2371",
+    "nameCity": "Timóteo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2372",
+    "nameCity": "Tiradentes"
+  },
+  {
+    "idState": "11",
+    "idCity": "2373",
+    "nameCity": "Tiros"
+  },
+  {
+    "idState": "11",
+    "idCity": "2374",
+    "nameCity": "Tocantins"
+  },
+  {
+    "idState": "11",
+    "idCity": "2375",
+    "nameCity": "Tocos do Moji"
+  },
+  {
+    "idState": "11",
+    "idCity": "2376",
+    "nameCity": "Toledo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2377",
+    "nameCity": "Tombos"
+  },
+  {
+    "idState": "11",
+    "idCity": "2378",
+    "nameCity": "Três Corações"
+  },
+  {
+    "idState": "11",
+    "idCity": "2379",
+    "nameCity": "Três Marias"
+  },
+  {
+    "idState": "11",
+    "idCity": "2380",
+    "nameCity": "Três Pontas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2381",
+    "nameCity": "Tumiritinga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2382",
+    "nameCity": "Tupaciguara"
+  },
+  {
+    "idState": "11",
+    "idCity": "2383",
+    "nameCity": "Turmalina"
+  },
+  {
+    "idState": "11",
+    "idCity": "2384",
+    "nameCity": "Turvolândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2385",
+    "nameCity": "Ubá"
+  },
+  {
+    "idState": "11",
+    "idCity": "2386",
+    "nameCity": "Ubaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2387",
+    "nameCity": "Ubaporanga"
+  },
+  {
+    "idState": "11",
+    "idCity": "2388",
+    "nameCity": "Uberaba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2389",
+    "nameCity": "Uberlândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2390",
+    "nameCity": "Umburatiba"
+  },
+  {
+    "idState": "11",
+    "idCity": "2391",
+    "nameCity": "Unaí"
+  },
+  {
+    "idState": "11",
+    "idCity": "2392",
+    "nameCity": "União de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2393",
+    "nameCity": "Uruana de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2394",
+    "nameCity": "Urucânia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2395",
+    "nameCity": "Urucuia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2396",
+    "nameCity": "Vargem Alegre"
+  },
+  {
+    "idState": "11",
+    "idCity": "2397",
+    "nameCity": "Vargem Bonita"
+  },
+  {
+    "idState": "11",
+    "idCity": "2398",
+    "nameCity": "Vargem Grande do Rio Pardo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2399",
+    "nameCity": "Varginha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2400",
+    "nameCity": "Varjão de Minas"
+  },
+  {
+    "idState": "11",
+    "idCity": "2401",
+    "nameCity": "Várzea da Palma"
+  },
+  {
+    "idState": "11",
+    "idCity": "2402",
+    "nameCity": "Varzelândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2403",
+    "nameCity": "Vazante"
+  },
+  {
+    "idState": "11",
+    "idCity": "2404",
+    "nameCity": "Verdelândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2405",
+    "nameCity": "Veredinha"
+  },
+  {
+    "idState": "11",
+    "idCity": "2406",
+    "nameCity": "Veríssimo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2407",
+    "nameCity": "Vermelho Novo"
+  },
+  {
+    "idState": "11",
+    "idCity": "2408",
+    "nameCity": "Vespasiano"
+  },
+  {
+    "idState": "11",
+    "idCity": "2409",
+    "nameCity": "Viçosa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2410",
+    "nameCity": "Vieiras"
+  },
+  {
+    "idState": "11",
+    "idCity": "2411",
+    "nameCity": "Virgem da Lapa"
+  },
+  {
+    "idState": "11",
+    "idCity": "2412",
+    "nameCity": "Virgínia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2413",
+    "nameCity": "Virginópolis"
+  },
+  {
+    "idState": "11",
+    "idCity": "2414",
+    "nameCity": "Virgolândia"
+  },
+  {
+    "idState": "11",
+    "idCity": "2415",
+    "nameCity": "Visconde do Rio Branco"
+  },
+  {
+    "idState": "11",
+    "idCity": "2416",
+    "nameCity": "Volta Grande"
+  },
+  {
+    "idState": "11",
+    "idCity": "2417",
+    "nameCity": "Wenceslau Braz"
+  }
+]

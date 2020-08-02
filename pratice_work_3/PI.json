@@ -1,0 +1,1117 @@
+[
+  {
+    "idState": "17",
+    "idCity": "3368",
+    "nameCity": "Acauã"
+  },
+  {
+    "idState": "17",
+    "idCity": "3369",
+    "nameCity": "Agricolândia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3370",
+    "nameCity": "Água Branca"
+  },
+  {
+    "idState": "17",
+    "idCity": "3371",
+    "nameCity": "Alagoinha do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3372",
+    "nameCity": "Alegrete do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3373",
+    "nameCity": "Alto Longá"
+  },
+  {
+    "idState": "17",
+    "idCity": "3374",
+    "nameCity": "Altos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3375",
+    "nameCity": "Alvorada do Gurguéia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3376",
+    "nameCity": "Amarante"
+  },
+  {
+    "idState": "17",
+    "idCity": "3377",
+    "nameCity": "Angical do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3378",
+    "nameCity": "Anísio de Abreu"
+  },
+  {
+    "idState": "17",
+    "idCity": "3379",
+    "nameCity": "Antônio Almeida"
+  },
+  {
+    "idState": "17",
+    "idCity": "3380",
+    "nameCity": "Aroazes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3381",
+    "nameCity": "Aroeiras do Itaim"
+  },
+  {
+    "idState": "17",
+    "idCity": "3382",
+    "nameCity": "Arraial"
+  },
+  {
+    "idState": "17",
+    "idCity": "3383",
+    "nameCity": "Assunção do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3384",
+    "nameCity": "Avelino Lopes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3385",
+    "nameCity": "Baixa Grande do Ribeiro"
+  },
+  {
+    "idState": "17",
+    "idCity": "3386",
+    "nameCity": "Barra d`Alcântara"
+  },
+  {
+    "idState": "17",
+    "idCity": "3387",
+    "nameCity": "Barras"
+  },
+  {
+    "idState": "17",
+    "idCity": "3388",
+    "nameCity": "Barreiras do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3389",
+    "nameCity": "Barro Duro"
+  },
+  {
+    "idState": "17",
+    "idCity": "3390",
+    "nameCity": "Batalha"
+  },
+  {
+    "idState": "17",
+    "idCity": "3391",
+    "nameCity": "Bela Vista do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3392",
+    "nameCity": "Belém do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3393",
+    "nameCity": "Beneditinos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3394",
+    "nameCity": "Bertolínia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3395",
+    "nameCity": "Betânia do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3396",
+    "nameCity": "Boa Hora"
+  },
+  {
+    "idState": "17",
+    "idCity": "3397",
+    "nameCity": "Bocaina"
+  },
+  {
+    "idState": "17",
+    "idCity": "3398",
+    "nameCity": "Bom Jesus"
+  },
+  {
+    "idState": "17",
+    "idCity": "3399",
+    "nameCity": "Bom Princípio do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3400",
+    "nameCity": "Bonfim do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3401",
+    "nameCity": "Boqueirão do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3402",
+    "nameCity": "Brasileira"
+  },
+  {
+    "idState": "17",
+    "idCity": "3403",
+    "nameCity": "Brejo do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3404",
+    "nameCity": "Buriti dos Lopes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3405",
+    "nameCity": "Buriti dos Montes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3406",
+    "nameCity": "Cabeceiras do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3407",
+    "nameCity": "Cajazeiras do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3408",
+    "nameCity": "Cajueiro da Praia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3409",
+    "nameCity": "Caldeirão Grande do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3410",
+    "nameCity": "Campinas do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3411",
+    "nameCity": "Campo Alegre do Fidalgo"
+  },
+  {
+    "idState": "17",
+    "idCity": "3412",
+    "nameCity": "Campo Grande do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3413",
+    "nameCity": "Campo Largo do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3414",
+    "nameCity": "Campo Maior"
+  },
+  {
+    "idState": "17",
+    "idCity": "3415",
+    "nameCity": "Canavieira"
+  },
+  {
+    "idState": "17",
+    "idCity": "3416",
+    "nameCity": "Canto do Buriti"
+  },
+  {
+    "idState": "17",
+    "idCity": "3417",
+    "nameCity": "Capitão de Campos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3418",
+    "nameCity": "Capitão Gervásio Oliveira"
+  },
+  {
+    "idState": "17",
+    "idCity": "3419",
+    "nameCity": "Caracol"
+  },
+  {
+    "idState": "17",
+    "idCity": "3420",
+    "nameCity": "Caraúbas do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3421",
+    "nameCity": "Caridade do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3422",
+    "nameCity": "Castelo do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3423",
+    "nameCity": "Caxingó"
+  },
+  {
+    "idState": "17",
+    "idCity": "3424",
+    "nameCity": "Cocal"
+  },
+  {
+    "idState": "17",
+    "idCity": "3425",
+    "nameCity": "Cocal de Telha"
+  },
+  {
+    "idState": "17",
+    "idCity": "3426",
+    "nameCity": "Cocal dos Alves"
+  },
+  {
+    "idState": "17",
+    "idCity": "3427",
+    "nameCity": "Coivaras"
+  },
+  {
+    "idState": "17",
+    "idCity": "3428",
+    "nameCity": "Colônia do Gurguéia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3429",
+    "nameCity": "Colônia do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3430",
+    "nameCity": "Conceição do Canindé"
+  },
+  {
+    "idState": "17",
+    "idCity": "3431",
+    "nameCity": "Coronel José Dias"
+  },
+  {
+    "idState": "17",
+    "idCity": "3432",
+    "nameCity": "Corrente"
+  },
+  {
+    "idState": "17",
+    "idCity": "3433",
+    "nameCity": "Cristalândia do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3434",
+    "nameCity": "Cristino Castro"
+  },
+  {
+    "idState": "17",
+    "idCity": "3435",
+    "nameCity": "Curimatá"
+  },
+  {
+    "idState": "17",
+    "idCity": "3436",
+    "nameCity": "Currais"
+  },
+  {
+    "idState": "17",
+    "idCity": "3437",
+    "nameCity": "Curral Novo do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3438",
+    "nameCity": "Curralinhos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3439",
+    "nameCity": "Demerval Lobão"
+  },
+  {
+    "idState": "17",
+    "idCity": "3440",
+    "nameCity": "Dirceu Arcoverde"
+  },
+  {
+    "idState": "17",
+    "idCity": "3441",
+    "nameCity": "Dom Expedito Lopes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3442",
+    "nameCity": "Dom Inocêncio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3443",
+    "nameCity": "Domingos Mourão"
+  },
+  {
+    "idState": "17",
+    "idCity": "3444",
+    "nameCity": "Elesbão Veloso"
+  },
+  {
+    "idState": "17",
+    "idCity": "3445",
+    "nameCity": "Eliseu Martins"
+  },
+  {
+    "idState": "17",
+    "idCity": "3446",
+    "nameCity": "Esperantina"
+  },
+  {
+    "idState": "17",
+    "idCity": "3447",
+    "nameCity": "Fartura do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3448",
+    "nameCity": "Flores do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3449",
+    "nameCity": "Floresta do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3450",
+    "nameCity": "Floriano"
+  },
+  {
+    "idState": "17",
+    "idCity": "3451",
+    "nameCity": "Francinópolis"
+  },
+  {
+    "idState": "17",
+    "idCity": "3452",
+    "nameCity": "Francisco Ayres"
+  },
+  {
+    "idState": "17",
+    "idCity": "3453",
+    "nameCity": "Francisco Macedo"
+  },
+  {
+    "idState": "17",
+    "idCity": "3454",
+    "nameCity": "Francisco Santos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3455",
+    "nameCity": "Fronteiras"
+  },
+  {
+    "idState": "17",
+    "idCity": "3456",
+    "nameCity": "Geminiano"
+  },
+  {
+    "idState": "17",
+    "idCity": "3457",
+    "nameCity": "Gilbués"
+  },
+  {
+    "idState": "17",
+    "idCity": "3458",
+    "nameCity": "Guadalupe"
+  },
+  {
+    "idState": "17",
+    "idCity": "3459",
+    "nameCity": "Guaribas"
+  },
+  {
+    "idState": "17",
+    "idCity": "3460",
+    "nameCity": "Hugo Napoleão"
+  },
+  {
+    "idState": "17",
+    "idCity": "3461",
+    "nameCity": "Ilha Grande"
+  },
+  {
+    "idState": "17",
+    "idCity": "3462",
+    "nameCity": "Inhuma"
+  },
+  {
+    "idState": "17",
+    "idCity": "3463",
+    "nameCity": "Ipiranga do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3464",
+    "nameCity": "Isaías Coelho"
+  },
+  {
+    "idState": "17",
+    "idCity": "3465",
+    "nameCity": "Itainópolis"
+  },
+  {
+    "idState": "17",
+    "idCity": "3466",
+    "nameCity": "Itaueira"
+  },
+  {
+    "idState": "17",
+    "idCity": "3467",
+    "nameCity": "Jacobina do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3468",
+    "nameCity": "Jaicós"
+  },
+  {
+    "idState": "17",
+    "idCity": "3469",
+    "nameCity": "Jardim do Mulato"
+  },
+  {
+    "idState": "17",
+    "idCity": "3470",
+    "nameCity": "Jatobá do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3471",
+    "nameCity": "Jerumenha"
+  },
+  {
+    "idState": "17",
+    "idCity": "3472",
+    "nameCity": "João Costa"
+  },
+  {
+    "idState": "17",
+    "idCity": "3473",
+    "nameCity": "Joaquim Pires"
+  },
+  {
+    "idState": "17",
+    "idCity": "3474",
+    "nameCity": "Joca Marques"
+  },
+  {
+    "idState": "17",
+    "idCity": "3475",
+    "nameCity": "José de Freitas"
+  },
+  {
+    "idState": "17",
+    "idCity": "3476",
+    "nameCity": "Juazeiro do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3477",
+    "nameCity": "Júlio Borges"
+  },
+  {
+    "idState": "17",
+    "idCity": "3478",
+    "nameCity": "Jurema"
+  },
+  {
+    "idState": "17",
+    "idCity": "3479",
+    "nameCity": "Lagoa Alegre"
+  },
+  {
+    "idState": "17",
+    "idCity": "3480",
+    "nameCity": "Lagoa de São Francisco"
+  },
+  {
+    "idState": "17",
+    "idCity": "3481",
+    "nameCity": "Lagoa do Barro do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3482",
+    "nameCity": "Lagoa do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3483",
+    "nameCity": "Lagoa do Sítio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3484",
+    "nameCity": "Lagoinha do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3485",
+    "nameCity": "Landri Sales"
+  },
+  {
+    "idState": "17",
+    "idCity": "3486",
+    "nameCity": "Luís Correia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3487",
+    "nameCity": "Luzilândia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3488",
+    "nameCity": "Madeiro"
+  },
+  {
+    "idState": "17",
+    "idCity": "3489",
+    "nameCity": "Manoel Emídio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3490",
+    "nameCity": "Marcolândia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3491",
+    "nameCity": "Marcos Parente"
+  },
+  {
+    "idState": "17",
+    "idCity": "3492",
+    "nameCity": "Massapê do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3493",
+    "nameCity": "Matias Olímpio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3494",
+    "nameCity": "Miguel Alves"
+  },
+  {
+    "idState": "17",
+    "idCity": "3495",
+    "nameCity": "Miguel Leão"
+  },
+  {
+    "idState": "17",
+    "idCity": "3496",
+    "nameCity": "Milton Brandão"
+  },
+  {
+    "idState": "17",
+    "idCity": "3497",
+    "nameCity": "Monsenhor Gil"
+  },
+  {
+    "idState": "17",
+    "idCity": "3498",
+    "nameCity": "Monsenhor Hipólito"
+  },
+  {
+    "idState": "17",
+    "idCity": "3499",
+    "nameCity": "Monte Alegre do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3500",
+    "nameCity": "Morro Cabeça no Tempo"
+  },
+  {
+    "idState": "17",
+    "idCity": "3501",
+    "nameCity": "Morro do Chapéu do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3502",
+    "nameCity": "Murici dos Portelas"
+  },
+  {
+    "idState": "17",
+    "idCity": "3503",
+    "nameCity": "Nazaré do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3504",
+    "nameCity": "Nossa Senhora de Nazaré"
+  },
+  {
+    "idState": "17",
+    "idCity": "3505",
+    "nameCity": "Nossa Senhora dos Remédios"
+  },
+  {
+    "idState": "17",
+    "idCity": "3506",
+    "nameCity": "Nova Santa Rita"
+  },
+  {
+    "idState": "17",
+    "idCity": "3507",
+    "nameCity": "Novo Oriente do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3508",
+    "nameCity": "Novo Santo Antônio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3509",
+    "nameCity": "Oeiras"
+  },
+  {
+    "idState": "17",
+    "idCity": "3510",
+    "nameCity": "Olho d`Água do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3511",
+    "nameCity": "Padre Marcos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3512",
+    "nameCity": "Paes Landim"
+  },
+  {
+    "idState": "17",
+    "idCity": "3513",
+    "nameCity": "Pajeú do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3514",
+    "nameCity": "Palmeira do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3515",
+    "nameCity": "Palmeirais"
+  },
+  {
+    "idState": "17",
+    "idCity": "3516",
+    "nameCity": "Paquetá"
+  },
+  {
+    "idState": "17",
+    "idCity": "3517",
+    "nameCity": "Parnaguá"
+  },
+  {
+    "idState": "17",
+    "idCity": "3518",
+    "nameCity": "Parnaíba"
+  },
+  {
+    "idState": "17",
+    "idCity": "3519",
+    "nameCity": "Passagem Franca do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3520",
+    "nameCity": "Patos do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3521",
+    "nameCity": "Pau d`Arco do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3522",
+    "nameCity": "Paulistana"
+  },
+  {
+    "idState": "17",
+    "idCity": "3523",
+    "nameCity": "Pavussu"
+  },
+  {
+    "idState": "17",
+    "idCity": "3524",
+    "nameCity": "Pedro II"
+  },
+  {
+    "idState": "17",
+    "idCity": "3525",
+    "nameCity": "Pedro Laurentino"
+  },
+  {
+    "idState": "17",
+    "idCity": "3526",
+    "nameCity": "Picos"
+  },
+  {
+    "idState": "17",
+    "idCity": "3527",
+    "nameCity": "Pimenteiras"
+  },
+  {
+    "idState": "17",
+    "idCity": "3528",
+    "nameCity": "Pio IX"
+  },
+  {
+    "idState": "17",
+    "idCity": "3529",
+    "nameCity": "Piracuruca"
+  },
+  {
+    "idState": "17",
+    "idCity": "3530",
+    "nameCity": "Piripiri"
+  },
+  {
+    "idState": "17",
+    "idCity": "3531",
+    "nameCity": "Porto"
+  },
+  {
+    "idState": "17",
+    "idCity": "3532",
+    "nameCity": "Porto Alegre do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3533",
+    "nameCity": "Prata do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3534",
+    "nameCity": "Queimada Nova"
+  },
+  {
+    "idState": "17",
+    "idCity": "3535",
+    "nameCity": "Redenção do Gurguéia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3536",
+    "nameCity": "Regeneração"
+  },
+  {
+    "idState": "17",
+    "idCity": "3537",
+    "nameCity": "Riacho Frio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3538",
+    "nameCity": "Ribeira do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3539",
+    "nameCity": "Ribeiro Gonçalves"
+  },
+  {
+    "idState": "17",
+    "idCity": "3540",
+    "nameCity": "Rio Grande do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3541",
+    "nameCity": "Santa Cruz do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3542",
+    "nameCity": "Santa Cruz dos Milagres"
+  },
+  {
+    "idState": "17",
+    "idCity": "3543",
+    "nameCity": "Santa Filomena"
+  },
+  {
+    "idState": "17",
+    "idCity": "3544",
+    "nameCity": "Santa Luz"
+  },
+  {
+    "idState": "17",
+    "idCity": "3545",
+    "nameCity": "Santa Rosa do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3546",
+    "nameCity": "Santana do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3547",
+    "nameCity": "Santo Antônio de Lisboa"
+  },
+  {
+    "idState": "17",
+    "idCity": "3548",
+    "nameCity": "Santo Antônio dos Milagres"
+  },
+  {
+    "idState": "17",
+    "idCity": "3549",
+    "nameCity": "Santo Inácio do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3550",
+    "nameCity": "São Braz do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3551",
+    "nameCity": "São Félix do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3552",
+    "nameCity": "São Francisco de Assis do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3553",
+    "nameCity": "São Francisco do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3554",
+    "nameCity": "São Gonçalo do Gurguéia"
+  },
+  {
+    "idState": "17",
+    "idCity": "3555",
+    "nameCity": "São Gonçalo do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3556",
+    "nameCity": "São João da Canabrava"
+  },
+  {
+    "idState": "17",
+    "idCity": "3557",
+    "nameCity": "São João da Fronteira"
+  },
+  {
+    "idState": "17",
+    "idCity": "3558",
+    "nameCity": "São João da Serra"
+  },
+  {
+    "idState": "17",
+    "idCity": "3559",
+    "nameCity": "São João da Varjota"
+  },
+  {
+    "idState": "17",
+    "idCity": "3560",
+    "nameCity": "São João do Arraial"
+  },
+  {
+    "idState": "17",
+    "idCity": "3561",
+    "nameCity": "São João do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3562",
+    "nameCity": "São José do Divino"
+  },
+  {
+    "idState": "17",
+    "idCity": "3563",
+    "nameCity": "São José do Peixe"
+  },
+  {
+    "idState": "17",
+    "idCity": "3564",
+    "nameCity": "São José do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3565",
+    "nameCity": "São Julião"
+  },
+  {
+    "idState": "17",
+    "idCity": "3566",
+    "nameCity": "São Lourenço do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3567",
+    "nameCity": "São Luis do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3568",
+    "nameCity": "São Miguel da Baixa Grande"
+  },
+  {
+    "idState": "17",
+    "idCity": "3569",
+    "nameCity": "São Miguel do Fidalgo"
+  },
+  {
+    "idState": "17",
+    "idCity": "3570",
+    "nameCity": "São Miguel do Tapuio"
+  },
+  {
+    "idState": "17",
+    "idCity": "3571",
+    "nameCity": "São Pedro do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3572",
+    "nameCity": "São Raimundo Nonato"
+  },
+  {
+    "idState": "17",
+    "idCity": "3573",
+    "nameCity": "Sebastião Barros"
+  },
+  {
+    "idState": "17",
+    "idCity": "3574",
+    "nameCity": "Sebastião Leal"
+  },
+  {
+    "idState": "17",
+    "idCity": "3575",
+    "nameCity": "Sigefredo Pacheco"
+  },
+  {
+    "idState": "17",
+    "idCity": "3576",
+    "nameCity": "Simões"
+  },
+  {
+    "idState": "17",
+    "idCity": "3577",
+    "nameCity": "Simplício Mendes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3578",
+    "nameCity": "Socorro do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3579",
+    "nameCity": "Sussuapara"
+  },
+  {
+    "idState": "17",
+    "idCity": "3580",
+    "nameCity": "Tamboril do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3581",
+    "nameCity": "Tanque do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3582",
+    "nameCity": "Teresina"
+  },
+  {
+    "idState": "17",
+    "idCity": "3583",
+    "nameCity": "União"
+  },
+  {
+    "idState": "17",
+    "idCity": "3584",
+    "nameCity": "Uruçuí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3585",
+    "nameCity": "Valença do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3586",
+    "nameCity": "Várzea Branca"
+  },
+  {
+    "idState": "17",
+    "idCity": "3587",
+    "nameCity": "Várzea Grande"
+  },
+  {
+    "idState": "17",
+    "idCity": "3588",
+    "nameCity": "Vera Mendes"
+  },
+  {
+    "idState": "17",
+    "idCity": "3589",
+    "nameCity": "Vila Nova do Piauí"
+  },
+  {
+    "idState": "17",
+    "idCity": "3590",
+    "nameCity": "Wall Ferraz"
+  }
+]

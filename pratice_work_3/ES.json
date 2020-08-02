@@ -1,0 +1,392 @@
+[
+  {
+    "idState": "8",
+    "idCity": "1",
+    "nameCity": "Afonso Cláudio"
+  },
+  {
+    "idState": "8",
+    "idCity": "2",
+    "nameCity": "Água Doce do Norte"
+  },
+  {
+    "idState": "8",
+    "idCity": "3",
+    "nameCity": "Águia Branca"
+  },
+  {
+    "idState": "8",
+    "idCity": "4",
+    "nameCity": "Alegre"
+  },
+  {
+    "idState": "8",
+    "idCity": "5",
+    "nameCity": "Alfredo Chaves"
+  },
+  {
+    "idState": "8",
+    "idCity": "6",
+    "nameCity": "Alto Rio Novo"
+  },
+  {
+    "idState": "8",
+    "idCity": "7",
+    "nameCity": "Anchieta"
+  },
+  {
+    "idState": "8",
+    "idCity": "8",
+    "nameCity": "Apiacá"
+  },
+  {
+    "idState": "8",
+    "idCity": "9",
+    "nameCity": "Aracruz"
+  },
+  {
+    "idState": "8",
+    "idCity": "10",
+    "nameCity": "Atilio Vivacqua"
+  },
+  {
+    "idState": "8",
+    "idCity": "11",
+    "nameCity": "Baixo Guandu"
+  },
+  {
+    "idState": "8",
+    "idCity": "12",
+    "nameCity": "Barra de São Francisco"
+  },
+  {
+    "idState": "8",
+    "idCity": "13",
+    "nameCity": "Boa Esperança"
+  },
+  {
+    "idState": "8",
+    "idCity": "14",
+    "nameCity": "Bom Jesus do Norte"
+  },
+  {
+    "idState": "8",
+    "idCity": "15",
+    "nameCity": "Brejetuba"
+  },
+  {
+    "idState": "8",
+    "idCity": "16",
+    "nameCity": "Cachoeiro de Itapemirim"
+  },
+  {
+    "idState": "8",
+    "idCity": "17",
+    "nameCity": "Cariacica"
+  },
+  {
+    "idState": "8",
+    "idCity": "18",
+    "nameCity": "Castelo"
+  },
+  {
+    "idState": "8",
+    "idCity": "19",
+    "nameCity": "Colatina"
+  },
+  {
+    "idState": "8",
+    "idCity": "20",
+    "nameCity": "Conceição da Barra"
+  },
+  {
+    "idState": "8",
+    "idCity": "21",
+    "nameCity": "Conceição do Castelo"
+  },
+  {
+    "idState": "8",
+    "idCity": "22",
+    "nameCity": "Divino de São Lourenço"
+  },
+  {
+    "idState": "8",
+    "idCity": "23",
+    "nameCity": "Domingos Martins"
+  },
+  {
+    "idState": "8",
+    "idCity": "24",
+    "nameCity": "Dores do Rio Preto"
+  },
+  {
+    "idState": "8",
+    "idCity": "25",
+    "nameCity": "Ecoporanga"
+  },
+  {
+    "idState": "8",
+    "idCity": "26",
+    "nameCity": "Fundão"
+  },
+  {
+    "idState": "8",
+    "idCity": "27",
+    "nameCity": "Governador Lindenberg"
+  },
+  {
+    "idState": "8",
+    "idCity": "28",
+    "nameCity": "Guaçuí"
+  },
+  {
+    "idState": "8",
+    "idCity": "29",
+    "nameCity": "Guarapari"
+  },
+  {
+    "idState": "8",
+    "idCity": "30",
+    "nameCity": "Ibatiba"
+  },
+  {
+    "idState": "8",
+    "idCity": "31",
+    "nameCity": "Ibiraçu"
+  },
+  {
+    "idState": "8",
+    "idCity": "32",
+    "nameCity": "Ibitirama"
+  },
+  {
+    "idState": "8",
+    "idCity": "33",
+    "nameCity": "Iconha"
+  },
+  {
+    "idState": "8",
+    "idCity": "34",
+    "nameCity": "Irupi"
+  },
+  {
+    "idState": "8",
+    "idCity": "35",
+    "nameCity": "Itaguaçu"
+  },
+  {
+    "idState": "8",
+    "idCity": "36",
+    "nameCity": "Itapemirim"
+  },
+  {
+    "idState": "8",
+    "idCity": "37",
+    "nameCity": "Itarana"
+  },
+  {
+    "idState": "8",
+    "idCity": "38",
+    "nameCity": "Iúna"
+  },
+  {
+    "idState": "8",
+    "idCity": "39",
+    "nameCity": "Jaguaré"
+  },
+  {
+    "idState": "8",
+    "idCity": "40",
+    "nameCity": "Jerônimo Monteiro"
+  },
+  {
+    "idState": "8",
+    "idCity": "41",
+    "nameCity": "João Neiva"
+  },
+  {
+    "idState": "8",
+    "idCity": "42",
+    "nameCity": "Laranja da Terra"
+  },
+  {
+    "idState": "8",
+    "idCity": "43",
+    "nameCity": "Linhares"
+  },
+  {
+    "idState": "8",
+    "idCity": "44",
+    "nameCity": "Mantenópolis"
+  },
+  {
+    "idState": "8",
+    "idCity": "45",
+    "nameCity": "Marataízes"
+  },
+  {
+    "idState": "8",
+    "idCity": "46",
+    "nameCity": "Marechal Floriano"
+  },
+  {
+    "idState": "8",
+    "idCity": "47",
+    "nameCity": "Marilândia"
+  },
+  {
+    "idState": "8",
+    "idCity": "48",
+    "nameCity": "Mimoso do Sul"
+  },
+  {
+    "idState": "8",
+    "idCity": "49",
+    "nameCity": "Montanha"
+  },
+  {
+    "idState": "8",
+    "idCity": "50",
+    "nameCity": "Mucurici"
+  },
+  {
+    "idState": "8",
+    "idCity": "51",
+    "nameCity": "Muniz Freire"
+  },
+  {
+    "idState": "8",
+    "idCity": "52",
+    "nameCity": "Muqui"
+  },
+  {
+    "idState": "8",
+    "idCity": "53",
+    "nameCity": "Nova Venécia"
+  },
+  {
+    "idState": "8",
+    "idCity": "54",
+    "nameCity": "Pancas"
+  },
+  {
+    "idState": "8",
+    "idCity": "55",
+    "nameCity": "Pedro Canário"
+  },
+  {
+    "idState": "8",
+    "idCity": "56",
+    "nameCity": "Pinheiros"
+  },
+  {
+    "idState": "8",
+    "idCity": "57",
+    "nameCity": "Piúma"
+  },
+  {
+    "idState": "8",
+    "idCity": "58",
+    "nameCity": "Ponto Belo"
+  },
+  {
+    "idState": "8",
+    "idCity": "59",
+    "nameCity": "Presidente Kennedy"
+  },
+  {
+    "idState": "8",
+    "idCity": "60",
+    "nameCity": "Rio Bananal"
+  },
+  {
+    "idState": "8",
+    "idCity": "61",
+    "nameCity": "Rio Novo do Sul"
+  },
+  {
+    "idState": "8",
+    "idCity": "62",
+    "nameCity": "Santa Leopoldina"
+  },
+  {
+    "idState": "8",
+    "idCity": "63",
+    "nameCity": "Santa Maria de Jetibá"
+  },
+  {
+    "idState": "8",
+    "idCity": "64",
+    "nameCity": "Santa Teresa"
+  },
+  {
+    "idState": "8",
+    "idCity": "65",
+    "nameCity": "São Domingos do Norte"
+  },
+  {
+    "idState": "8",
+    "idCity": "66",
+    "nameCity": "São Gabriel da Palha"
+  },
+  {
+    "idState": "8",
+    "idCity": "67",
+    "nameCity": "São José do Calçado"
+  },
+  {
+    "idState": "8",
+    "idCity": "68",
+    "nameCity": "São Mateus"
+  },
+  {
+    "idState": "8",
+    "idCity": "69",
+    "nameCity": "São Roque do Canaã"
+  },
+  {
+    "idState": "8",
+    "idCity": "70",
+    "nameCity": "Serra"
+  },
+  {
+    "idState": "8",
+    "idCity": "71",
+    "nameCity": "Sooretama"
+  },
+  {
+    "idState": "8",
+    "idCity": "72",
+    "nameCity": "Vargem Alta"
+  },
+  {
+    "idState": "8",
+    "idCity": "73",
+    "nameCity": "Venda Nova do Imigrante"
+  },
+  {
+    "idState": "8",
+    "idCity": "74",
+    "nameCity": "Viana"
+  },
+  {
+    "idState": "8",
+    "idCity": "75",
+    "nameCity": "Vila Pavão"
+  },
+  {
+    "idState": "8",
+    "idCity": "76",
+    "nameCity": "Vila Valério"
+  },
+  {
+    "idState": "8",
+    "idCity": "77",
+    "nameCity": "Vila Velha"
+  },
+  {
+    "idState": "8",
+    "idCity": "78",
+    "nameCity": "Vitória"
+  }
+]

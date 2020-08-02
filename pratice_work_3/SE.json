@@ -1,0 +1,377 @@
+[
+  {
+    "idState": "25",
+    "idCity": "5351",
+    "nameCity": "Amparo de São Francisco"
+  },
+  {
+    "idState": "25",
+    "idCity": "5352",
+    "nameCity": "Aquidabã"
+  },
+  {
+    "idState": "25",
+    "idCity": "5353",
+    "nameCity": "Aracaju"
+  },
+  {
+    "idState": "25",
+    "idCity": "5354",
+    "nameCity": "Arauá"
+  },
+  {
+    "idState": "25",
+    "idCity": "5355",
+    "nameCity": "Areia Branca"
+  },
+  {
+    "idState": "25",
+    "idCity": "5356",
+    "nameCity": "Barra dos Coqueiros"
+  },
+  {
+    "idState": "25",
+    "idCity": "5357",
+    "nameCity": "Boquim"
+  },
+  {
+    "idState": "25",
+    "idCity": "5358",
+    "nameCity": "Brejo Grande"
+  },
+  {
+    "idState": "25",
+    "idCity": "5359",
+    "nameCity": "Campo do Brito"
+  },
+  {
+    "idState": "25",
+    "idCity": "5360",
+    "nameCity": "Canhoba"
+  },
+  {
+    "idState": "25",
+    "idCity": "5361",
+    "nameCity": "Canindé de São Francisco"
+  },
+  {
+    "idState": "25",
+    "idCity": "5362",
+    "nameCity": "Capela"
+  },
+  {
+    "idState": "25",
+    "idCity": "5363",
+    "nameCity": "Carira"
+  },
+  {
+    "idState": "25",
+    "idCity": "5364",
+    "nameCity": "Carmópolis"
+  },
+  {
+    "idState": "25",
+    "idCity": "5365",
+    "nameCity": "Cedro de São João"
+  },
+  {
+    "idState": "25",
+    "idCity": "5366",
+    "nameCity": "Cristinápolis"
+  },
+  {
+    "idState": "25",
+    "idCity": "5367",
+    "nameCity": "Cumbe"
+  },
+  {
+    "idState": "25",
+    "idCity": "5368",
+    "nameCity": "Divina Pastora"
+  },
+  {
+    "idState": "25",
+    "idCity": "5369",
+    "nameCity": "Estância"
+  },
+  {
+    "idState": "25",
+    "idCity": "5370",
+    "nameCity": "Feira Nova"
+  },
+  {
+    "idState": "25",
+    "idCity": "5371",
+    "nameCity": "Frei Paulo"
+  },
+  {
+    "idState": "25",
+    "idCity": "5372",
+    "nameCity": "Gararu"
+  },
+  {
+    "idState": "25",
+    "idCity": "5373",
+    "nameCity": "General Maynard"
+  },
+  {
+    "idState": "25",
+    "idCity": "5374",
+    "nameCity": "Gracho Cardoso"
+  },
+  {
+    "idState": "25",
+    "idCity": "5375",
+    "nameCity": "Ilha das Flores"
+  },
+  {
+    "idState": "25",
+    "idCity": "5376",
+    "nameCity": "Indiaroba"
+  },
+  {
+    "idState": "25",
+    "idCity": "5377",
+    "nameCity": "Itabaiana"
+  },
+  {
+    "idState": "25",
+    "idCity": "5378",
+    "nameCity": "Itabaianinha"
+  },
+  {
+    "idState": "25",
+    "idCity": "5379",
+    "nameCity": "Itabi"
+  },
+  {
+    "idState": "25",
+    "idCity": "5380",
+    "nameCity": "Itaporanga d`Ajuda"
+  },
+  {
+    "idState": "25",
+    "idCity": "5381",
+    "nameCity": "Japaratuba"
+  },
+  {
+    "idState": "25",
+    "idCity": "5382",
+    "nameCity": "Japoatã"
+  },
+  {
+    "idState": "25",
+    "idCity": "5383",
+    "nameCity": "Lagarto"
+  },
+  {
+    "idState": "25",
+    "idCity": "5384",
+    "nameCity": "Laranjeiras"
+  },
+  {
+    "idState": "25",
+    "idCity": "5385",
+    "nameCity": "Macambira"
+  },
+  {
+    "idState": "25",
+    "idCity": "5386",
+    "nameCity": "Malhada dos Bois"
+  },
+  {
+    "idState": "25",
+    "idCity": "5387",
+    "nameCity": "Malhador"
+  },
+  {
+    "idState": "25",
+    "idCity": "5388",
+    "nameCity": "Maruim"
+  },
+  {
+    "idState": "25",
+    "idCity": "5389",
+    "nameCity": "Moita Bonita"
+  },
+  {
+    "idState": "25",
+    "idCity": "5390",
+    "nameCity": "Monte Alegre de Sergipe"
+  },
+  {
+    "idState": "25",
+    "idCity": "5391",
+    "nameCity": "Muribeca"
+  },
+  {
+    "idState": "25",
+    "idCity": "5392",
+    "nameCity": "Neópolis"
+  },
+  {
+    "idState": "25",
+    "idCity": "5393",
+    "nameCity": "Nossa Senhora Aparecida"
+  },
+  {
+    "idState": "25",
+    "idCity": "5394",
+    "nameCity": "Nossa Senhora da Glória"
+  },
+  {
+    "idState": "25",
+    "idCity": "5395",
+    "nameCity": "Nossa Senhora das Dores"
+  },
+  {
+    "idState": "25",
+    "idCity": "5396",
+    "nameCity": "Nossa Senhora de Lourdes"
+  },
+  {
+    "idState": "25",
+    "idCity": "5397",
+    "nameCity": "Nossa Senhora do Socorro"
+  },
+  {
+    "idState": "25",
+    "idCity": "5398",
+    "nameCity": "Pacatuba"
+  },
+  {
+    "idState": "25",
+    "idCity": "5399",
+    "nameCity": "Pedra Mole"
+  },
+  {
+    "idState": "25",
+    "idCity": "5400",
+    "nameCity": "Pedrinhas"
+  },
+  {
+    "idState": "25",
+    "idCity": "5401",
+    "nameCity": "Pinhão"
+  },
+  {
+    "idState": "25",
+    "idCity": "5402",
+    "nameCity": "Pirambu"
+  },
+  {
+    "idState": "25",
+    "idCity": "5403",
+    "nameCity": "Poço Redondo"
+  },
+  {
+    "idState": "25",
+    "idCity": "5404",
+    "nameCity": "Poço Verde"
+  },
+  {
+    "idState": "25",
+    "idCity": "5405",
+    "nameCity": "Porto da Folha"
+  },
+  {
+    "idState": "25",
+    "idCity": "5406",
+    "nameCity": "Propriá"
+  },
+  {
+    "idState": "25",
+    "idCity": "5407",
+    "nameCity": "Riachão do Dantas"
+  },
+  {
+    "idState": "25",
+    "idCity": "5408",
+    "nameCity": "Riachuelo"
+  },
+  {
+    "idState": "25",
+    "idCity": "5409",
+    "nameCity": "Ribeirópolis"
+  },
+  {
+    "idState": "25",
+    "idCity": "5410",
+    "nameCity": "Rosário do Catete"
+  },
+  {
+    "idState": "25",
+    "idCity": "5411",
+    "nameCity": "Salgado"
+  },
+  {
+    "idState": "25",
+    "idCity": "5412",
+    "nameCity": "Santa Luzia do Itanhy"
+  },
+  {
+    "idState": "25",
+    "idCity": "5413",
+    "nameCity": "Santa Rosa de Lima"
+  },
+  {
+    "idState": "25",
+    "idCity": "5414",
+    "nameCity": "Santana do São Francisco"
+  },
+  {
+    "idState": "25",
+    "idCity": "5415",
+    "nameCity": "Santo Amaro das Brotas"
+  },
+  {
+    "idState": "25",
+    "idCity": "5416",
+    "nameCity": "São Cristóvão"
+  },
+  {
+    "idState": "25",
+    "idCity": "5417",
+    "nameCity": "São Domingos"
+  },
+  {
+    "idState": "25",
+    "idCity": "5418",
+    "nameCity": "São Francisco"
+  },
+  {
+    "idState": "25",
+    "idCity": "5419",
+    "nameCity": "São Miguel do Aleixo"
+  },
+  {
+    "idState": "25",
+    "idCity": "5420",
+    "nameCity": "Simão Dias"
+  },
+  {
+    "idState": "25",
+    "idCity": "5421",
+    "nameCity": "Siriri"
+  },
+  {
+    "idState": "25",
+    "idCity": "5422",
+    "nameCity": "Telha"
+  },
+  {
+    "idState": "25",
+    "idCity": "5423",
+    "nameCity": "Tobias Barreto"
+  },
+  {
+    "idState": "25",
+    "idCity": "5424",
+    "nameCity": "Tomar do Geru"
+  },
+  {
+    "idState": "25",
+    "idCity": "5425",
+    "nameCity": "Umbaúba"
+  }
+]
