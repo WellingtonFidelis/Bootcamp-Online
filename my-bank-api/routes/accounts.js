@@ -44,4 +44,19 @@ router.get('/', async (request, response) => {
   }
 });
 
+router.get('/:id', async (request, response) => {
+  try {
+    const data = JSON.parse(await fs.readFile(global.fileNameJson));
+    const account = data.accounts.find(
+      (account) => account.id === parseInt(request.params.id)
+    );
+    // request.params.id
+    response.send(account);
+  } catch (error) {
+    response.status(400).send({
+      error: error.message,
+    });
+  }
+});
+
 export default router;
