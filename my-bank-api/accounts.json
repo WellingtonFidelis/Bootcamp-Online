@@ -1,20 +1,15 @@
 {
-  "nextId": 4,
+  "nextId": 17,
   "accounts": [
     {
-      "name": "Guilherme Asthon",
-      "balance": 200,
-      "id": 1
+      "id": 13,
+      "name": "Alura",
+      "balance": 500
     },
     {
-      "id": 2,
-      "name": "Well Mega",
-      "balance": 150
-    },
-    {
-      "id": 3,
-      "name": "Coca-Cola",
-      "balance": 2000
+      "id": 16,
+      "name": "Ivone Maria Jóse",
+      "balance": 0.00251
     }
   ]
 }
