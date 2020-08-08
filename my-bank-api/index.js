@@ -5,6 +5,9 @@ import { promises as fs } from 'fs';
 const { readFile, writeFile } = fs;
 
 const app = express();
+
+global.fileNameJson = 'accounts.json';
+
 app.use(express.json());
 
 app.use('/account', accountsRouter);
@@ -13,7 +16,7 @@ app.use('/account', accountsRouter);
 // verify in the callback if accounts file exists if not exist, create it.
 app.listen(3000, async () => {
   try {
-    await fs.readFile('accounts.json');
+    await fs.readFile(global.fileNameJson);
     console.log('API started! =)');
   } catch (error) {
     const initialJson = {
@@ -21,7 +24,7 @@ app.listen(3000, async () => {
       accounts: [],
     };
 
-    fs.writeFile('accounts.json', JSON.stringify(initialJson))
+    fs.writeFile(global.fileNameJson, JSON.stringify(initialJson, null, 2))
       .then(() => {
         console.log('API started and file created! =)');
       })

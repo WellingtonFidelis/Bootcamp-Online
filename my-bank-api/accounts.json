@@ -1,1 +1,20 @@
-{"nextId":3,"accounts":[{"name":"Guilherme Asthon","balance":200,"id":1},{"id":2,"name":"Well Mega","balance":150}]}
+{
+  "nextId": 4,
+  "accounts": [
+    {
+      "name": "Guilherme Asthon",
+      "balance": 200,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Well Mega",
+      "balance": 150
+    },
+    {
+      "id": 3,
+      "name": "Coca-Cola",
+      "balance": 2000
+    }
+  ]
+}
