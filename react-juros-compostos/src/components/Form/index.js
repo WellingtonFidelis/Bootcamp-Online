@@ -5,7 +5,19 @@ import './styles.css';
 export default function Form() {
   const [initialMontant, setInitialMontant] = React.useState(100);
   const [interestRates, setInterestRates] = React.useState(0);
-  const [monthPeriod, setMonthPeriod] = React.useState(1);
+  const [monthPeriod, setMonthPeriod] = React.useState(0);
+
+  const [result, setResult] = React.useState([]);
+
+  React.useEffect(() => {
+    /*
+    
+      parei aqui, falta 
+      [] mostrar os cards de acordo com a quantidade de meses
+      [] mostrar, nos cards, o resultado, a rentabilidade e a % da rentabilidade
+    
+    */
+  }, [initialMontant, interestRates, monthPeriod]);
 
   const handleGetInitialMontant = ({ target }) => {
     let newInitialMontant = Number(target.value);
@@ -20,9 +32,12 @@ export default function Form() {
   const handleGetMonthPeriod = ({ target }) => {
     let newMonthPeriod = Number(target.value);
     setMonthPeriod(newMonthPeriod);
+
+    setResult(calculateInterestCompound());
+    console.log(result);
   };
 
-  React.useEffect(() => {
+  const calculateInterestCompound = () => {
     let resultOfInterestCompost = 0;
     let value = initialMontant;
     let rate = interestRates / 100;
@@ -32,14 +47,20 @@ export default function Form() {
     // M = C (1+i)t
     console.log(resultOfInterestCompost.toFixed(2) + '  result');
 
-    /*
-    
-      parei aqui, falta 
-      [] mostrar os cards de acordo com a quantidade de meses
-      [] mostrar, nos cards, o resultado, a rentabilidade e a % da rentabilidade
-    
-    */
-  }, [initialMontant, interestRates, monthPeriod]);
+    let newResult = [...result];
+
+    for (let i = 1; i < period; i++) {
+      newResult.push({
+        idMonth: i,
+        result: resultOfInterestCompost,
+        rentability: resultOfInterestCompost - value,
+        percentRentability:
+          ((resultOfInterestCompost - value) / resultOfInterestCompost) * 100,
+      });
+    }
+
+    return newResult;
+  };
 
   return (
     <>
@@ -50,7 +71,9 @@ export default function Form() {
         <form action="">
           <div className="row lineInputs">
             <div className="form-group col-md-4">
-              <label htmlFor="inputInitalMontant">Montante inicial</label>
+              <label htmlFor="inputInitalMontant" className="font-weight-bold">
+                Montante inicial
+              </label>
               <input
                 type="number"
                 name="inputInitalMontant"
@@ -62,7 +85,9 @@ export default function Form() {
               />
             </div>
             <div className="form-group col-md-4">
-              <label htmlFor="inputInterestRates">Taxa de Juros Mensal</label>
+              <label htmlFor="inputInterestRates" className="font-weight-bold">
+                Taxa de Juros Mensal
+              </label>
               <input
                 type="number"
                 name="inputInterestRates"
@@ -75,7 +100,9 @@ export default function Form() {
               />
             </div>
             <div className="form-group col-md-4">
-              <label htmlFor="inputMonthPeriods">Periódos (Meses)</label>
+              <label htmlFor="inputMonthPeriods" className="font-weight-bold">
+                Periódos (Meses)
+              </label>
               <input
                 type="number"
                 name="inputMonthPeriods"
@@ -88,12 +115,22 @@ export default function Form() {
             </div>
           </div>
         </form>
-        <div className="container">
-          <div>
-            <p>total</p>
-            <p>rentabilidade</p>
-            <p>% rentabilidade</p>
-          </div>
+        <div className="container" style={{ marginTop: '30px' }}>
+          {result.map(
+            ({ result, rentability, percentRentability, idMonth }) => {
+              return (
+                monthPeriod > 0 && (
+                  <div key={idMonth} className="d-inline-flex">
+                    <div className="p-2 bd-highlight cards-results">
+                      <p>Total: ${result.toFixed(2)}</p>
+                      <p>Rent: ${rentability.toFixed(2)}</p>
+                      <p>%: ${percentRentability.toFixed(2)}</p>
+                    </div>
+                  </div>
+                )
+              );
+            }
+          )}
         </div>
       </div>
     </>
