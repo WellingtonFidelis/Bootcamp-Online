@@ -18,13 +18,10 @@ const create = async (request, response) => {
 };
 // search all documents
 const findAll = async (request, response) => {
+  const data = BankApi.find();
   try {
-    const data = await BankApi.find();
-    if (!data) {
-      response.status(404).send('Nada encontrado!');
-    } else {
-      response.send(data);
-    }
+    const data = await account.save();
+    response.send(data);
   } catch (error) {
     response.status(500).send('Erro ao buscar todos os documentos ' + error);
   }

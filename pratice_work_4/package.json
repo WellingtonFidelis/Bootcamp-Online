@@ -13,7 +13,6 @@
     "dotenv": "^8.2.0",
     "envp": "^1.0.1",
     "express": "^4.17.1",
-    "mongodb": "^3.6.0",
     "mongoose": "^5.10.2"
   },
   "type": "module"
