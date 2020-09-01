@@ -6,7 +6,7 @@ import { db } from './models/index.js';
 
 // const MongoClient = require('mongodb').MongoClient;
 // const uri =
-//   'mongodb+srv://root:M1poGAungRgRGQaO@db-test.d2yw0.mongodb.net/bank_account?retryWrites=true&w=majority';
+//   'mongodb+srv://root:<<<<PASSWORD>>>>@<<CLUSTER>>.d2yw0.mongodb.net/<<<DB-NAME>>>?retryWrites=true&w=majority';
 // const client = new MongoClient(uri, {
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
